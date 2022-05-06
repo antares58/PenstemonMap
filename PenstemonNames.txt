@@ -4,6 +4,7 @@ Penstemon antirrhinoides|Latin|PL0001
 Chaparral Penstemon|English|PL0001, PL0002
 Chaparral Beardtongue|English|PL0001, PL0002
 Snapdragon Penstemon|English|PL0001, PL0002
+Snapdragon Beardtongue|English|PL0001, PL0002
 Chaparral Bush-beardtongue|English|PL0001
 Keckiella antirrhinoides microphylla|Latin|PL0002
 Penstemon antirrhinoides microphyllus|Latin|PL0002
@@ -11,12 +12,8 @@ Penstemon antirrhinoides microphylla|Latin|PL0002
 Penstemon microphyllus|Latin|PL0002
 Bush Penstemon|English|PL0002,PL0003,PL0006,PL0138
 Bush Beardtongue|English|PL0002,PL0003,PL0006,PL0138
-Littleleaved Chaparral Penstemon|English|PL0002
 Little-leaved Chaparral Penstemon|English|PL0002
-Little Leaved Chaparral Penstemon|English|PL0002
-Littleleaved Chaparral BeardTongue|English|PL0002
 Little-leaved Chaparral BeardTongue|English|PL0002
-Little Leaved Chaparral BeardTongue|English|PL0002
 Yellow Bush Penstemon|English|PL0002
 Yellow Bush Beardtongue|English|PL0002
 Keckiella breviflora|Latin|PL0003
@@ -25,29 +22,18 @@ Gaping Bush-beardtongue|English|PL0003
 Gaping Penstemon|English|PL0003
 Keckiella cordifolia|Latin|PL0004
 Penstemon cordifolius|Latin|PL0004
-Heartleaf Keckiella|English|PL0004
 Heart-leaf Keckiella|English|PL0004
-Heart Leaf Keckiella|English|PL0004
-Heartleaf Bush-beardtongue|English|PL0004
 Heart-leaf Bush-beardtongue|English|PL0004
-Heart Leaf Bush-beardtongue|English|PL0004
-Heart-leaf Bush Beardtongue|English|PL0004
-Heartleaf Bush Beardtongue|English|PL0004
-Heart Leaf Bush Beardtongue|English|PL0004
 Climbing Penstemon|English|PL0004
 Climbing Beardtongue|English|PL0004
-Heartleaf Penstemon|English|PL0004
 Heart-leaf Penstemon|English|PL0004
-Heart leaf Penstemon|English|PL0004
-Heartleaf Beardtongue|English|PL0004
 Heart-leaf Beardtongue|English|PL0004
-Heart leaf Beardtongue|English|PL0004
 Keckiella corymbosa|Latin|PL0005
 Penstemon corymbosus|Latin|PL0005
 Red Shrubby Penstemon|English|PL0005
 Red Shrubby Beardtongue|English|PL0005
 Redwood Keckiella|English|PL0005
-Keckiella lemmoniiLatin|PL0006
+Keckiella lemmonii|Latin|PL0006
 Penstemon lemmonii|Latin|PL0006
 Lemmon's Penstemon|English|PL0006
 Lemmon's Beardtongue|English|PL0006
@@ -57,7 +43,6 @@ Shrubby Penstemon|English|PL0006,PL0138,PL0139,PL0140
 Shrubby Beardtongue|English|PL0006,PL0138,PL0139,PL0140
 Keckiella rothrockii jacintensis|Latin|PL0007
 Penstemon rothrockii jacintensis|Latin|PL0007
-Rothrock's Bush Beardtongue|English|PL0007,PL0008
 Rothrock's Bush-beardtongue|English|PL0007,PL0008
 Rothrock's Keckiella|English|PL0007,PL0008
 Rothrock's Penstemon|English|PL0007,PL0008
@@ -66,16 +51,12 @@ San Jacinto Mountains Keckiella|English|PL0007
 Keckiella rothrockii rothrockii|Latin|PL0008
 Penstemon rothrockii|Latin|PL0008
 Nothochelone nemorosa|Latin|PL0009
-Penstemon nemorosus|LatinPL0009
+Penstemon nemorosus|Latin|PL0009
 Woodland Beardtongue|English|PL0009
 Woodland Penstemon|English|PL0009
 Penstemon abietinus|Latin|PL0010
-Firleaf Penstemon|English|PL0010
 Fir-leaf Penstemon|English|PL0010
-Fir Leaf Penstemon|English|PL0010
-Firleaf Beardtongue|English|PL0010
 Fir-leaf Beardtongue|English|PL0010
-Fir Leaf Beardtongue|English|PL0010
 Penstemon absarokensis|Latin|PL0011
 Absaroka Penstemon|English|PL0011
 Absaroka Beardtongue|English|PL0011
@@ -85,16 +66,10 @@ Penstemon acaulis|Latin|PL0012
 Stemless Penstemon|English|PL0012
 Stemless Beardtongue|English|PL0012
 Penstemon acuminatus acuminatus|Latin|PL0013
-Sand-dune Beardtongue|English|PL0013,PL0014
-Sand Dune Beardtongue|English|PL0013,PL0014
-Sand-dune Penstemon|English|PL0013,PL0014
-Sand Dune Penstemon|English|PL0013,PL0014
-Sharpleaf Penstemon|English|PL0013,PL0014
+Sand-dune Beardtongue|English|PL0013,PL0014,PL0029
+Sand-dune Penstemon|English|PL0013,PL0014,PL0029
 Sharp-leaf Penstemon|English|PL0013,PL0014
-Sharp Leaf Penstemon|English|PL0013,PL0014
-Sharpleaf Beardtongue|English|PL0013,PL0014
 Sharp-leaf Beardtongue|English|PL0013,PL0014
-Sharp Leaf Beardtongue|English|PL0013,PL0014
 Penstemon acuminatus latebracteatus|Latin|PL0014
 Penstemon alamosensis|Latin|PL0015
 Los Alamos Penstemon|English|PL0015
@@ -128,46 +103,31 @@ Pink Plains Penstemon|English|PL0021
 Penstemon ammophilus|Latin|PL0022
 Canaan Mountain Penstemon|English|PL0022
 Canaan Mountain Beardtongue|English|PL0022
-Sandloving Penstemon|English|PL0022
 Sand-loving Penstemon|English|PL0022
-Sand Loving Penstemon|English|PL0022
+Sand-loving Beardtongue|English|PL0022
 Penstemon anguineus|Latin|PL0023
 Penstemon rattanii minor|Latin|PL0023
 Siskiyou Penstemon|English|PL0023
 Siskiyou Beardtongue|English|PL0023
 Penstemon angustifolius angustifolius|Latin|PL0024
-Broadbeard Penstemon|English|PL0024,PL0025,PL0026,PL0027,PL0028
 Broad-beard Penstemon|English|PL0024,PL0025,PL0026,PL0027,PL0028
-Broad Beard Penstemon|English|PL0024,PL0025,PL0026,PL0027,PL0028
-Broadbeard Beardtongue|English|PL0024,PL0025,PL0026,PL0027,PL0028
 Broad-beard Beardtongue|English|PL0024,PL0025,PL0026,PL0027,PL0028
-Broad Beard Beardtongue|English|PL0024,PL0025,PL0026,PL0027,PL0028
 Penstemon angustifolius caudatus|Latin|PL0025
 Penstemon caudatus|Latin|PL0025
-Narrowleaf Penstemon|English|PL0025
 Narrow-leaf Penstemon|English|PL0025
-Narrow Leaf Penstemon|English|PL0025
-Narrowleaf Beardtongue|English|PL0025
 Narrow-leaf Beardtongue|English|PL0025
-Narrow Leaf Beardtongue|English|PL0025
 Penstemon angustifolius dulcis|Latin|PL0026
 Sweet Penstemon|English|PL0026
 Sweet Beardtongue|English|PL0026
 Penstemon angustifolius venosus|Latin|PL0027
 Penstemon venosus|Latin|PL0027
 Penstemon angustifolius vernalensis|Latin|PL0028
-Vernal Narrowleaf Penstemon|English|PL0028
 Vernal Narrow-leaf Penstemon|English|PL0028
-Vernal Narrow Leaf Penstemon|English|PL0028
-Vernal Narrowleaf Beardtongue|English|PL0028
 Vernal Narrow-leaf Beardtongue|English|PL0028
-Vernal Narrow Leaf Beardtongue|English|PL0028
 Penstemon arenarius|Latin|PL0029
 Penstemon maguirei|Latin|PL0029
 Nevada Sand-dune Penstemon|English|PL0029
 Nevada Sand-dune Beardtongue|English|PL0029
-Sand-dune Penstemon|English|PL0029
-Sand-dune Beardtongue|English|PL0029
 Nevada Dune Penstemon|English|PL0029
 Nevada Dune Beardtongue|English|PL0029
 Penstemon arenicola|Latin|PL0030
@@ -176,12 +136,8 @@ Red Desert Beardtongue|English|PL0030
 Sand Penstemon|English|PL0030,PL0328
 Sand Beardtongue|English|PL0030,PL0328
 Penstemon aridus|Latin|PL0031
-Stiffleaf Beardtongue|English|PL0031
 Stiff-leaf Beardtongue|English|PL0031
-Stiff Leaf Beardtongue|English|PL0031
-Stiffleaf Penstemon|English|PL0031
 Stiff-leaf Penstemon|English|PL0031
-Stiff Leaf Penstemon|English|PL0031
 Penstemon arkansanus|Latin|PL0032
 Penstemon multicaulis|Latin|PL0032
 Penstemon pallidus arkansanus|Latin|PL0032
@@ -192,12 +148,8 @@ Penstemon attenuatus attenuatus|Latin|PL0033
 Penstemon nelsoniae|Latin|PL0033
 Sulphur Penstemon|English|PL0033,PL0035
 Sulphur Beardtongue|English|PL0033,PL0035
-Taperleaf Penstemon|English|PL0033
 Taper-leaf Penstemon|English|PL0033
-Taper Leaf Penstemon|English|PL0033
-Taperleaf Beardtongue|English|PL0033
 Taper-leaf Beardtongue|English|PL0033
-Taper Leaf Beardtongue|English|PL0033
 Penstemon attenuatus militaris|Latin|PL0034
 Penstemon assurgens|Latin|PL0034
 South Idaho Beardtongue|English|PL0034
@@ -227,21 +179,14 @@ Penstemon azureus azureus|Latin|PL0041
 Penstemon baccharifolius|Latin|PL0042
 Rock Penstemon|English|PL0042
 Rock Beardtongue|English|PL0042
-Cutleaf Penstemon|English|PL0042,PL0289,PL0290
 Cut-leaf Penstemon|English|PL0042,PL0289,PL0290
-Cut Leaf Penstemon|English|PL0042,PL0289,PL0290
-Cut Leaf Beardtongue|English|PL0042,PL0289,PL0290
-Cutleaf Beardtongue|English|PL0042,PL0289,PL0290
 Cut-leaf Beardtongue|English|PL0042,PL0289,PL0290
 Baccharis-leaf Penstemon|English|PL0042
-Baccharis Leaf Penstemon|English|PL0042
 Baccharis-leaf Beardtongue|English|PL0042
-Baccharis Leaf Beardtongue|English|PL0042
 Penstemon barbatus barbatus|Latin|PL0043
 Penstemon barbatus puberulus|Latin|PL0043
-Beardlip Penstemon|English|PL0043,PL0045
 Beard-lip Penstemon|English|PL0043,PL0045
-Beard Lip Penstemon|English|PL0043,PL0045
+Beard-lip Beardtongue|English|PL0043,PL0045
 Penstemon barbatus torreyi|Latin|PL0044
 Penstemon torreyi|Latin|PL0044
 Torrey's Penstemon|English|PL0044
@@ -266,18 +211,10 @@ Red Canyon Penstemon|English|PL0051
 Red Canyon Beardtongue|English|PL0051
 Penstemon breviculus|Latin|PL0052
 Penstemon jamesii breviculus|Latin|PL0052
-Shortstem Beardtongue|English|PL0052
 Short-stem Beardtongue|English|PL0052
-Short Stem Beardtongue|English|PL0052
 Short-stem Penstemon|English|PL0052
-Shortstem Penstemon|English|PL0052
-Short-stem Penstemon|English|PL0052
-Narrowmouth Penstemon|English|PL0052
 Narrow-mouth Penstemon|English|PL0052
-Narrow Mouth Penstemon|English|PL0052
-Narrowmouth Beardtongue|English|PL0052
 Narrow-mouth Beardtongue|English|PL0052
-Narrow Mouth Beardtongue|English|PL0052
 Little Penstemon|English|PL0052
 Little Beardtongue|English|PL0052
 Penstemon brevisepalus|Latin|PL0053
@@ -313,12 +250,8 @@ San Jacinto Penstemon|English|PL0062,PL0074
 San Jacinto Beardtongue|English|PL0062,PL0074
 Penstemon calycosus|Latin|PL0063
 Penstemon laevigatus calycosus|Latin|PL0063
-Longsepal Penstemon|English|PL0063
 Long-sepal Penstemon|English|PL0063
-Long Sepal Penstemon|English|PL0063
-Longsepal Beardtongue|English|PL0063
 Long-sepal Beardtongue|English|PL0063
-Long Sepal Beardtongue|English|PL0063
 Penstemon canescens|Latin|PL0064
 Penstemon brittoniorum|Latin|PL0064
 Penstemon canescens brittoniorum|Latin|PL0064
@@ -335,6 +268,7 @@ Cardwell's Penstemon|English|PL0067
 Cardwell's Beardtongue|English|PL0067
 Penstemon carnosus|Latin|PL0068
 Fleshy Beardtongue|English|PL0068
+Fleshy Penstemon|English|PL0068
 Penstemon caryi|Latin|PL0069
 Cary's Penstemon|English|PL0069
 Cary's Beardtongue|English|PL0069
@@ -404,7 +338,7 @@ Penstemon glabrescens|Latin|PL0086
 Penstemon coloradoensis glabrescens|Latin|PL0086
 Penstemon crandallii procumbens|Latin|PL0087
 Penstemon procumbens|Latin|PL0087
-Penstemoni crandallii ramaleyi|Latin|PL0088
+Penstemon crandallii ramaleyi|Latin|PL0088
 Penstemon ramaleyi|Latin|PL0088
 Penstemon crandallii taosensis|Latin|PL0089
 Penstemon linarioides taosensis|Latin|PL0089
@@ -427,12 +361,8 @@ Blue Beardtongue|English|PL0093,PL0144
 Dark Blue Penstemon|English|PL0093
 Dark Blue Beardtongue|English|PL0093
 Penstemon cyanocaulis|Latin|PL0094
-Bluestem Beardtongue|English|PL0094
 Blue-stem Beardtongue|English|PL0094
-Blue Stem Beardtongue|English|PL0094
-Bluestem Penstemon|English|PL0094
 Blue-stem Penstemon|English|PL0094
-Blue Stem Penstemon|English|PL0094
 Penstemon cyathophorus|Latin|PL0095
 Middle Park Penstemon|English|PL0095
 Middle Park Beardtongue|English|PL0095
@@ -466,8 +396,8 @@ Penstemon deaveri|Latin|PL0101
 Penstemon virgatus arizonicus|Latin|PL0101
 Deaver’s Penstemon|English|PL0101
 Deaver’s Beardtongue|English|PL0101
-Mt. Graham Penstemon|English|PL0101
-Mt. Graham Beardtongue|English|PL0101
+Mount Graham Penstemon|English|PL0101
+Mount Graham Beardtongue|English|PL0101
 Penstemon debilis|Latin|PL0102
 Parachute Penstemon|English|PL0102
 Parachute Beardtongue|English|PL0102
@@ -548,12 +478,8 @@ Penstemon fendleri|Latin|PL0126
 Fendler's Penstemon|English|PL0126
 Fendler's Beardtongue|English|PL0126
 Penstemon filiformis|Latin|PL0127
-Threadleaf Penstemon|English|PL0127
 Thread-leaf Penstemon|English|PL0127
-Thread Leaf Penstemon|English|PL0127
-Threadleaf Beardtongue|English|PL0127
 Thread-leaf Beardtongue|English|PL0127
-Thread Leaf Beardtongue|English|PL0127
 Penstemon flavescens|Latin|PL0128
 Greater Yellow Penstemon|English|PL0128
 Greater Yellow Beardtongue|English|PL0128
@@ -594,31 +520,11 @@ Penstemon fruticosus fruticosus|Latin|PL0138
 Penstemon fruticosus scouleri|Latin|PL0139
 Penstemon fruticosus albus|Latin|PL0139
 Penstemon scouleri|Latin|PL0139
-Littleleaf Bush Penstemon|English|PL0139
-Little-leaf Bush Penstemon|English|PL0139
-Little Leaf Bush Penstemon|English|PL0139
-Littleleaf Bush Beardtongue|English|PL0139
-Little-leaf Bush Beardtongue|English|PL0139
-Little Leaf Bush Beardtongue|English|PL0139
-Littleleaf Bush-penstemon|English|PL0139
 Little-leaf Bush-penstemon|English|PL0139
-Little Leaf Bush-penstemon|English|PL0139
-Littleleaf Bush-beardtongue|English|PL0139
 Little-leaf Bush-beardtongue|English|PL0139
-Little Leaf Bush-beardtongue|English|PL0139
 Penstemon fruticosus serratus|Latin|PL0140
-Sawleaf Bush Penstemon|English|PL0140
-Saw-leaf Bush Penstemon|English|PL0140
-Saw Leaf Bush Penstemon|English|PL0140
-Sawleaf Bush Beardtongue|English|PL0140
-Saw-leaf Bush Beardtongue|English|PL0140
-Saw Leaf Bush Beardtongue|English|PL0140
-Sawleaf Bush-penstemon|English|PL0140
 Saw-leaf Bush-penstemon|English|PL0140
-Saw Leaf Bush-penstemon|English|PL0140
-Sawleaf Bush-beardtongue|English|PL0140
 Saw-leaf Bush-beardtongue|English|PL0140
-Saw Leaf Bush-beardtongue|English|PL0140
 Penstemon gairdneri gairdneri|Latin|PL0141
 Penstemon gairdneri hians|Latin|PL0141
 Gairdner's Penstemon|English|PL0141,PL0142
@@ -629,12 +535,8 @@ Penstemon gibbensii|Latin|PL0143
 Gibbens's Penstemon|English|PL0143
 Gibbens’s Beardtongue|English|PL0143
 Penstemon glaber alpinus|Latin|PL0144
-Alpine Sawsepal Penstemon|English|PL0144
 Alpine Saw-sepal Penstemon|English|PL0144
-Alpine Saw Sepal Penstemon|English|PL0144
-Alpine Sawsepal Beardtongue|English|PL0144
 Alpine Saw-sepal Beardtongue|English|PL0144
-Alpine Saw Sepal Beardtongue|English|PL0144
 Alpine Penstemon|English|PL0144
 Alpine Beardtongue|English|PL0144
 Penstemon glaber brandegeei|Latin|PL0145
@@ -644,29 +546,17 @@ Brandegee's Beardtongue|English|PL0145
 Brandegee's Penstemon|English|PL0145
 Penstemon glaber glaber|Latin|PL0146
 Penstemon alpinus magnus|Latin|PL0146
-Sawsepal Penstemon|English|PL0146
 Saw-sepal Penstemon|English|PL0146
-Saw Sepal Penstemon|English|PL0146
-Sawsepal Beardtongue|English|PL0146
 Saw-sepal Beardtongue|English|PL0146
-Saw Sepal Beardtongue|English|PL0146
 Penstemon glabrescens glabrescens|Latin|PL0147
 Penstemon crandallii glabrescens|Latin|PL0147
 Penstemon glandulosus chelanensis|Latin|PL0148
-Stickystem Penstemon|English|PL0148,PL0149
 Sticky-stem Penstemon|English|PL0148,PL0149
-Sticky Stem Penstemon|English|PL0148,PL0149
-Stickystem Beardtongue|English|PL0148,PL0149
 Sticky-stem Beardtongue|English|PL0148,PL0149
-Sticky Stem Beardtongue|English|PL0148,PL0149
 Penstemon glandulosus glandulosus|Latin|PL0149
 Penstemon glaucinus|Latin|PL0150
-Blueleaf Penstemon|English|PL0150
 Blue-leaf Penstemon|English|PL0150
-Blue Leaf Penstemon|English|PL0150
-Blueleaf Beardtongue|English|PL0150
 Blue-leaf Beardtongue|English|PL0150
-Blue Leaf Beardtongue|English|PL0150
 Penstemon globosus|Latin|PL0151
 Globe Penstemon|English|PL0151
 Globe Beardtongue|English|PL0151
@@ -683,12 +573,8 @@ Yukon Beardtongue|English|PL0153
 Penstemon gracilentus|Latin|PL0154
 Slender Beardtongue|English|PL0154,PL0156
 Slender Penstemon|English|PL0154,PL0156
-Slimstem Beardtongue|English|PL0154
 Slim-stem Beardtongue|English|PL0154
-Slim Stem Beardtongue|English|PL0154
-Slimstem Penstemon|English|PL0154
 Slim-stem Penstemon|English|PL0154
-Slim Stem Penstemon|English|PL0154
 Penstemon gracilis gracilis|Latin|PL0155
 Penstemon glaucus|Latin|PL0155
 Lilac Penstemon|English|PL0155
@@ -751,12 +637,8 @@ Foothill Beardtongue|English|PL0170,PL0171
 Southern Foothill Penstemon|English|PL0170
 Southern Foothill Beardtongue|English|PL0170
 Penstemon heterophyllus heterophyllus|Latin|PL0171
-Bunchleaf Beardtongue|English|PL0171
 Bunch-leaf Beardtongue|English|PL0171
-Bunch Leaf Beardtongue|English|PL0171
-Bunchleaf Penstemon|English|PL0171
 Bunch-leaf Penstemon|English|PL0171
-Bunch Leaf Penstemon|English|PL0171
 Penstemon heterophyllus purdyi|Latin|PL0172
 Penstemon spinulosus|Latin|PL0172
 Purdy's Penstemon|English|PL0172
@@ -827,19 +709,11 @@ Penstemon laevis|Latin|PL0190
 Southwestern Penstemon|English|PL0190
 Southwestern Beardtongue|English|PL0190
 Penstemon lanceolatus|Latin|PL0191
-Lanceleaf Penstemon|English|PL0191,PL0284
 Lance-leaf Penstemon|English|PL0191,PL0284
-Lance Leaf Penstemon|English|PL0191,PL0284
-Lanceleaf Beardtongue|English|PL0191,PL0284
 Lance-leaf Beardtongue|English|PL0191,PL0284
-Lance Leaf Beardtongue|English|PL0191,PL0284
 Penstemon laricifolius exilifolius|Latin|PL0192
-Larchleaf Beardtongue|English|PL0192,PL0193
 Larch-leaf Beardtongue|English|PL0192,PL0193
-Larch Leaf Beardtongue|English|PL0192,PL0193
-Larchleaf Penstemon|English|PL0192,PL0193
 Larch-leaf Penstemon|English|PL0192,PL0193
-Larch Leaf Penstemon|English|PL0192,PL0193
 Penstemon laricifolius laricifolius|Latin|PL0193
 Penstemon laxiflorus|Latin|PL0194
 Penstemon australis laxiflorus|Latin|PL0194
@@ -847,9 +721,7 @@ Penstemon australis ameles|Latin|PL0194
 Nodding Penstemon|English|PL0194
 Nodding Beardtongue|English|PL0194
 Loose-flowered Penstemon|English|PL0194
-Loose Flowered Penstemon|English|PL0194
 Loose-flowered Beardtongue|English|PL0194
-Loose Flowered Beardtongue|English|PL0194
 Penstemon laxus|Latin|PL0195
 Penstemon watsonii laxus|Latin|PL0195
 Lax Penstemon|English|PL0195
@@ -860,12 +732,8 @@ Tufted Penstemon|English|PL0195
 Tufted Beardtongue|English|PL0195
 Penstemon leiophyllus francisci-pennellii|Latin|PL0196
 Penstemon francisci-pennellii|Latin|PL0196
-Smoothleaf Penstemon|English|PL0196,PL0198
 Smooth-leaf Penstemon|English|PL0196,PL0198
-Smooth Leaf Penstemon|English|PL0196,PL0198
-Smoothleaf Beardtongue|English|PL0196,PL0198
 Smooth-leaf Beardtongue|English|PL0196,PL0198
-Smooth Leaf Beardtongue|English|PL0196,PL0198
 Pennell's Penstemon|English|PL0196
 Pennell's Beardtongue|English|PL0196
 Penstemon leiophyllus keckii|Latin|PL0197
@@ -907,12 +775,8 @@ Siler's Beardtongue|English|PL0210
 Siler’s Penstemon|English|PL0210
 Penstemon longiflorus|Latin|PL0211
 Penstemon cyananthus longiflorus|Latin|PL0211
-Longflower Beardtongue|English|PL0211
 Long-flower Beardtongue|English|PL0211
-Long Flower Beardtongue|English|PL0211
-Longflower Penstemon|English|PL0211
 Long-flower Penstemon|English|PL0211
-Long Flower Penstemon|English|PL0211
 Penstemon lyallii|Latin|PL0212
 Penstemon menziesii lyallii|Latin|PL0212
 Lyall's Penstemon|English|PL0212
@@ -971,12 +835,8 @@ Scarlet Penstemon|English|PL0225
 Scarlet Beardtongue|English|PL0225
 Red Penstemon|English|PL0225
 Red Beardtongue|English|PL0225
-Cupleaf Penstemon|English|PL0225
 Cup-leaf Penstemon|English|PL0225
-Cup Leaf Penstemon|English|PL0225
 Cup-leaf Beardtongue|English|PL0225
-Cup Leaf Beardtongue|English|PL0225
-Cupleaf Beardtongue|English|PL0225
 Penstemon nanus|Latin|PL0226
 Dwarf Penstemon|English|PL0226
 Dwarf Beardtongue|English|PL0226
@@ -1007,12 +867,8 @@ Penstemon sonomensis|Latin|PL0232
 Sonoma Beardtongue|English|PL0232
 Sonoma Penstemon|English|PL0232
 Penstemon nitidus nitidus|Latin|PL0233
-Waxleaf Beardtongue|English|PL0233,PL0234
 Wax-leaf Beardtongue|English|PL0233,PL0234
-Waxleaf Beardtongue|English|PL0233,PL0234
-Wax Leaf Penstemon|English|PL0233,PL0234
 Wax-leaf Penstemon|English|PL0233,PL0234
-Wax Leaf Penstemon|English|PL0233,PL0234
 Penstemon nitidus polyphyllus|Latin|PL0234
 Penstemon nudiflorus|Latin|PL0235
 Flagstaff Penstemon|English|PL0235
@@ -1034,19 +890,15 @@ Penstemon osterhoutii|Latin|PL0239
 Osterhout's Penstemon|English|PL0239
 Osterhout's Beardtongue|English|PL0239
 Penstemon ovatus|Latin|PL0240
-Eggleaf Penstemon|English|PL0240
-Eggleaf Beardtongue|English|PL0240
+Egg-leaf Penstemon|English|PL0240
+Egg-leaf Beardtongue|English|PL0240
 Ovate-leaf Penstemon|English|PL0240
 Ovate Leaf Beardtongue|English|PL0240
 Ovate-leaf Penstemon|English|PL0240
 Ovate Leaf Beardtongue|English|PL0240
 Penstemon pachyphyllus congestus|Latin|PL0241
 Penstemon congestus|Latin|PL0241
-Thick Leaf Penstemon|English|PL0241,PL0243
-Thickleaf Penstemon|English|PL0241,PL0243
 Thick-leaf Penstemon|English|PL0241,PL0243
-Thick Leaf Beardtongue|English|PL0241,PL0243
-Thickleaf Beardtongue|English|PL0241,PL0243
 Thick-leaf Beardtongue|English|PL0241,PL0243
 Penstemon pachyphyllus mucronatus|Latin|PL0242
 Penstemon mucronatus|Latin|PL0242
@@ -1115,13 +967,9 @@ Penstemon minidokanus|Latin|PL0261
 Minidoka Penstemon|English|PL0261
 Minidoka Beardtongue|English|PL0261
 Penstemon personatus|Latin|PL0262
-Closed Throated Beardtongue|English|PL0262
 Closed-throated Beardtongue|English|PL0262
-Closed Throated Penstemon|English|PL0262
 Closed-throated Penstemon|English|PL0262
-Closed Lip Beardtongue|English|PL0262
 Closed-lip Beardtongue|English|PL0262
-Closed Lip Penstemon|English|PL0262
 Closed-lip Penstemon|English|PL0262
 Penstemon petiolatus|Latin|PL0263
 Crevice Penstemon|English|PL0263
@@ -1132,9 +980,7 @@ Petiolate Penstemon|English|PL0263
 Petiolate Beardtongue|English|PL0263
 Penstemon pinifolius|Latin|PL0264
 Pine-needle Penstemon|English|PL0264
-Pine Needle Penstemon|English|PL0264
 Pine-needle Beardtongue|English|PL0264
-Pine Needle Beardtongue|English|PL0264
 Penstemon pinorum|Latin|PL0265
 Pine Valley Beardtongue|English|PL0265
 Pine Valley Penstemon|English|PL0265
@@ -1142,45 +988,25 @@ Pinewoods Beardtongue|English|PL0265
 Pinewoods Penstemon|English|PL0265
 Penstemon platyphyllus|Latin|PL0266
 Penstemon heterophyllus latifolius|Latin|PL0266
-Broad Leaf Beardtongue|English|PL0266
 Broad-leaf Beardtongue|English|PL0266
-Broadleaf Beardtongue|English|PL0266
-Broad Leaf Penstemon|English|PL0266
 Broad-leaf Penstemon|English|PL0266
-Broadleaf Penstemon|English|PL0266
 Penstemon pratensis|Latin|PL0267
-Western Whiteflower Penstemon|English|PL0267
 Western White-flower Penstemon|English|PL0267
-Western White Flower Penstemon|English|PL0267
-Western Whiteflower Beardtongue|English|PL0267
 Western White-flower Beardtongue|English|PL0267
-Western White Flower Beardtongue|English|PL0267
 Penstemon procerus aberrans|Latin|PL0268
 Penstemon confertus aberrans|Latin|PL0268
 Pincushion Penstemon|English|PL0268,PL0269,PL0270,PL0271,PL0272
 Pincushion Beardtongue|English|PL0268,PL0269,PL0270,PL0271,PL0272
-Smallflowered Penstemon|English|PL0268,PL0269,PL0272,PL0273,PL0334
 Small-flowered Penstemon|English|PL0268,PL0269,PL0272,PL0273,PL0334
-Small Flowered Penstemon|English|PL0268,PL0269,PL0272,PL0273,PL0334
-Smallflowered Beardtongue|English|PL0268,PL0269,PL0272,PL0273,PL0334
 Small-flowered Beardtongue|English|PL0268,PL0269,PL0272,PL0273,PL0334
-Small Flowered Beardtongue|English|PL0268,PL0269,PL0272,PL0273,PL0334
-Littleflower Penstemon|English|PL0268,PL0269
 Little-flower Penstemon|English|PL0268,PL0269
-Little Flower Penstemon|English|PL0268,PL0269
-Littleflower Beardtongue|English|PL0268,PL0269
 Little-flower Beardtongue|English|PL0268,PL0269
-Little Flower Beardtongue|English|PL0268,PL0269
 Penstemon procerus brachyanthus|Latin|PL0269,PL0269
 Penstemon tolmiei brachyanthus|Latin|PL0269,PL0269
 Penstemon procerus formosus|Latin|PL0270
 Penstemon tolmiei formosus|Latin|PL0270
-Western Smallflowered Penstemon|English|PL0270
 Western Small-flowered Penstemon|English|PL0270
-Western Small Flowered Penstemon|English|PL0270
-Western Smallflowered Beardtongue|English|PL0270
 Western Small-flowered Beardtongue|English|PL0270
-Western Small Flowered Beardtongue|English|PL0270
 Penstemon procerus modestus|Latin|PL0271
 Penstemon modestus|Latin|PL0271
 Ruby Mountain Penstemon|English|PL0271
@@ -1233,12 +1059,8 @@ Penstemon virgatus putus|Latin|PL0282
 Black River Penstemon|English|PL0282
 Black River Beardtongue|English|PL0282
 Penstemon radicosus|Latin|PL0283
-Matroot Beardtongue|English|PL0283
 Mat-root Beardtongue|English|PL0283
-Mat Root Beardtongue|English|PL0283
-Matroot Penstemon|English|PL0283
 Mat-root Penstemon|English|PL0283
-Mat Root Penstemon|English|PL0283
 Penstemon ramosus|Latin|PL0284
 Penstemon lanceolatus|Latin|PL0284
 Penstemon pauciflorus|Latin|PL0284
@@ -1263,13 +1085,7 @@ Scheel Creek Penstemon|English|PL0288
 Scheel Creek Beardtongue|English|PL0288
 Penstemon richardsonii curtiflorus|Latin|PL0289
 Penstemon richardsonii dentatus|Latin|PL0290
-Toothed-cut-leaf Penstemon|English|PL0290
-Toothed Cutleaf Penstemon|English|PL0290
-Toothed Cut Leaf Penstemon|English|PL0290
 Toothed Cut-leaf Penstemon|English|PL0290
-Toothed-cut-leaf Beardtongue|English|PL0290
-Toothed Cutleaf Beardtongue|English|PL0290
-Toothed Cut Leaf Beardtongue|English|PL0290
 Toothed Cut-leaf Beardtongue|English|PL0290
 Penstemon richardsonii richardsonii|Latin|PL0291
 Richardson's Beardtongue|English|PL0291
@@ -1277,9 +1093,7 @@ Richardson’s Penstemon|English|PL0291
 Penstemon roezlii|Latin|PL0292
 Penstemon laetus roezlii|Latin|PL0292
 Penstemon cinerascens|Latin|PL0292
-Juniper Scrub Penstemon|English|PL0292
 Juniper-scrub Penstemon|English|PL0292
-Juniper Scrub Beardtongue|English|PL0292
 Juniper-scrub Beardtongue|English|PL0292
 Roezl’s Penstemon|English|PL0292
 Roezl’s Beardtongue|English|PL0292
@@ -1314,6 +1128,7 @@ Herbaceous Beardtongue|English|PL0297
 Penstemon rydbergii rydbergii|Latin|PL0298
 Penstemon rydbergii varians|Latin|PL0298
 Swollen Penstemon|English|PL0298
+Swollen Beardtongue|English|PL0298
 Penstemon saxosorum|Latin|PL0299
 Upland Penstemon|English|PL0299
 Upland Beardtongue|English|PL0299
@@ -1342,20 +1157,12 @@ Penstemon secundiflorus versicolor|Latin|PL0306
 Penstemon versicolor|Latin|PL0306
 Penstemon seorsus|Latin|PL0307
 Penstemon linarioides seorsus|Latin|PL0307
-Shortlobe Beardtongue|English|PL0307
 Short-lobe Beardtongue|English|PL0307
-Short Lobe Beardtongue|English|PL0307
-Shortlobe Penstemon|English|PL0307
 Short-lobe Penstemon|English|PL0307
-Short Lobe Penstemon|English|PL0307
 Penstemon sepalulus|Latin|PL0308
 Penstemon azureus ambiguus|Latin|PL0308
-Littlecup Penstemon|English|PL0308
 Little-cup Penstemon|English|PL0308
-Little Cup Penstemon|English|PL0308
-Littlecup Beardtongue|English|PL0308
 Little-cup Beardtongue|English|PL0308
-Little Cup Beardtongue|English|PL0308
 Penstemon serrulatus|Latin|PL0309
 Serrulate Penstemon|English|PL0309
 Serrulate Beardtongue|English|PL0309
@@ -1404,18 +1211,10 @@ Penstemon glaber utahensis|Latin|PL0319
 Northern Smooth Penstemon|English|PL0319
 Northern Smooth Beardtongue|English|PL0319
 Penstemon subserratus|Latin|PL0320
-Finetooth Beardtongue|English|PL0320
-Fine-tooth Beardtongue|English|PL0320
-Fine Tooth Beardtongue|English|PL0320
-Finetoothed Beardtongue|English|PL0320
-Fine-toothed Beardtongue|English|PL0320
-Fine Toothed Beardtongue|English|PL0320
-Finetooth Penstemon|English|PL0320
 Fine-tooth Penstemon|English|PL0320
-Fine Tooth Penstemon|English|PL0320
-Finetoothed Penstemon|English|PL0320
+Fine-tooth Beardtongue|English|PL0320
 Fine-toothed Penstemon|English|PL0320
-Fine Toothed Penstemon|English|PL0320
+Fine-toothed Beardtongue|English|PL0320
 Subserrate Beardtongue|English|PL0320
 Penstemon subulatus|Latin|PL0321
 Hackberry Penstemon|English|PL0321
@@ -1431,12 +1230,8 @@ Penstemon puniceus|Latin|PL0323
 Superb Penstemon|English|PL0323
 Superb Beardtongue|English|PL0323
 Penstemon tenuiflorus|Latin|PL0324
-Eastern Whiteflower Penstemon|English|PL0324
 Eastern White-flower Penstemon|English|PL0324
-Eastern White Flower Penstemon|English|PL0324
-Eastern Whiteflower Beardtongue|English|PL0324
 Eastern White-flower Beardtongue|English|PL0324
-Eastern White Flower Beardtongue|English|PL0324
 Penstemon tenuis|Latin|PL0325
 Brazos Penstemon|English|PL0325
 Brazos Beardtongue|English|PL0325
@@ -1485,28 +1280,17 @@ Whorled Beardtongue|English|PL0333
 Penstemon tubaeflorus achoreus|Latin|PL0334
 Tube Penstemon|English|PL0334,PL0335
 Tube Beardtongue|English|PL0334,PL0335
-White Wand Beardtongue|English|PL0334,PL0335
 White-wand Beardtongue|English|PL0334,PL0335
-Whitewand Beardtongue|English|PL0334,PL0335
-White Wand Penstemon|English|PL0334,PL0335
 White-wand Penstemon|English|PL0334,PL0335
-Whitewand Penstemon|English|PL0334,PL0335
 Penstemon tubaeflorus tubaeflorus|Latin|PL0335
-
-PL0336,Penstemon tusharensis,Penstemon caespitosus suffruticosus,"Tushar Range Beardtongue, Tushar Penstemon
-
 Penstemon uintahensis|Latin|PL0336
 Uinta Mountain Penstemon|English|PL0336
 Uinta Mountain Beardtongue|English|PL0336
 Uintah Mountain Penstemon|English|PL0336
 Uintah Mountain Beardtongue|English|PL0336
 Penstemon unilateralis|Latin|PL0337
-Oneside Penstemon|English|PL0337
 One-side Penstemon|English|PL0337
-One Side Penstemon|English|PL0337
-Oneside Beardtongue|English|PL0337
 One-side Beardtongue|English|PL0337
-One Side Beardtongue|English|PL0337
 Penstemon utahensis|Latin|PL0338
 Utah Penstemon|English|PL0338
 Utah Beardtongue|English|PL0338
@@ -1518,9 +1302,7 @@ Venus Penstemon|English|PL0339
 Venus Beardtongue|English|PL0339
 Penstemon versicolor|Latin|PL0340
 Variable-color Penstemon|English|PL0340
-Variable Color Penstemon|English|PL0340
 Variable-color Beardtongue|English|PL0340
-Variable Color Beardtongue|English|PL0340
 Penstemon virens|Latin|PL0341
 Front Range Penstemon|English|PL0341
 Front Range Beardtongue|English|PL0341
