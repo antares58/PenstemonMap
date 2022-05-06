@@ -1,350 +1,350 @@
-PlantID|HeightMinCm|HeightMaxCm|ElevationMinMeters|ElevationMaxMeters|SoilMoisture|Substrates|Terrain|PlantAssociations|HabitatNotes|BloomMonths|BloomColors|BloomNotes|StateCodes
-PL0001|60|250|100|1600|NA|none specified|none specified|chaparral, oak||3, 4, 5|yellow||CA
-PL0002|60|250|400|1800|NA|none specified|woodland, shrubland|piñon-juniper, Joshua tree||3, 4, 5, 6|yellow, orange||AZ, CA, NV
-PL0003|50|200|0|2450|xeric|none specified|rocky hillsides|none specified||5, 6, 7|white||CA, NV
-PL0004|100|300|0|1500|xeric|none specified|brushy hillsides, canyons|none specified||5, 6, 7|orange-red, red||CA
-PL0005|30|60|40|2000|xeric|none specified|rocky hillsides|none specified||6, 7, 8, 9, 10|bright pink||CA
-PL0006|50|150|40|1900|NA|none specified|rocky hillsides, woodland|chaparral, conifers, mixed forest||6, 7, 8|white, yellow, orange, violet, brown||CA, NV, OR
-PL0007|30|60|1900|3200|NA|none specified|grassland, woodland|sagebrush, piñon-juniper||5, 6, 7, 8|white, yellow, violet||CA
-PL0008|30|60|1900|3200|NA|none specified|grassland, woodland|sagebrush, piñon-juniper||5, 6, 7, 8|white, yellow, violet||CA, NV
-PL0009|22|120|0|2700|mesic|none specified|rocky hillsides, woodland|none specified||6, 7, 8|rose pink, violet||CA, OR, WA
-PL0010|5|18|2000|2600|NA|calcareous gravel soils|none specified|piñon-juniper, oak-juniper||6, 7|white, blue, violet||UT
-PL0011|7|18|1936|3044|xeric|volcanic scree, dry stream gravels|volcanic talus slopes|none specified|Absaroka Range|6, 7|blue, violet||WY
-PL0012|1|2|1500|2200|xeric|sandstone soils|ridgetops|sagebrush, Utah juniper|Daggett County, Sweetwater County|5, 6, 7|white, yellow, blue, violet||UT, WY
-PL0013|25|60|650|1400|xeric|sandy soils|dunes|sagebrush||4, 5, 6, 7|yellow, blue, violet||OR, WA
-PL0014|25|60|650|1400|xeric|sandy soils|dunes, sandy flats|sagebrush, shadscale||5, 6, 7|yellow, blue, violet||ID, NV, OR
-PL0015|30|70|1300|1620|xeric|limestone crevices|dry washes, limestone canyons|ocotillo, cactus, agave, yucca|Favors north or northeast facing hillsides|4, 5, 6|orange-red, red||NM, TX
-PL0016|15|40|800|2000|xeric|gravelly soils, alkaline soils|hillsides, cliffs, roadcuts, woodland clearings|conifers||5, 6, 7, 8|blue, violet||ID, MT
-PL0017|15|40|1000|2200|NA|calcareous gravel soils, sandy soils|grassland|shortgrass prairie, mixed prairie||4, 5, 6|white, pale blue||CO, IA, KS, MN, MT, ND, NE, NM, OK, SD, TX
-PL0018|15|30|400|800|xeric|deep sand|dunes, colluvial sands|Joshua tree|Mojave Desert|3, 4, 5, 6|pink|white center|AZ, CA, NV
-PL0019|60|120|NA|NA|mesic, hydric|sandy soils, clay soils, alluvial soils|open ground|none specified|Near Ohio and Mississippi Rivers|5|white||AL, AR, IL, IN, KY, MO, MS, OH, TN
-PL0020|30|50|1000|1600|xeric|deep sand, sandy soils, creosote soils|dunes, shrubland|sandsage||5, 6, 7, 8, 9|white, pink, violet||CO, KS, NM, OK, TX
-PL0021|30|50|1000|1600|xeric|sandy soils|hillsides, mesas, shrubland|creosote, blackbrush, Artemisia filifolia, juniper||5, 6, 7, 8, 9|white, pale pink||AZ, CO, NM, NV, TX, UT, WY
-PL0022|5|15|1800|2200|xeric|deep sand, sandy soils|dunes, shrubland, woodland|Wyethia scabra, Ponderosa pine||5, 6|white, blue-lavender, violet||UT
-PL0023|30|80|1200|1850|mesic|rocky soils, clay soils, humus soils|shrubland, woodland openings|sagebrush, conifers||6, 7, 8|pale blue, blue-lavender, violet||CA, OR
-PL0024|10|40|1500|1750|NA|gravelly soils, sandy soils|grassland, shrubland|sagebrush, shortgrass prairie||5, 6, 7|pink, blue, lavender||CO, MT, ND, NE, SD, WY
-PL0025|20|40|900|2300|NA|gravelly soils, sandy soils|sand hills, sandy plains|sagebrush, shortgrass prairie||4, 5, 6|white, blue||CO, KS, NE, NM, OK, SD, WY
-PL0026|10|40|1500|1750|xeric|sandy soils|dunes, shrubland|sagebrush, saltbush, juniper|West central UT|5, 6|pink||UT
-PL0027|10|40|1500|1750|xeric|sandy soils|plains, prairie, desert shrubland, woodland, dunes|blackbrush, sagebrush, piñon-juniper||4, 5, 6|pink, blue, lavender|from caudatus by veined floral bracts|AZ, CO, NM, UT
-PL0028|10|40|1500|1750|xeric|sandy soils|plains, prairie, desert shrubland, woodland|sagebrush, piñon-juniper, juniper|East Uinta Basin|5, 6|blue-lavender||UT
-PL0029|10|30|1200|1800|xeric|deep sand|loose drifting sand, dunes, valleys|none specified|West Nevada Tonopah to Fallon|5, 6, 7|white, lavender|magenta nectar guides|NV
-PL0030|8|18|1800|2200|xeric|sandy soils, white shales|hills, plains, shale bluffs|sagebrush||5, 6|blue, violet|magenta nectar guides|CO, MT, UT, WY
-PL0031|6|20|2000|2500|xeric|rocky soils|hillsides, shrubland, montane grassland|sagebrush||6, 7|blue, violet||ID, MT, WY
-PL0032|25|45|NA|NA|NA|shale, sandstone, rocky soils, stream gravels|woodland|oak-hickory||4, 5, 6|white, pink|magenta nectar guides|AR, IL, MO, OK, TX
-PL0033|30|90|1700|2500|mesic|rocky soils, gravelly soils|woodland openings, clearcut hillsides, subalpine meadows|none specified|Arid Transition Zone|5, 6, 7, 8|white, pale yellow, pale blue, blue, violet||ID, MT, OR, WA
-PL0034|20|50|1700|2500|mesic|rocky soils|foothills, subalpine meadows|Douglas fir, lodgepole pine||6, 7, 8|blue, violet||ID, MT
-PL0035|20|50|NA|NA|hydric, mesic|none specified|marshes, stream banks, meadows|none specified||6, 7, 8|pinkish blue, blue, violet||ID, OR
-PL0036|10|40|1700|2500|mesic|rocky soils|rocky hillsides, foothills, subalpine meadows, alpine meadows|none specified||7, 8|blue-violet||ID, MT, WY
-PL0037|14|35|1650|2000|NA|sandy soils|woodland|piñon-juniper|Kaiparowits Plateau, Smoky Mtn|5, 6|blue, lavender|dark violet nectar guides|UT
-PL0038|10|35|1250|2300|xeric|sandy soils, sandy loam soils, indurated clay soils|shrubland, grassland|sagebrush, shortgrass prairie||5, 6, 7, 8|pinkish blue, lilac, pale violet|magenta or violet nectar guides|CO, NM
-PL0039|30|80|NA|NA|mesic|granitic rocky soils, sandy soils|granite hillsides, pinelands, fields|pine|Coastal Plain and Piedmont|4, 5, 6, 7|pink|magenta nectar guides|AL, FL, GA, NC, TN, VA
-PL0040|20|50|300|700|mesic|none specified|foothills, woodland|none specified|Sierra foothills Butte to Fresno|5, 6, 7, 8|blue, violet||CA
-PL0041|20|50|500|2500|NA|none specified|stream terraces, hillsides, mesas|chaparral, pine, oak, juniper|Lower Transition Zone to Upper Canadian Zone|5, 6, 7, 8|blue, violet||CA, OR
-PL0042|15|40|2000|2800|NA|well-drained limestone soils|hillsides, cliffs, ledges|oak, pine-oak|Edwards Plateau, Trans-Pecos|6, 7, 8, 9|red||TX
-PL0043|30|100|1600|2500|xeric|none specified|hillsides, woodland|piñon-juniper, Gambel oak, Ponderosa pine, Douglas fir||6, 7, 8, 9|orange-red, scarlet, red, crimson|magenta nectar guides|AZ, CA, NM, TX, UT
-PL0044|30|100|1600|2500|xeric|gravelly soils|woodland, montane meadows|piñon-juniper, Gambel oak, Ponderosa pine, spruce-fir|Eastward from Mogollon Rim|6, 7, 8, 9|red||AZ, CO, NM, TX, UT
-PL0045|30|100|1600|2200|xeric|none specified|hillsides|piñon-juniper, Gambel oak, Ponderosa pine|Four Corners region|6, 7, 8|orange-red, scarlet, red, crimson|magenta nectar guides|AZ, CO, NM, UT
-PL0046|6|20|1500|2500|NA|alluvial gravel soils, calcareous silt|shrubland, woodland|sagebrush, piñon-juniper||5, 6|pinkish blue|magenta nectar guides|CA, NV
-PL0047|20|40|70|300|NA|basaltic rock|rocky outcrops, talus slopes, cliffs|none specified|Arid Transition Zone|4, 5, 6|pink||OR, WA
-PL0048|60|140|700|800|xeric|calcareous gravel soils, outwash gravels|limestone outcrops, outwash fans|creosote||3, 4, 5, 6|pinkish orange, rose pink, pale yellow|red or magenta nectar guides|AZ, NV
-PL0049|60|140|700|800|xeric|gravelly soils|arroyos, roadsides, talus slopes, woodland|juniper, desert scrub|Clark County, Mohave County|3, 4, 5, 6|rose pink, pale yellow||AZ, CA, NV
-PL0050|2|8|3800|4000|NA|granitic rocky soils|alpine scree slopes|pine|Culebra Range|7, 8|lavender|blooms July possibly into August|NM
-PL0051|3|10|2100|2500|xeric|gravelly soils|rocky hillsides, talus slopes, woodland|Ponderosa pine|Paunsaugunt Plateau Garfield County UT|5, 6, 7|blue, lavender, violet|magenta nectar guides|UT
-PL0052|8|20|1600|2000|NA|gravelly soils, sandy soils, clay soils|hillsides, shrubland, woodland|sagebrush, piñon-juniper||5, 6|pinkish blue, lavender, violet|magenta or violet nectar guides|AZ, CO, NM, UT
-PL0053|60|80|200|700|NA|rocky soils, sandy soils|rocky hillsides, woodland, roadcuts|oak-hickory|Appalachian Plateau|5, 6|lavender, violet|magenta nectar guides|KY, TN
-PL0054|NA|120|NA|NA|NA|none specified|washes, scrubland, woodland|chaparral||5, 6, 7|white, pale pink, blue, lavender, violet, magenta|magenta nectar guides|CA
-PL0055|10|25|1000|2300|NA|aeolian sands, alluvial sands|dunes, high plains|sandsage, mixed prairie||4, 5, 6|violet||CO, KS, NE, NM, OK, TX
-PL0056|20|80|1800|3400|xeric|rocky soils|rocky hillsides, woodland openings|pine|Transition Zone, Canadian Zone|6, 7, 8|blue, violet||CA
-PL0057|4|5|1500|2600|NA|gravelly soils, clay soils|shrubland, woodland, alpine meadows|sagebrush, juniper||4, 5, 6, 7|pale blue, blue-lavender|magenta nectar guides|CO, UT, WY
-PL0058|4|5|1500|2600|NA|sandy soils, clay soils|shrubland, woodland|sagebrush, piñon-juniper, pine, juniper, oak||4, 5, 6, 7|blue, blue-lavender|magenta nectar guides|AZ, UT
-PL0059|4|5|1500|2600|NA|sandy soils, clay soils|shrubland, woodland|sagebrush, piñon-juniper, pine, juniper, oak|Tavaputs Plateau, Wasatch Plateau, Aquarius Plateau|5, 6, 7, 8|blue, blue-lavender|magenta nectar guides|CO, UT
-PL0060|6|12|2150|3050|NA|gravelly soils, sandy soils|subalpine hillsides|none specified|Tushar Plateau, North Markagunt Plateau|6, 7, 8|blue, lavender, violet|magenta nectar guides|UT
-PL0061|5|25|1100|1950|xeric|limestone|limestone canyons, cliffs|pine-juniper|Grapevine Mtns, Providence Mtns, Mojave Desert|5, 6, 7|pink, rose pink, red, rose purple|red nectar guides|CA
-PL0062|10|30|1200|2300|xeric|gravelly soils, sandy soils|woodland|piñon-juniper, yellow pine|San Jacinto Mtns|5, 6, 7, 8|violet|magenta nectar guides|CA
-PL0063|60|120|10|300|mesic, hydric|limestone, stream bank soils|limestone ledges, stream banks, meadows, woodland|none specified||5, 6, 7|white, pink||AL, CT, DC, GA, IL, IN, KY, MA, MD, ME, MI, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT
-PL0064|30|80|200|1600|mesic|rocky soils, sandy soils|roadsides, fields, woodland|none specified||6, 7|white, lavender, violet|lavender or violet nectar guides|AL, GA, IL, IN, KY, MD, NC, OH, PA, SC, TN, VA, WV
-PL0065|40|60|2100|2700|NA|rocky soils|rocky hillsides, canyons, woodland|piñon-juniper, pine|Capitan Mtns, Sacramento Mtns|6, 7|red, crimson||NM
-PL0066|40|60|1400|2500|NA|none specified|canyons, woodland|pine||5, 6, 7, 8|red, crimson||NM, TX
-PL0067|10|20|400|1900|xeric, mesic|rocky soils|rocky outcrops, talus slopes, pumice hillsides, woodland, roadcuts|none specified||5, 6, 7, 8|white, lavender, violet||OR, WA
-PL0068|12|35|1500|2500|xeric|sandy soils|shrubland, woodland|piñon-juniper||5, 6, 7|pinkish blue, blue|magenta nectar guides|UT
-PL0069|9|35|1600|2900|NA|calcareous rocky soils|rocky hillsides, talus slopes, grasslands, roadcuts|Mountain big sagebrush, juniper, Douglas fir, limber pine|Bighorn Mtns, Pryor Mtns|5, 6, 7|blue, blue-lavender|violet nectar guides|MT, WY
-PL0070|30|120|10|1600|xeric|outwash soils|hillsides, outwash fans|chaparral, piñon-juniper, pine, oak, coastal sage scrub|Coast ranges Lake to San Diego County|4, 5, 6, 7|scarlet||CA
-PL0071|15|40|1250|2200|xeric|volcanic soils|woodland openings|Ponderosa pine, lodgepole pine, sagebrush|East side Cascade Range|6, 7, 8|blue, violet||CA, OR
-PL0072|7|15|1400|2500|NA|gravelly soils, sandy soils, clay soils|shrubland|sagebrush, juniper|Uinta County, Sweetwater County, Carbon County, Daggett County|5, 6, 7|lavender, violet|magenta nectar guides|UT, WY
-PL0073|30|70|200|1500|xeric|sandy soils|desert canyons|none specified|Lower Sonoran Zone, San Diego County|2, 3, 4, 5, 6|bright pink, crimson, magenta|red or magenta nectar guides|CA
-PL0074|30|70|200|1700|xeric|rocky soils, sandy soils|desert canyons|piñon-juniper, chaparral|Riverside County western Colorado Desert|3, 4, 5|white, red, crimson||CA
-PL0075|30|70|400|1500|xeric|rocky soils, sandy soils|shrubland|piñon-juniper, chaparral, creosote, Joshua tree|Southern edge Mojave Desert|2, 3, 4, 5|white, red, crimson||CA
-PL0076|60|100|2100|2200|NA|volcanic sand, volcanic cinders|cinder fields, woodland|pine|Painted Desert, south central Coconino County|4, 5, 6, 7, 8|pink, pinkish blue, rose pink|magenta nectar guides|AZ
-PL0077|30|60|200|1000|mesic|well-drained sandy loam soils, rocky soils|limestone outcrops, grassland|tallgrass prairie, mixed prairie|Throughout Great Plains|4, 5, 6|white, pink, pale lavender|dark violet nectar guides|AR, KS, MO, NE, NM, OK, TX
-PL0078|30|76|100|300|NA|calcareous gravel soils|cliffs, barrens, grassland|prairie|Ozark Plateau|4, 5, 6|violet|magenta nectar guides|AR, MO, OK
-PL0079|40|80|1600|2400|NA|sandy soils|woodland|sagebrush, piñon-juniper, Gambel oak, Ponderosa pine||5, 6, 7|blue, lavender||AZ, CO, NM, NV, UT
-PL0080|10|20|2000|3000|NA| calcareous rocky soils|subalpine open ground|none specified||6, 7, 8|blue, violet||ID, UT
-PL0081|10|18|1600|2000|NA|alluvial gravel soils|woodland|piñon-juniper||5, 6|pale blue, lavender|magenta or violet nectar guides|NV, UT
-PL0082|20|50|1219|3048|mesic|good soils, rocky soils|meadows, woodland openings|none specified|Arid Transition Zone, Canadian Zone|5, 6, 7, 8|white, pale yellow, pink, violet||AK, ID, MT, OR, WA
-PL0083|6|30|1700|2200|xeric|calcareous gravel soils|shrubland, woodland|sagebrush, piñon-juniper||4, 5, 6|magenta, violet|red or magenta nectar guides|NV, UT
-PL0084|8|15|2100|2600|NA|gravelly soils, sandy soils|shrubland, woodland|sagebrush, piñon-juniper, scrub oak|La Sal Mtns|5, 6, 7|blue, blue-lavender||UT
-PL0085|8|15|1800|3400|xeric|gravelly soils, sandy soils|shrubland, woodland|sagebrush, piñon-juniper, scrub oak||5, 6, 7|blue, blue-lavender||CO, UT
-PL0086|6|28|1700|3400|NA|none specified|woodland|piñon-juniper, Ponderosa pine||5, 6, 7|blue, blue-lavender|magenta or violet nectar guides|CO, NM
-PL0087|2|18|2000|3400|NA|none specified|shrubland, woodland, talus slopes|sagebrush, scrub oak, spruce||6, 7|blue, blue-lavender, lavender||CO
-PL0088|6|25|2400|3300|NA|none specified|shrubland, woodland|sagebrush, piñon-juniper, aspen|Hinsdale County, Mineral County, Saguache County|6, 7, 8|blue, blue-lavender||CO
-PL0089|5|25|NA|NA|NA|none specified|woodland|piñon-juniper, Ponderosa pine|NA|5, 6, 7, 8|blue, blue-lavender|magenta or violet nectar guides|NM
-PL0090|15|45|600|1500|xeric|light basaltic soils|shrubland, hillsides|sagebrush|SW Idaho, SE Oregon|5, 6, 7|blue, violet||ID, OR
-PL0091|20|70|1500|3200|NA|gravelly soils, sandy soils|foothills, canyon floors, woodland, roadsides|sagebrush, aspens fir, Gambel oak, maple, spruce|Wasatch Range|5, 6, 7|blue, blue-violet||ID, UT, WY
-PL0092|20|70|1400|3000|NA|clay soils|foothills, canyon floors, woodland, roadsides|sagebrush, aspens fir, Gambel oak, maple, spruce||5, 6, 7|blue, blue-violet||ID, MT, UT, WY
-PL0093|30|70|1500|2400|xeric|gravelly soils, sandy soils|shrubland, woodland, foothills|sagebrush||6, 7|blue||ID, MT, WY
-PL0094|20|60|1600|2200|xeric|none specified|rocky hillsides, shrubland, woodland|sagebrush, piñon-juniper, oak-juniper||4, 5, 6|blue-lavender|violet nectar guides|CO, UT
-PL0095|20|60|2100|2600|NA|rocky soils, clay loam soils|shrubland|sagebrush||5, 6, 7, 8, 9|pale blue, pinkish blue, lavender||CO,WY
-PL0096|20|45|1000|1700|xeric|gravelly soils|rocky hillsides, desert grassland|none specified||4, 5|violet|magenta or violet nectar guides|AZ, NM, TX
-PL0097|2|18|900|3600|xeric|rocky soils|talus slopes, rocky ledges, rocky outcrops|juniper|Primarily volcanic substrates, woodland to timberline|6, 7, 8|rose purple, violet||CA, NV, OR, WA
-PL0098|2|18|30|1600|NA|rocky soils|rocky ledges, rocky outcrops|none specified|Hudsonian Zone|6, 7, 8|violet||OR, WA
-PL0099|2|18|2000|3600|NA|rocky soils|rocky outcrops, talus slopes|none specified||6, 7, 8|blue-lavender, violet||NV, OR
-PL0100|40|90|100|200|mesic|sterile soils, clay soils|woodland, fields|white oak||5, 6|white, pale lavender|magenta nectar guides|IL, IN
-PL0101|20|60|2290|3440|xeric|rocky soils|rocky hillsides, alpine meadows, woodland|pine|Pinlero Mtns, White Mtns, Mogollon Range|6, 7, 8, 9|lavender, violet|violet nectar guides|AZ, NM
-PL0102|4|9|2400|2600|xeric|oil shale talus|talus slopes|none specified|Garfield County, Green River Formation|6, 7|white, pale lavender||CO
-PL0103|25|40|1800|2900|NA|none specified|woodland|juniper|Fremont County, Sheep Basin|6, 7, 8|blue, pale lavender|magenta nectar guides|CO
-PL0104|10|40|800|2500|xeric|rocky soils|rocky outcrops, gravel banks, talus slopes, shrubland, woodland|sagebrush, juniper, pine|Arid Transition Zone|5, 6, 7|white, pale lavender|magenta nectar guides|CA, ID, MT, NV, OR, WA, WY
-PL0105|10|40|800|2500|xeric|calcareous rocky soils, basaltic rocky soils|rocky hillsides, talus slopes, shrubland, woodland|sagebrush, piñon-juniper, conifers||5, 6, 7|white, pale lavender|violet nectar guides|CA, NV, OR, UT
-PL0106|10|40|600|2700|xeric|calcareous rocky soils, basaltic rocky soils|rocky hillsides, rocky outcrops, stream gravels, woodland|sagebrush, juniper, piñon-juniper|Siskiyou Mtns|5, 6, 7|white, pale pink|red or magenta nectar guides|OR
-PL0107|10|40|800|2500|NA|rocky soils|rocky hillsides, stream beds|none specified|Klickitat County, Deschutes County, Grant County|5, 6, 7|white, pale lavender||OR, WA
-PL0108|70|120|10|500|mesic|loam soils, sandy loam soils|grassland, woodland, roadsides|none specified||5, 6, 7|white|violet nectar guides|AL, AR, CT, DC, DE, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WV
-PL0109|20|30|1300|2000|NA|rocky soils|rocky outcrops, cliffs|none specified||6, 7, 8|blue, blue-lavender|magenta nectar guides|ID, MT, WA
-PL0110|10|35|1800|2300|NA|granite crevices|woodland|piñon-juniper, oak||6, 7, 8|pale lavender, lavender, violet|magenta nectar guides|AZ
-PL0111|10|40|10|50|xeric|thin gritty soils, indurated clay soils|woodland|oak-longleaf pine |Altamaha Grit of Inner Coastal Plain|4, 5|lavender, violet||GA
-PL0112|30|60|1500|1600|NA|calcareous gravel soils|rocky hillsides, woodland|piñon-juniper|SE end Shivwits Plateau|5, 6|blue, violet|magenta nectar guides|AZ
-PL0113|2|12|1500|2000|xeric|alkaline soils, sandy soils, gravel soils, clay soils|alluvial fans, hillsides, woodland|shadscale, sagebrush, piñon-juniper||5, 6|blue, blue-violet||NV, UT
-PL0114|2|12|1500|2000|xeric|alkaline soils, sandy soils, gravel soils, clay soils|shrubland, woodland, hills|sagebrush, piñon-juniper|Western Uinta Basin Duschesne County|5, 6|blue, blue-violet, violet||UT
-PL0115|40|100|1500|2800|xeric|rocky soils, gravelly soils|shrubland, woodland|sagebrush, piñon-juniper, Ponderosa pine, mountain mahogany||3, 4, 5, 6, 7|scarlet, red||AZ, CA, CO, ID, NM, NV, UT, WY
-PL0116|40|100|600|1500|xeric|none specified|shrubland, woodland|sagebrush, piñon-juniper, Ponderosa pine, mountain mahogany||3, 4, 5, 6|scarlet, red|exerted anthers|AZ
-PL0117|40|100|800|2800|xeric|none specified|shrubland, woodland|sagebrush, piñon-juniper, Ponderosa pine, mountain mahogany||3, 4, 5, 6, 7|scarlet, red|inserted stamen and anthers|AZ, CA, CO, NM, NV, UT
-PL0118|20|30|900|1800|NA|volcanic soils|hillsides, meadows|none specified|Hell’s Canyon, Nez Perce County, Wallowa County|5, 6|violet|violet nectar guides|ID, OR
-PL0119|7|13|900|2600|NA|none specified|rocky outcrops, talus slopes, cliffs|none specified||6, 7, 8|violet||ID, MT, WA, WY
-PL0120|10|40|300|1300|NA|gravelly soils, sandy soils|plains, hillsides, woodland|juniper||5, 6|lavender, violet|magenta nectar guides|OR
-PL0121|6|60|1400|2500|NA|gravelly soils, sandy soils, clay soils|shrubland|sagebrush, juniper||5, 6, 7|lavender, violet|magenta nectar guides|UT, WY
-PL0122|8|20|500|2400|xeric|gravelly soils, sandy soils, shale soils, clay soils|valleys, foothills, stream terraces|sagebrush, shortgrass prairie|Arid Transition Zone|6, 7|pink, lavender, violet|magenta or violet nectar guides, very sticky glandular hairs|CO, ID, MT, ND, NE, SD, WA, WY
-PL0123|8|20|600|2700|xeric|gravelly soils, sandy soils|valleys, foothills|sagebrush||5, 6, 7|lavender, violet|magenta nectar guides|ID, MT, OR
-PL0124|10|40|200|1200|xeric|rocky soils|shrubland|bitterbrush, chamisa|Arid Transition Zone, Chelan County|5, 6|blue, lavender, violet|magenta nectar guides|WA
-PL0125|15|50|1100|1600|NA|volcanic ash soils|subalpine meadows, woodland openings|pine|Transition Zone, Canadian Zone|6, 7, 8, 9|blue, lavender, violet|pale violet nectar guides|OR, WA
-PL0126|30|40|1200|1500|NA|calcareous rocky soils, sandy soils|grassland|none specified||4, 5, 6, 7|pale lavender, lavender, violet|magenta nectar guides|AZ, KS, NM, OK, TX
-PL0127|20|50|200|300|NA|rocky soils|rocky gulches, rocky flats|none specified|Shasta County, Transition Zone|6, 7|blue, violet||CA
-PL0128|15|40|1980|2450|mesic|rocky soils|alpine meadows, woodland openings|conifers|Bitterroot Mtns|6, 7, 8|white, pale yellow||ID, MT
-PL0129|12|23|1300|2300|NA|alluvial fans, limestone gravel|gravel washes|none specified|Jackson Mountains|5, 6|blue-violet||NV
-PL0130|50|120|1500|2500|NA|gravelly soils|gravel washes, canyon floors, shrubland, woodland|sagebrush, piñon-juniper||5, 6, 7|lavender, pale yellow, pale pink, rose pink|red nectar guides|CA, NV
-PL0131|50|120|1600|2700|NA|gravelly soils|gravel washes, canyon floors, shrubland, woodland|sagebrush, piñon-juniper||5, 6, 7|lavender, pale yellow, pale pink, rose pink|red nectar guides|CA, NV
-PL0132|8|25|1500|1600|NA|pedimental gravels|pale-colored clay hillsides and benches|shadscale|Uinta Formation Duschesne River|5, 6|pink|rose pink nectar guides|UT
-PL0133|6|25|1650|1800|xeric|gravelly soils, sandy soils|shrubland|needlegrass, matchweed, black sagebrush|Iron County|5, 6|blue-lavender, lavender, violet|violet nectar guides|UT
-PL0134|8|25|1500|2200|xeric|clay soils, sandy soils|barren hillsides, shrubland|chamisa, sagebrush||5, 6, 7|blue-lavender, blue-violet, violet|violet nectar guides|CO, UT, WY
-PL0135|8|25|1800|2500|xeric|shale soils|barren hillsides, shrubland|chamisa||5, 6, 7|blue-lavender, blue-violet, violet|violet nectar guides|UT
-PL0136|30|60|900|1900|xeric|none specified|shrubland|creosote||4, 5, 6|pale pink, pink, blue-lavender, lavender|magenta nectar guides|CA, NV
-PL0137|30|60|975|2010|NA|rocky soils, gravelly soils|gravel washes, canyon floors, shrubland, woodland|creosote, piñon-juniper|Lower Sonoran Zone, Panamint Range, Argus Range, Inyo Range|5, 6|pale pink, pink, blue-lavender, lavender|magenta nectar guides|CA
-PL0138|15|40|300|3000|NA|rocky soils, gravelly soils|rocky hillsides, rocky outcrops, roadcuts, woodland|sagebrush-juniper, conifers|Arid Transition Zone, Hudsonian Zone|4, 5, 6|blue-lavender, violet|blue-lavender nectar guides|ID, MT, OR, WA, WY
-PL0139|15|40|200|2200|NA|rocky soils|rocky hillsides, rocky outcrops, cliffs, roadcuts, woodland openings|none specified||4, 5, 6, 7|blue-lavender, violet|blue-lavender nectar guides|ID, WA
-PL0140|15|40|1400|2500|NA|rocky soils|rocky hillsides, rocky outcrops|none specified||4, 5, 6|blue-lavender, violet|blue-lavender nectar guides|ID, OR, WA
-PL0141|10|20|100|1800|NA|rocky soils, gravelly soils|rocky flats, rocky hillsides, woodland hillsides|sagebrush, juniper, Ponderosa pine||5, 6, 7|blue, rose purple|red nectar guides|OR, WA
-PL0142|20|40|1000|1600|NA|rocky soils, gravelly soils|rocky flats, rocky hillsides, woodland hillsides|sagebrush, juniper, Ponderosa pine|Eastern OR, Western ID, Arid Transition Zone|5, 6|lavender, violet|red nectar guides|OR, ID
-PL0143|10|20|1600|2400|xeric|shale, sandy-clay soils|rocky hillsides, shrubland, woodland|sagebrush, piñon-juniper, greasewood-saltbush||6, 7, 8, 9|pale blue, pale violet, lavender|magenta nectar guides|CO, UT, WY
-PL0144|10|80|3300|3400|NA|gravelly soils|mesas, mountains|none specified|Front Range, primarily in disturbed areas|6, 7, 8|blue-violet, violet||CO, NM, WY
-PL0145|50|65|1800|2100|NA|gravelly soils, sandy soils|high plains, hillsides|none specified||6, 7, 8|blue, blue-violet|magenta nectar guides|CO, NM
-PL0146|50|65|1100|2200|NA|rocky soils, sandy soils|high plains, hillsides|none specified||6, 7, 8, 9|pale blue, blue|pale violet nectar guides|MT, ND, NE, SD, WY
-PL0147|8|30|1600|3000|xeric|none specified|hillsides, shrubland, woodland|piñon-juniper, Ponderosa pine|SW Colorado,  NW New Mexico|5, 6, 7|blue, blue-lavender|magenta or violet nectar guides|CO, NM
-PL0148|40|100|200|2000|NA|rocky soils|rocky hillsides|none specified|Chelan County, Arid Transition Zone|4, 5, 6, 7|blue-lavender, lavender, violet|dark violet nectar guides|WA
-PL0149|40|100|200|1400|xeric|rocky soils|rocky hillsides, cliffs, canyons, foothills|none specified|Arid Transition Zone|5, 6, 7|blue-lavender, lavender, violet|dark violet nectar guides|ID, OR, WA
-PL0150|30|35|1900|2100|NA|none specified|woodland openings|Lodgepole pine|Klamath County,  Lake City|6, 7|violet||OR
-PL0151|25|40|800|3100|hydric, mesic|gravelly soils|wetlands, hillsides|none specified|Arid Transition Zone, Canadian Zone|5, 6, 7, 8|violet||ID, MT, OR
-PL0152|20|35|1700|1750|NA|blue-grey or red sandy clay soils|low hills, plains, shrubland, woodland|sagebrush-shadscale, juniper-mountain mahogany|Duschesne River Formation Uintah County|5, 6|blue, blue-lavender, violet|magenta nectar guides|UT
-PL0153|10|30|400|1200|xeric|rocky soils, gravelly soils|hillsides, stream terraces|none specified||7, 8|white, pink, blue, blue-lavender||AK
-PL0154|25|65|1000|3000|xeric|lava sand, lava gravel, granitic sand, granitic gravel|shrubland, woodland|sagebrush-Symphoricarpos, conifers|Canadian Zone, Hudsonian Zone|6, 7, 8|blue, violet|dark blue nectar guides|CA, NV, OR
-PL0155|25|55|300|2300|NA|none specified|foothill|scrub oak, pine||5, 6, 7, 8|pale blue, pale lavender, lavender, violet||CO, IA, MI, MN, MT, ND, NE, NM, SD, WI, WY
-PL0156|30|60|NA|NA|NA|none specified|grassland|tallgrass prairie, mixed prairie, shortgrass prairie||5, 6, 7, 8|pale lavender, lavender|violet nectar guides|WI
-PL0157|7|18|1400|2000|NA|oil shales|talus slopes, outcrops|piñon-juniper||5, 6|pink, lavender|violet nectar guides|CO, UT
-PL0158|50|95|300|2000|xeric|sandy soils, rocky soils|hillsides, woodland, grassland|conifers, prairie||4, 5, 6, 7|pale pink, lavender, violet||CO, CT, IA, IL, IN, KS, MA, MN, MO, MT, ND, NE, OH, OK, SD, TX, WI, WY
-PL0159|30|100|800|2900|xeric|none specified|shrubland, woodland, foothills|chaparral, piñon-juniper, pine|Transition Zone|4, 5, 6, 7|white, pale pink, pale blue, pale lavender, pale violet|magenta nectar guides|CA
-PL0160|30|80|500|1900|xeric|none specified|foothills, woodland|piñon-juniper||4, 5, 6, 7|blue-violet, violet||CA
-PL0161|25|35|300|620|xeric|calcareous gravel soils, sandy soils|grassland|none specified||3, 4, 5|white, pink||TX
-PL0162|10|25|3000|3750|NA|rocky soils, gravelly soils|alpine meadows|none specified|Near and above timberline|6, 7, 8|blue-violet, pale violet, violet, magenta|magenta or violet nectar guides|CO
-PL0163|5|15|3200|4100|NA|gravelly soils|scree slopes, gravel hillsides, high alpine summits, boulder fields|none specified||6, 7, 8|violet, dark violet||CO
-PL0164|30|70|1950|2900|xeric|calcareous loam soils|hillsides|sagebrush, piñon-cedar-sage|Grand County, Eagle County, Routt County|6, 7|pinkish blue, blue, lavender, blue-violet, violet|two well-exerted stamens|CO
-PL0165|45|200|1280|2420|xeric|calcareous rocky soils|rocky hillsides, stream beds|none specified|Mountains of the Trans-Pecos|4, 5, 6, 7, 8, 9, 10|orange, red||TX
-PL0166|20|45|900|2300|NA|deep sand|sand dunes|none specified|Dune blowouts in sandhills ecosystem|4, 5, 6, 7|blue-lavender, lavender|fragrant, magenta nectar guides|NE, WY
-PL0167|15|40|2200|4000|NA|none specified|alpine meadows, subalpine meadows|none specified|Tulare County, Fresno County|7, 8|blue, lavender, violet||CA
-PL0168|5|20|2000|3900|mesic|none specified|talus slopes, alpine meadows, subalpine meadows|none specified|Often around melting snow|7, 8|blue, lavender, violet||CA, NV
-PL0169|20|50|1100|2400|NA|none specified|montane meadows|none specified|Transition Zone, Canadian Zone|7, 8|blue, lavender, violet||CA
-PL0170|30|50|50|1700|NA|none specified|grassland, shrubland, woodland openings|chaparral, sagebrush, pine||4, 5, 6, 7|blue, violet||CA
-PL0171|30|50|50|1600|xeric|none specified|grassland, shrubland, woodland openings|chaparral, sagebrush, pine|Upper Sonoran Zone, Transition Zone|4, 5, 6, 7|blue, violet||CA
-PL0172|25|70|50|1900|NA|none specified|grassland, shrubland, woodland openings|chaparral, pine||4, 5, 6, 7|blue, violet||CA
-PL0173|40|80|10|200|xeric|rocky soils, sandy soils|rocky fields, bluffs, woodland|none specified||5, 6, 7|white, pale lavender||AL, CT, DC, DE, IL, IN, KY, MA, MD, ME, MI, NH, NJ, NY, OH, PA, RI, TN, VA, VT, WI, WV 
-PL0174|5|25|1700|3400|NA|none specified|valleys, foothils, montane forest, alpine tundra|sagebrush, piñon-juniper, conifers|Wasatch Range|5, 6, 7|blue, violet|magenta nectar guides|UT
-PL0175|5|25|1000|3200|NA|rocky soils|rocky hillsides, valleys, foothills, montane forest, alpine tundra|sagebrush, piñon-juniper, conifers||4, 5, 6, 7, 8|blue, blue-lavender, violet||CA, CO, ID, NM, NV, OR, UT, WA, WY
-PL0176|5|25|1500|3400|NA|none specified|valleys, foothils, montane forest, alpine tundra|sagebrush, piñon-juniper, pine|South Markagunt Plateau|5, 6|blue, violet|magenta nectar guides|UT
-PL0177|8|20|1500|1600|NA|volcanic ash soils|white tuffaceous outcrops|juniper||6, 7|blue, blue-violet, violet|magenta nectar guides|ID, UT
-PL0178|15|30|1500|2200|xeric|sandy soils, loam soils|valleys, foothills, roadsides|sagebrush||5, 6|pink|red or magenta nectar guides|NV, UT
-PL0179|60|80|800|1800|xeric|sandy soils, rocky soils|shrubland, woodland|sagebrush, piñon-juniper, Joshua tree||5, 6|pink, pinkish blue, lavender||CA
-PL0180|10|60|2200|3400|NA|none specified|hillsides, meadows, woodland, passes|sagebrush, piñon-juniper, pine, pine-Douglas fir|Sangre de Cristo Mtns, Sandia Mtns|6, 7, 8, 9, 10|pale blue, lavender|magenta nectar guides|NM
-PL0181|10|45|1100|2300|NA|sandy soils, loam soils, gravelly soils|limestone hillsides, grassland, woodland, mesas|shortgrass prairie, piñon-juniper||6, 7|lavender, violet||CO, KS, NM, TX
-PL0182|8|20|1300|2250|NA|volcanic clay soils|shrubland, woodland|sagebrush, juniper, piñon-juniper||5, 6, 7|pink, lavender, violet|magenta nectar guides|CA, ID, NV, OR
-PL0183|8|25|1500|3000|xeric|none specified|valleys, woodland hillsides|sagebrush, piñon-juniper||5, 6|blue, violet, magenta||NV, OR
-PL0184|40|70|200|350|NA|rocky calcareous soils|hillsides, woodland|juniper-oak-hickory|Cumberland Plateau|5|pale lavender|violet nectar guides|AL, TN
-PL0185|30|70|1200|2400|mesic, xeric|none specified|open woodland hillsides, grassy hillsides|piñon-juniper, pine, mixed hardwood||7, 8|scarlet||CA
-PL0186|20|80|400|2000|xeric|none specified|wooded hillsides, shrubland|oak, pine, Ponderosa pine|Upper Sonoran Zone, Transition Zone|3, 4, 5, 6, 7|blue, violet|violet nectar guides|CA
-PL0187|20|80|400|1700|NA|rocky soils, sandy soils|shrubland, woodland|chaparral, pine, oak|Upper Sonoran Zone, Transition Zone|5, 6, 7|blue, violet|violet nectar guides|CA
-PL0188|20|80|500|2300|xeric|none specified|shrubland, woodland|sagebrush, conifers||5, 6, 7, 8, 9|blue, violet|violet nectar guides|CA, OR
-PL0189|40|100|10|400|mesic|sandy soils|rocky hillsides, meadows, forest edges|none specified||5, 6|white, pale lavender|magenta nectar guides|AL, CT, DC, DE, FL, GA, KY, LA, MA, MD, MS, NC, NJ, OH, PA, SC, TN, VA, WV 
-PL0190|40|60|1100|2000|NA|sandy soils|shrubland, woodland|sagebrush, piñon-juniper, Ponderosa pine||5, 6|blue, blue-violet|magenta nectar guides|AZ, UT
-PL0191|20|55|1200|1800|NA|gravelly soils|rocky canyons, woodland, desert grassland, shrubland|piñon-juniper, thorn scrub||5, 6, 7|orange-red, scarlet, red, crimson|magenta nectar guides|AZ, NM, TX
-PL0192|10|20|1500|2900|NA|sandy soils, gravelly soils|grassland, shrubland|sagebrush||6, 7, 8|white, pink, pinkish violet||CO, WY
-PL0193|10|20|1500|2400|NA|sandy soils, gravelly soils|shrubland, woodland openings|sagebrush, pine||5, 6, 7, 8|pink, violet||ID, MT, WY
-PL0194|30|70|10|500|mesic|acidic soils, sandy soils|sand barrens, woodland, grassland|tallgrass prairie||3, 4, 5, 6|white, pale pink, pale lavender||AL, AR, FL, GA, LA, MS, OK, TX
-PL0195|50|80|1700|2400|xeric|none specified|shrubland, meadows|sagebrush|Blaine County, Boise County, Elmore County|6, 7|blue, violet|magenta nectar guides|ID
-PL0196|5|20|2000|4000|NA|none specified|limestone hillsides, shrubland, woodland|sagebrush, oak, manzanita, Ponderosa pine, aspen, spruce, limber pine, bristlecone pine ||6, 7, 8|violet, dark violet||NV
-PL0197|5|20|2000|3500|NA|none specified|woodland|pine|Clark County|6, 7, 8|blue, violet|magenta or violet nectar guides|NV
-PL0198|15|70|1700|3400|NA|none specified|woodland|spruce, pine-aspen||6, 7, 8|blue, violet|magenta or violet nectar guides|UT
-PL0199|30|70|970|2500|NA|alluvial fans|valley bottoms, canyon bottoms|none specified||6, 7|blue, violet||ID, MT
-PL0200|20|40|1500|2600|xeric|sandy soils, gravelly soils|hillsides|sagebrush, piñon-juniper, Gambel oak, Ponderosa pine||5, 6|white||UT
-PL0201|20|40|1500|2600|xeric|sandy soils, gravelly soils|hillsides, woodland|sagebrush, piñon-juniper, Gambel oak, Ponderosa pine||5, 6|pinkish blue, blue, lavender, violet||AZ, CO, NM, UT
-PL0202|15|40|2000|3000|xeric|rocky soils, gravelly soils|none specified|piñon-juniper, oak-maple, aspen-conifer, conifer||6, 7|lavender, violet||AZ, NV, UT
-PL0203|15|40|1800|3100|xeric|rocky soils|hillsides|sagebrush, Symphoricarpos, Gambel oak, spruce-fir||6, 7|blue, lavender||ID, UT
-PL0204|15|40|2100|2700|NA|rocky soils|mixed shrubland, grassland|sagebrush, pine, pine-aspen||6, 7|blue, violet||NV, UT
-PL0205|30|50|1600|1800|NA|none specified|shrubland, woodland|sagebrush piñon-juniper, Gambel oak|San Pitch Mtns|5, 6, 7|blue, violet||UT
-PL0206|10|30|1200|2300|NA|sandy soils, clay soils|mountains, plateaus, woodland|sagebrush, piñon-juniper, scrub oak, Ponderosa pine||6, 7|blue, lavender|magenta nectar guides|AZ, CO, NM
-PL0207|10|30|1200|2300|NA|rocky soils|hillsides|sagebrush, piñon-juniper||6, 7, 8|blue, lavender|magenta nectar guides|AZ, NV
-PL0208|10|30|1400|2900|NA|sandy soils, clay soils, rocky soils|hillsides|sagebrush, piñon-juniper||6, 7, 8|blue, lavender|magenta nectar guides|AZ, NM
-PL0209|15|25|1800|2000|NA|none specified|rocky hillsides, limestone cliffs|pine-juniper||6, 7, 8, 9, 10|blue, lavender|magenta nectar guides|AZ, NM
-PL0210|8|40|1200|2400|NA|sandy soils, clay soils|mountains, plateaus, woodland|sagebrush, oak-juniper, oak, pine||5, 6, 7, 8, 9, 10|blue, lavender|magenta nectar guides|AZ, NV, UT
-PL0211|25|60|1800|2500|NA|none specified|shrubland, woodland|sagebrush, Gambel oak, mountain mahogany|Tushar Plateau, Pavant Plateau, Mineral Mtns, Canyon Mtns|6, 7|blue, violet||UT
-PL0212|30|80|600|2400|NA|none specified|rocky hillsides, rocky outcrops, stream gravels|none specified||6, 7, 8|pink, pale lavender, lavender, violet||ID, MT, WA
-PL0213|14|20|1600|2000|NA|clay soils, gravel soils|alkaline bluffs, alkaline knolls, desert valley|sagebrush||5, 6|blue, violet|magenta nectar guides|UT
-PL0214|40|100|2100|2900|NA|none specified|shrubland, woodland openings|sagebrush, aspen|Delta County, Mesa County|4, 5, 6, 7|blue, violet|magenta nectar guides|CO
-PL0215|30|40|2000|2900|NA|none specified|cliffs, shady hillsides|pine, spruce-fir|Sierra County, Grant County|7, 8|lavender, violet|magenta nectar guides|NM
-PL0216|10|25|750|1300|mesic|diatomaceous clay, ash clay|hillsides, shrubland, woodland|sagebrush, pine-juniper|Arid Transition Zone|5, 6, 7|light blue, blue, blue-violet, magenta|magenta nectar guides|ID, OR
-PL0217|10|30|1300|1800|xeric|gravelly soils, sandy soils, clay soils|mesas, hillsides, shrubland, woodland|blackbrush, sagebrush, piñon-juniper||4, 5, 6|blue, violet|magenta nectar guides|CO, UT
-PL0218|10|30|1300|1800|xeric|gravelly soils, sandy soils, clay soils|mesas, hillsides, shrubland, woodland|blackbrush, sagebrush, piñon-juniper|from moffattii by oblanceolate basal leaves and sessile cauline leaves|4, 5, 6|blue, violet|magenta nectar guides|CO
-PL0219|7|30|1300|1800|xeric|gravelly soils, sandy soils|desert hills, washes|sagebrush, Joshua tree|White Mtns, Inyo Mtns|4, 5, 6|pink, rose pink, violet|magenta nectar guides|CA
-PL0220|10|30|1500|3200|NA|volcanic ash soils|white tuffaceous outcrops|juniper||6, 7, 8|lavender, blue, violet|pale lavender or blue nectar guides|ID
-PL0221|10|30|1500|3500|NA|rocky crevices|rocky hillsides, talus slopes|none specified||6, 7, 8|lavender, blue, violet|pale lavender or blue nectar guides|ID, MT, UT, WY
-PL0222|35|50|2200|3300|NA|gravelly soils, silty soils|shrubland, woodland|sagebrush, piñon-juniper, pine, mountain mahogany|White Pine County|6, 7|blue, violet||NV
-PL0223|10|25|1700|2100|xeric|gravelly soils, sandy soils|woodland|juniper, piñon-juniper||5, 6|blue, violet|magenta nectar guides|CO, UT, WY
-PL0224|80|150|0|100|NA|sandy soils|woodland|scrub oak, pine|Coastal Plain|4, 5, 6, 7|white||AL, FL, GA
-PL0225|50|100|10|200|xeric|sandy soils|grassland, woodland|deciduous forest, pine, sandhill prairie||3, 4, 5, 6|scarlet, red||AR, LA, OK, TX
-PL0226|3|7|1800|2000|xeric|calcareous gravel soils|shrubland, woodland, valleys, foothills|piñon-juniper||5, 6|violet||UT
-PL0227|20|40|2500|3160|NA|rocky soils|woodland|Ponderosa pine, aspen, Douglas fir, subalpine fir|Navajo Mtn. San Juan County|7, 8|blue, blue-lavender, lavender|magenta nectar guides|UT
-PL0228|30|60|1830|2740|NA|none specified|hillsides, woodland openings|pine, spruce-fir, pine-spruce|Capitan Mtns, Sacramento Mtns, White Mtns|6, 7, 8|lavender, violet|magenta nectar guides|NM
-PL0229|20|60|1000|2200|xeric|volcanic soils|woodland|pine, fir|Transition Zone|5, 6, 7, 8, 9, 10|blue, violet||CA
-PL0230|15|30|2000|3500|NA|rocky soils|rocky outcrops, talus slopes|none specified|Transition Zone, Canadian Zone|6, 7, 8|pink, lavender, violet||CA, OR
-PL0231|15|30|500|3500|NA|rocky crevices|rocky outcrops, talus slopes|none specified||4, 5, 6, 7, 8|scarlet, red||CA, NV
-PL0232|15|30|800|2300|NA|rocky crevices|rocky outcrops, talus slopes|none specified|Sonoma County|6, 7, 8|dark rose-purple||CA
-PL0233|10|35|200|2500|NA|none specified|grassland, roadcuts|shortgrass prairie, montane grassland||5, 6, 7|scarlet, red|magenta nectar guides|CO, MT, ND, SD, WY
-PL0234|10|35|400|1700|NA|rocky soils, gravelly soils|hillsides, stream banks, grassland|montane grassland||4, 5, 6|blue, violet|magenta nectar guides|ID, MT
-PL0235|60|100|1370|2130|xeric|basaltic rocky soils|hillsides, woodland|piñon-juniper, Ponderosa pine||5, 6|lavender, violet|magenta nectar guides|AZ
-PL0236|40|60|200|300|xeric|sandy soils|grassland, woodland|tallgrass prairie||4, 5, 6|white, pale yellow||OK, TX
-PL0237|15|40|2400|3500|mesic, hydric|rich dark loam soils|wetlands, grassland, woodland openings|pine, spruce-fir||6, 7, 8|blue, blue-violet|magenta nectar guides|AZ, NM
-PL0238|13|27|1500|2250|NA|gravelly soils, sandy soils, clay soils|shrubland, woodland|sagebrush, piñon-juniper, oak, Ponderosa pine|Four Corners region|5, 6|lavender, violet|dark violet nectar guides|AZ, CO, NM, UT
-PL0239|30|70|1600|2200|NA|sandy soils, clay soils|hillsides, canyons, woodland|sagebrush, pine-juniper||5, 6|blue, violet||CO, UT
-PL0240|50|100|10|900|hydric, mesic|rocky soils|rocky hillsides, woodland|none specified|Humid Transition Zone, Canadian Zone|5, 6, 7, 8|blue, violet|magenta nectar guides|OR, WA
-PL0241|30|65|1500|2600|xeric|gravelly soils, sandy soils|shrubland, woodland|sagebrush, piñon-juniper, Gambel oak, Ponderosa pine, bristlecone pine||5, 6|blue, blue-lavender, violet|magenta nectar guides|AZ, NV, UT
-PL0242|10|25|1700|2100|xeric|gravelly soils, sandy soils|woodland|juniper, piñon-juniper||5, 6|blue, violet|magenta nectar guides|CO, UT, WY
-PL0243|30|65|1300|3200|xeric|gravelly soils, sandy soils|shrubland, woodland|sagebrush, piñon-juniper, Gambel oak, Ponderosa pine, bristlecone pine||5, 6, 7|blue, lavender, violet|magenta nectar guides|NM, UT
-PL0244|15|25|1900|2300|NA|rocky crevices, loose soils|mesas, woodland|sagebrush, piñon-juniper|Inyo County, Nye County, Esmeralda County|6, 7|blue-lavender|magenta nectar guides|CA, NV
-PL0245|40|80|10|300|mesic|rocky soils, sandy loam soils, loam soils, sandstone, limestone|grassland, woodland| tallgrass prairie, oak-hickory||4, 5, 6, 7|white, pale blue, pale lavender|magenta nectar guides|AL, AR, CT, DC, GA, IA, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, NC, NH, NJ, NY, OH, PA, RI, TN, VA, VT, WI, WV
-PL0246|50|140|800|2500|xeric|none specified|washes, roadsides, canyon floors|blackbrush, sagebrush, piñon-juniper, juniper, Ponderosa pine, Joshua tree||3, 4, 5, 6, 7, 8, 9|white, pale pink, pinkish lavender|magenta nectar guides|AZ, UT
-PL0247|50|140|1000|1400|xeric|none specified|washes, roadsides, canyon floors|blackbrush, sagebrush, piñon-juniper, juniper, Ponderosa pine, Joshua tree|Nye County, Churchill County, Pershing County|5, 6, 7|white, pale pink, pinkish lavender|magenta nectar guides|NV
-PL0248|50|140|800|2800|xeric|none specified|washes, roadsides, canyon floors|creosote, piñon-juniper||5, 6, 7|white, pale pink, pinkish lavender|magenta nectar guides|AZ, CA, CO, ID, NM, NV, UT, WA, WY
-PL0249|20|40|2000|2700|NA|rocky soils|woodland openings|piñon-juniper, lodgepole pine|Inyo County, Mono County|6, 7|blue, lavender, violet||CA
-PL0250|30|120|500|1500|xeric|rocky soils|rocky hillsides, washes, canyons, desert|oak||2, 3, 4|rose pink, rose magenta||AZ
-PL0251|15|20|1400|1800|NA|gravelly soils, silty soils|shrubland, grassland|sagebrush, shortgrass prairie|Montezuma County|5, 6|pinkish blue, lilac, violet|magenta nectar guides|CO
-PL0252|20|35|500|2500|NA|rocky soils|rocky hillsides, woodland|none specified|Canadian Zone|6, 7, 8|blue, violet||CA, OR
-PL0253|5|20|2500|3000|NA|none specified|shrubland|sagebrush|Garfield County, Wayne County|5, 6, 7|blue, violet|magenta nectar guides|UT
-PL0254|20|40|1900|2200|NA|none specified|shrubland, woodland|sagebrush, piñon-juniper, Ponderosa pine||5, 6|lavender, magenta, violet|red or magenta nectar guides|CA, NV
-PL0255|17|25|2500|3200|NA|rocky crevices|rocky hillsides, cliffs|piñon-juniper, spruce, mountain mahogany||7|blue, pinkish blue, lavender||NV, UT
-PL0256|30|70|1800|2500|xeric|gravelly soils|hills, woodland|sagebrush, conifers||5, 6, 7, 8|blue, violet||ID, MT, OR
-PL0257|8|18|2000|2300|xeric|gravelly soils, shale, sandstone, limestone|rocky outcrops, shrubland|sagebrush||5, 6, 7|blue, lavender, violet|pale violet nectar guides|WY
-PL0258|25|50|900|1500|xeric|volcanic sand|woodland|pine|Eastern side Cascade Range, Arid Transition Zone|6, 7, 8|pink, pale blue, pale violet, violet|pink or violet nectar guides|OR
-PL0259|10|25|2300|2500|NA|selenium clay soils|shrubland|sagebrush|Troublesome Formation, Middle Park, Grand County|6, 7|blue, violet|magenta nectar guides|CO
-PL0260|20|50|1300|1800|NA|gravelly soils|rocky ridges, rocky hillsides, woodland|conifers|Blue Mtns, Arid Transition Zone, Canadian Zone|5, 6|blue, violet|magenta nectar guides|OR, WA
+PlantID|HeightMinCm|HeightMaxCm|ElevationMinMeters|ElevationMaxMeters|SoilMoisture|Substrates|Terrain|PlantAssociations|HabitatNotes|BloomMonths|BloomColors|BloomNotes|StateCodes|CountyCodes
+PL0001|60|250|100|1600|NA|none specified|mountains|chaparral, oak||4, 5|yellow||CA|06065
+PL0002|60|250|400|1800|NA|none specified|woodland, shrubland|piñon-juniper, Joshua tree||3, 4, 5, 6|yellow, orange||AZ, CA, NV|
+PL0003|50|200|0|2450|xeric|none specified|rocky hillsides|none specified||5, 6, 7|white|violet nectar guides|CA, NV
+PL0004|100|300|0|1500|mesic|rocky soils|hillsides, canyons, riparian woodland|chaparral||5, 6, 7|orange-red, red||CA|06079, 06029, 06071, 06037, 06111, 06083, 06059, 06065, 06025,06073
+PL0005|30|60|40|2000|xeric|none specified|rocky hillsides|none specified||6, 7, 8, 9, 10|bright pink||CA|
+PL0006|50|150|40|1900|NA|none specified|rocky hillsides, woodland|chaparral, conifers, mixed forest||6, 7, 8|white, yellow, orange, violet, brown||CA, NV, OR|
+PL0007|30|60|1900|3200|NA|none specified|grassland, woodland|sagebrush, piñon-juniper||5, 6, 7, 8|white, yellow, violet||CA|
+PL0008|30|60|1900|3200|NA|none specified|grassland, woodland|sagebrush, piñon-juniper||5, 6, 7, 8|white, yellow, violet||CA, NV|
+PL0009|22|120|0|2700|mesic|none specified|rocky hillsides, woodland|none specified||6, 7, 8|rose pink, violet||CA, OR, WA|
+PL0010|5|18|2000|2600|NA|calcareous gravel soils|none specified|piñon-juniper, oak-juniper||6, 7|white, blue, violet||UT|
+PL0011|7|18|1936|3044|xeric|volcanic scree, dry stream gravels|volcanic talus slopes|none specified|Absaroka Range|6, 7|blue, violet||WY|
+PL0012|1|2|1500|2200|xeric|sandstone soils|ridgetops|sagebrush, Utah juniper|Daggett County, Sweetwater County|5, 6, 7|white, yellow, blue, violet||UT, WY|
+PL0013|25|60|650|1400|xeric|sandy soils|dunes|sagebrush||4, 5, 6, 7|yellow, blue, violet||OR, WA|
+PL0014|25|60|650|1400|xeric|sandy soils|dunes, sandy flats|sagebrush, shadscale||5, 6, 7|yellow, blue, violet||ID, NV, OR|
+PL0015|30|70|1300|1620|xeric|limestone crevices|dry washes, limestone canyons|ocotillo, cactus, agave, yucca|Favors north or northeast facing hillsides|4, 5, 6|orange-red, red||NM, TX|
+PL0016|15|40|800|2000|xeric|gravelly soils, alkaline soils|hillsides, cliffs, roadcuts, woodland clearings|conifers||5, 6, 7, 8|blue, violet||ID, MT|
+PL0017|15|40|1000|2200|NA|calcareous gravel soils, sandy soils|grassland|shortgrass prairie, mixed prairie||4, 5, 6|white, pale blue||CO, IA, KS, MN, MT, ND, NE, NM, OK, SD, TX|
+PL0018|15|30|400|800|xeric|deep sand|dunes, colluvial sands|Joshua tree|Mojave Desert|3, 4, 5, 6|pink|white center|AZ, CA, NV|
+PL0019|60|120|NA|NA|mesic, hydric|sandy soils, clay soils, alluvial soils|open ground|none specified|Near Ohio and Mississippi Rivers|5|white||AL, AR, IL, IN, KY, MO, MS, OH, TN|
+PL0020|30|50|1000|1600|xeric|deep sand, sandy soils, creosote soils|dunes, shrubland|sandsage||5, 6, 7, 8, 9|white, pink, violet||CO, KS, NM, OK, TX|
+PL0021|30|50|1000|1600|xeric|sandy soils|hillsides, mesas, shrubland|creosote, blackbrush, Artemisia filifolia, juniper||5, 6, 7, 8, 9|white, pale pink||AZ, CO, NM, NV, TX, UT, WY|
+PL0022|5|15|1800|2200|xeric|deep sand, sandy soils|dunes, shrubland, woodland|Wyethia scabra, Ponderosa pine||5, 6|white, blue-lavender, violet||UT|
+PL0023|30|80|1200|1850|mesic|rocky soils, clay soils, humus soils|shrubland, woodland openings|sagebrush, conifers||6, 7, 8|pale blue, blue-lavender, violet||CA, OR|
+PL0024|10|40|1500|1750|NA|gravelly soils, sandy soils|grassland, shrubland|sagebrush, shortgrass prairie||5, 6, 7|pink, blue, lavender||CO, MT, ND, NE, SD, WY|
+PL0025|20|40|900|2300|NA|gravelly soils, sandy soils|sand hills, sandy plains|sagebrush, shortgrass prairie||4, 5, 6|white, blue||CO, KS, NE, NM, OK, SD, WY|
+PL0026|10|40|1500|1750|xeric|sandy soils|dunes, shrubland|sagebrush, saltbush, juniper|West central UT|5, 6|pink||UT|
+PL0027|10|40|1500|1750|xeric|sandy soils|plains, prairie, desert shrubland, woodland, dunes|blackbrush, sagebrush, piñon-juniper||4, 5, 6|pink, blue, lavender|from caudatus by veined floral bracts|AZ, CO, NM, UT|
+PL0028|10|40|1500|1750|xeric|sandy soils|plains, prairie, desert shrubland, woodland|sagebrush, piñon-juniper, juniper|East Uinta Basin|5, 6|blue-lavender||UT|
+PL0029|10|30|1200|1800|xeric|deep sand|loose drifting sand, dunes, valleys|none specified|West Nevada Tonopah to Fallon|5, 6, 7|white, lavender|magenta nectar guides|NV|
+PL0030|8|18|1800|2200|xeric|sandy soils, white shales|hills, plains, shale bluffs|sagebrush||5, 6|blue, violet|magenta nectar guides|CO, MT, UT, WY|
+PL0031|6|20|2000|2500|xeric|rocky soils|hillsides, shrubland, montane grassland|sagebrush||6, 7|blue, violet||ID, MT, WY|
+PL0032|25|45|NA|NA|NA|shale, sandstone, rocky soils, stream gravels|woodland|oak-hickory||4, 5, 6|white, pink|magenta nectar guides|AR, IL, MO, OK, TX|
+PL0033|30|90|1700|2500|mesic|rocky soils, gravelly soils|woodland openings, clearcut hillsides, subalpine meadows|none specified|Arid Transition Zone|5, 6, 7, 8|white, pale yellow, pale blue, blue, violet||ID, MT, OR, WA|
+PL0034|20|50|1700|2500|mesic|rocky soils|foothills, subalpine meadows|Douglas fir, lodgepole pine||6, 7, 8|blue, violet||ID, MT|
+PL0035|20|50|NA|NA|hydric, mesic|none specified|marshes, stream banks, meadows|none specified||6, 7, 8|pinkish blue, blue, violet||ID, OR|
+PL0036|10|40|1700|2500|mesic|rocky soils|rocky hillsides, foothills, subalpine meadows, alpine meadows|none specified||7, 8|blue-violet||ID, MT, WY|
+PL0037|14|35|1650|2000|NA|sandy soils|woodland|piñon-juniper|Kaiparowits Plateau, Smoky Mtn|5, 6|blue, lavender|dark violet nectar guides|UT|
+PL0038|10|35|1250|2300|xeric|sandy soils, sandy loam soils, indurated clay soils|shrubland, grassland|sagebrush, shortgrass prairie||5, 6, 7, 8|pinkish blue, lilac, pale violet|magenta or violet nectar guides|CO, NM|
+PL0039|30|80|NA|NA|mesic|granitic rocky soils, sandy soils|granite hillsides, pinelands, fields|pine|Coastal Plain and Piedmont|4, 5, 6, 7|pink|magenta nectar guides|AL, FL, GA, NC, TN, VA|
+PL0040|20|50|300|700|mesic|none specified|foothills, woodland|none specified|Sierra foothills Butte to Fresno|5, 6, 7, 8|blue, violet||CA|
+PL0041|20|50|500|2500|NA|none specified|stream terraces, hillsides, mesas|chaparral, pine, oak, juniper|Lower Transition Zone to Upper Canadian Zone|5, 6, 7, 8|blue, violet||CA, OR|
+PL0042|15|40|2000|2800|NA|well-drained limestone soils|hillsides, cliffs, ledges|oak, pine-oak|Edwards Plateau, Trans-Pecos|6, 7, 8, 9|red||TX|
+PL0043|30|100|1600|2500|xeric|none specified|hillsides, woodland|piñon-juniper, Gambel oak, Ponderosa pine, Douglas fir||6, 7, 8, 9|orange-red, scarlet, red, crimson|magenta nectar guides|AZ, CA, NM, TX, UT|
+PL0044|30|100|1600|2500|xeric|gravelly soils|woodland, montane meadows|piñon-juniper, Gambel oak, Ponderosa pine, spruce-fir|Eastward from Mogollon Rim|6, 7, 8, 9|red||AZ, CO, NM, TX, UT|
+PL0045|30|100|1600|2200|xeric|none specified|hillsides|piñon-juniper, Gambel oak, Ponderosa pine|Four Corners region|6, 7, 8|orange-red, scarlet, red, crimson|magenta nectar guides|AZ, CO, NM, UT|
+PL0046|6|20|1500|2500|NA|alluvial gravel soils, calcareous silt|shrubland, woodland|sagebrush, piñon-juniper||5, 6|pinkish blue|magenta nectar guides|CA, NV|
+PL0047|20|40|70|300|NA|basaltic rock|rocky outcrops, talus slopes, cliffs|none specified|Arid Transition Zone|4, 5, 6|pink||OR, WA|
+PL0048|60|140|700|800|xeric|calcareous gravel soils, outwash gravels|limestone outcrops, outwash fans|creosote||3, 4, 5, 6|pinkish orange, rose pink, pale yellow|red or magenta nectar guides|AZ, NV|
+PL0049|60|140|700|800|xeric|gravelly soils|arroyos, roadsides, talus slopes, woodland|juniper, desert scrub|Clark County, Mohave County|3, 4, 5, 6|rose pink, pale yellow||AZ, CA, NV|
+PL0050|2|8|3800|4000|NA|granitic rocky soils|alpine scree slopes|pine|Culebra Range|7, 8|lavender|blooms July possibly into August|NM|
+PL0051|3|10|2100|2500|xeric|gravelly soils|rocky hillsides, talus slopes, woodland|Ponderosa pine|Paunsaugunt Plateau Garfield County UT|5, 6, 7|blue, lavender, violet|magenta nectar guides|UT|
+PL0052|8|20|1600|2000|NA|gravelly soils, sandy soils, clay soils|hillsides, shrubland, woodland|sagebrush, piñon-juniper||5, 6|pinkish blue, lavender, violet|magenta or violet nectar guides|AZ, CO, NM, UT|
+PL0053|60|80|200|700|NA|rocky soils, sandy soils|rocky hillsides, woodland, roadcuts|oak-hickory|Appalachian Plateau|5, 6|lavender, violet|magenta nectar guides|KY, TN|
+PL0054|NA|120|NA|NA|NA|none specified|washes, scrubland, woodland|chaparral||5, 6, 7|white, pale pink, blue, lavender, violet, magenta|magenta nectar guides|CA|
+PL0055|10|25|1000|2300|NA|aeolian sands, alluvial sands|dunes, high plains|sandsage, mixed prairie||4, 5, 6|violet||CO, KS, NE, NM, OK, TX|
+PL0056|20|80|1800|3400|xeric|rocky soils|rocky hillsides, woodland openings|pine|Transition Zone, Canadian Zone|6, 7, 8|blue, violet||CA|
+PL0057|4|5|1500|2600|NA|gravelly soils, clay soils|shrubland, woodland, alpine meadows|sagebrush, juniper||4, 5, 6, 7|pale blue, blue-lavender|magenta nectar guides|CO, UT, WY|
+PL0058|4|5|1500|2600|NA|sandy soils, clay soils|shrubland, woodland|sagebrush, piñon-juniper, pine, juniper, oak||4, 5, 6, 7|blue, blue-lavender|magenta nectar guides|AZ, UT|
+PL0059|4|5|1500|2600|NA|sandy soils, clay soils|shrubland, woodland|sagebrush, piñon-juniper, pine, juniper, oak|Tavaputs Plateau, Wasatch Plateau, Aquarius Plateau|5, 6, 7, 8|blue, blue-lavender|magenta nectar guides|CO, UT|
+PL0060|6|12|2150|3050|NA|gravelly soils, sandy soils|subalpine hillsides|none specified|Tushar Plateau, North Markagunt Plateau|6, 7, 8|blue, lavender, violet|magenta nectar guides|UT|
+PL0061|5|25|1100|1950|xeric|limestone|limestone canyons, cliffs|pine-juniper|Grapevine Mtns, Providence Mtns, Mojave Desert|5, 6, 7|pink, rose pink, red, rose purple|red nectar guides|CA|
+PL0062|10|30|1200|2300|xeric|gravelly soils, sandy soils|woodland|piñon-juniper, yellow pine|San Jacinto Mtns|5, 6, 7, 8|violet|magenta nectar guides|CA|
+PL0063|60|120|10|300|mesic, hydric|limestone, stream bank soils|limestone ledges, stream banks, meadows, woodland|none specified||5, 6, 7|white, pink||AL, CT, DC, GA, IL, IN, KY, MA, MD, ME, MI, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT|
+PL0064|30|80|200|1600|mesic|rocky soils, sandy soils|roadsides, fields, woodland|none specified||6, 7|white, lavender, violet|lavender or violet nectar guides|AL, GA, IL, IN, KY, MD, NC, OH, PA, SC, TN, VA, WV|
+PL0065|40|60|2100|2700|NA|rocky soils|rocky hillsides, canyons, woodland|piñon-juniper, pine|Capitan Mtns, Sacramento Mtns|6, 7|red, crimson||NM|
+PL0066|40|60|1400|2500|NA|none specified|canyons, woodland|pine||5, 6, 7, 8|red, crimson||NM, TX|
+PL0067|10|20|400|1900|xeric, mesic|rocky soils|rocky outcrops, talus slopes, pumice hillsides, woodland, roadcuts|none specified||5, 6, 7, 8|white, lavender, violet||OR, WA|
+PL0068|12|35|1500|2500|xeric|sandy soils|shrubland, woodland|piñon-juniper||5, 6, 7|pinkish blue, blue|magenta nectar guides|UT|
+PL0069|9|35|1600|2900|NA|calcareous rocky soils|rocky hillsides, talus slopes, grasslands, roadcuts|Mountain big sagebrush, juniper, Douglas fir, limber pine|Bighorn Mtns, Pryor Mtns|5, 6, 7|blue, blue-lavender|violet nectar guides|MT, WY|
+PL0070|30|120|10|1600|xeric|outwash soils|hillsides, outwash fans|chaparral, piñon-juniper, pine, oak, coastal sage scrub|Coast ranges Lake to San Diego County|4, 5, 6, 7|scarlet||CA|
+PL0071|15|40|1250|2200|xeric|volcanic soils|woodland openings|Ponderosa pine, lodgepole pine, sagebrush|East side Cascade Range|6, 7, 8|blue, violet||CA, OR|
+PL0072|7|15|1400|2500|NA|gravelly soils, sandy soils, clay soils|shrubland|sagebrush, juniper|Uinta County, Sweetwater County, Carbon County, Daggett County|5, 6, 7|lavender, violet|magenta nectar guides|UT, WY|
+PL0073|30|70|200|1500|xeric|sandy soils|desert canyons|none specified|Lower Sonoran Zone, San Diego County|2, 3, 4, 5, 6|bright pink, crimson, magenta|red or magenta nectar guides|CA|
+PL0074|30|70|200|1700|xeric|rocky soils, sandy soils|desert canyons|piñon-juniper, chaparral|Riverside County western Colorado Desert|3, 4, 5|white, red, crimson||CA|
+PL0075|30|70|400|1500|xeric|rocky soils, sandy soils|shrubland|piñon-juniper, chaparral, creosote, Joshua tree|Southern edge Mojave Desert|2, 3, 4, 5|white, red, crimson||CA|
+PL0076|60|100|2100|2200|NA|volcanic sand, volcanic cinders|cinder fields, woodland|pine|Painted Desert, south central Coconino County|4, 5, 6, 7, 8|pink, pinkish blue, rose pink|magenta nectar guides|AZ|
+PL0077|30|60|200|1000|mesic|well-drained sandy loam soils, rocky soils|limestone outcrops, grassland|tallgrass prairie, mixed prairie|Throughout Great Plains|4, 5, 6|white, pink, pale lavender|dark violet nectar guides|AR, KS, MO, NE, NM, OK, TX|
+PL0078|30|76|100|300|NA|calcareous gravel soils|cliffs, barrens, grassland|prairie|Ozark Plateau|4, 5, 6|violet|magenta nectar guides|AR, MO, OK|
+PL0079|40|80|1600|2400|NA|sandy soils|woodland|sagebrush, piñon-juniper, Gambel oak, Ponderosa pine||5, 6, 7|blue, lavender||AZ, CO, NM, NV, UT|
+PL0080|10|20|2000|3000|NA| calcareous rocky soils|subalpine open ground|none specified||6, 7, 8|blue, violet||ID, UT|
+PL0081|10|18|1600|2000|NA|alluvial gravel soils|woodland|piñon-juniper||5, 6|pale blue, lavender|magenta or violet nectar guides|NV, UT|
+PL0082|20|50|1219|3048|mesic|good soils, rocky soils|meadows, woodland openings|none specified|Arid Transition Zone, Canadian Zone|5, 6, 7, 8|white, pale yellow, pink, violet||AK, ID, MT, OR, WA|
+PL0083|6|30|1700|2200|xeric|calcareous gravel soils|shrubland, woodland|sagebrush, piñon-juniper||4, 5, 6|magenta, violet|red or magenta nectar guides|NV, UT|
+PL0084|8|15|2100|2600|NA|gravelly soils, sandy soils|shrubland, woodland|sagebrush, piñon-juniper, scrub oak|La Sal Mtns|5, 6, 7|blue, blue-lavender||UT|
+PL0085|8|15|1800|3400|xeric|gravelly soils, sandy soils|shrubland, woodland|sagebrush, piñon-juniper, scrub oak||5, 6, 7|blue, blue-lavender||CO, UT|
+PL0086|6|28|1700|3400|NA|none specified|woodland|piñon-juniper, Ponderosa pine||5, 6, 7|blue, blue-lavender|magenta or violet nectar guides|CO, NM|
+PL0087|2|18|2000|3400|NA|none specified|shrubland, woodland, talus slopes|sagebrush, scrub oak, spruce||6, 7|blue, blue-lavender, lavender||CO|
+PL0088|6|25|2400|3300|NA|none specified|shrubland, woodland|sagebrush, piñon-juniper, aspen|Hinsdale County, Mineral County, Saguache County|6, 7, 8|blue, blue-lavender||CO|
+PL0089|5|25|NA|NA|NA|none specified|woodland|piñon-juniper, Ponderosa pine|NA|5, 6, 7, 8|blue, blue-lavender|magenta or violet nectar guides|NM|
+PL0090|15|45|600|1500|xeric|light basaltic soils|shrubland, hillsides|sagebrush|SW Idaho, SE Oregon|5, 6, 7|blue, violet||ID, OR|
+PL0091|20|70|1500|3200|NA|gravelly soils, sandy soils|foothills, canyon floors, woodland, roadsides|sagebrush, aspens fir, Gambel oak, maple, spruce|Wasatch Range|5, 6, 7|blue, blue-violet||ID, UT, WY|
+PL0092|20|70|1400|3000|NA|clay soils|foothills, canyon floors, woodland, roadsides|sagebrush, aspens fir, Gambel oak, maple, spruce||5, 6, 7|blue, blue-violet||ID, MT, UT, WY|
+PL0093|30|70|1500|2400|xeric|gravelly soils, sandy soils|shrubland, woodland, foothills|sagebrush||6, 7|blue||ID, MT, WY|
+PL0094|20|60|1600|2200|xeric|none specified|rocky hillsides, shrubland, woodland|sagebrush, piñon-juniper, oak-juniper||4, 5, 6|blue-lavender|violet nectar guides|CO, UT|
+PL0095|20|60|2100|2600|NA|rocky soils, clay loam soils|shrubland|sagebrush||5, 6, 7, 8, 9|pale blue, pinkish blue, lavender||CO,WY|
+PL0096|20|45|1000|1700|xeric|gravelly soils|rocky hillsides, desert grassland|none specified||4, 5|violet|magenta or violet nectar guides|AZ, NM, TX|
+PL0097|2|18|900|3600|xeric|rocky soils|talus slopes, rocky ledges, rocky outcrops|juniper|Primarily volcanic substrates, woodland to timberline|6, 7, 8|rose purple, violet||CA, NV, OR, WA|
+PL0098|2|18|30|1600|NA|rocky soils|rocky ledges, rocky outcrops|none specified|Hudsonian Zone|6, 7, 8|violet||OR, WA|
+PL0099|2|18|2000|3600|NA|rocky soils|rocky outcrops, talus slopes|none specified||6, 7, 8|blue-lavender, violet||NV, OR|
+PL0100|40|90|100|200|mesic|sterile soils, clay soils|woodland, fields|white oak||5, 6|white, pale lavender|magenta nectar guides|IL, IN|
+PL0101|20|60|2290|3440|xeric|rocky soils|rocky hillsides, alpine meadows, woodland|pine|Pinlero Mtns, White Mtns, Mogollon Range|6, 7, 8, 9|lavender, violet|violet nectar guides|AZ, NM|
+PL0102|4|9|2400|2600|xeric|oil shale talus|talus slopes|none specified|Garfield County, Green River Formation|6, 7|white, pale lavender||CO|
+PL0103|25|40|1800|2900|NA|none specified|woodland|juniper|Fremont County, Sheep Basin|6, 7, 8|blue, pale lavender|magenta nectar guides|CO|
+PL0104|10|40|800|2500|xeric|rocky soils|rocky outcrops, gravel banks, talus slopes, shrubland, woodland|sagebrush, juniper, pine|Arid Transition Zone|5, 6, 7|white, pale lavender|magenta nectar guides|CA, ID, MT, NV, OR, WA, WY|
+PL0105|10|40|800|2500|xeric|calcareous rocky soils, basaltic rocky soils|rocky hillsides, talus slopes, shrubland, woodland|sagebrush, piñon-juniper, conifers||5, 6, 7|white, pale lavender|violet nectar guides|CA, NV, OR, UT|
+PL0106|10|40|600|2700|xeric|calcareous rocky soils, basaltic rocky soils|rocky hillsides, rocky outcrops, stream gravels, woodland|sagebrush, juniper, piñon-juniper|Siskiyou Mtns|5, 6, 7|white, pale pink|red or magenta nectar guides|OR|
+PL0107|10|40|800|2500|NA|rocky soils|rocky hillsides, stream beds|none specified|Klickitat County, Deschutes County, Grant County|5, 6, 7|white, pale lavender||OR, WA|
+PL0108|70|120|10|500|mesic|loam soils, sandy loam soils|grassland, woodland, roadsides|none specified||5, 6, 7|white|violet nectar guides|AL, AR, CT, DC, DE, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WV|
+PL0109|20|30|1300|2000|NA|rocky soils|rocky outcrops, cliffs|none specified||6, 7, 8|blue, blue-lavender|magenta nectar guides|ID, MT, WA|
+PL0110|10|35|1800|2300|NA|granite crevices|woodland|piñon-juniper, oak||6, 7, 8|pale lavender, lavender, violet|magenta nectar guides|AZ|
+PL0111|10|40|10|50|xeric|thin gritty soils, indurated clay soils|woodland|oak-longleaf pine |Altamaha Grit of Inner Coastal Plain|4, 5|lavender, violet||GA|
+PL0112|30|60|1500|1600|NA|calcareous gravel soils|rocky hillsides, woodland|piñon-juniper|SE end Shivwits Plateau|5, 6|blue, violet|magenta nectar guides|AZ|
+PL0113|2|12|1500|2000|xeric|alkaline soils, sandy soils, gravel soils, clay soils|alluvial fans, hillsides, woodland|shadscale, sagebrush, piñon-juniper||5, 6|blue, blue-violet||NV, UT|
+PL0114|2|12|1500|2000|xeric|alkaline soils, sandy soils, gravel soils, clay soils|shrubland, woodland, hills|sagebrush, piñon-juniper|Western Uinta Basin Duschesne County|5, 6|blue, blue-violet, violet||UT|
+PL0115|40|100|1500|2800|xeric|rocky soils, gravelly soils|shrubland, woodland|sagebrush, piñon-juniper, Ponderosa pine, mountain mahogany||3, 4, 5, 6, 7|scarlet, red||AZ, CA, CO, ID, NM, NV, UT, WY|
+PL0116|40|100|600|1500|xeric|none specified|shrubland, woodland|sagebrush, piñon-juniper, Ponderosa pine, mountain mahogany||3, 4, 5, 6|scarlet, red|exerted anthers|AZ|
+PL0117|40|100|800|2800|xeric|none specified|shrubland, woodland|sagebrush, piñon-juniper, Ponderosa pine, mountain mahogany||3, 4, 5, 6, 7|scarlet, red|inserted stamen and anthers|AZ, CA, CO, NM, NV, UT|
+PL0118|20|30|900|1800|NA|volcanic soils|hillsides, meadows|none specified|Hell’s Canyon, Nez Perce County, Wallowa County|5, 6|violet|violet nectar guides|ID, OR|
+PL0119|7|13|900|2600|NA|none specified|rocky outcrops, talus slopes, cliffs|none specified||6, 7, 8|violet||ID, MT, WA, WY|
+PL0120|10|40|300|1300|NA|gravelly soils, sandy soils|plains, hillsides, woodland|juniper||5, 6|lavender, violet|magenta nectar guides|OR|
+PL0121|6|60|1400|2500|NA|gravelly soils, sandy soils, clay soils|shrubland|sagebrush, juniper||5, 6, 7|lavender, violet|magenta nectar guides|UT, WY|
+PL0122|8|20|500|2400|xeric|gravelly soils, sandy soils, shale soils, clay soils|valleys, foothills, stream terraces|sagebrush, shortgrass prairie|Arid Transition Zone|6, 7|pink, lavender, violet|magenta or violet nectar guides, very sticky glandular hairs|CO, ID, MT, ND, NE, SD, WA, WY|
+PL0123|8|20|600|2700|xeric|gravelly soils, sandy soils|valleys, foothills|sagebrush||5, 6, 7|lavender, violet|magenta nectar guides|ID, MT, OR|
+PL0124|10|40|200|1200|xeric|rocky soils|shrubland|bitterbrush, chamisa|Arid Transition Zone, Chelan County|5, 6|blue, lavender, violet|magenta nectar guides|WA|
+PL0125|15|50|1100|1600|NA|volcanic ash soils|subalpine meadows, woodland openings|pine|Transition Zone, Canadian Zone|6, 7, 8, 9|blue, lavender, violet|pale violet nectar guides|OR, WA|
+PL0126|30|40|1200|1500|NA|calcareous rocky soils, sandy soils|grassland|none specified||4, 5, 6, 7|pale lavender, lavender, violet|magenta nectar guides|AZ, KS, NM, OK, TX|
+PL0127|20|50|200|300|NA|rocky soils|rocky gulches, rocky flats|none specified|Shasta County, Transition Zone|6, 7|blue, violet||CA|
+PL0128|15|40|1980|2450|mesic|rocky soils|alpine meadows, woodland openings|conifers|Bitterroot Mtns|6, 7, 8|white, pale yellow||ID, MT|
+PL0129|12|23|1300|2300|NA|alluvial fans, limestone gravel|gravel washes|none specified|Jackson Mountains|5, 6|blue-violet||NV|
+PL0130|50|120|1500|2500|NA|gravelly soils|gravel washes, canyon floors, shrubland, woodland|sagebrush, piñon-juniper||5, 6, 7|lavender, pale yellow, pale pink, rose pink|red nectar guides|CA, NV|
+PL0131|50|120|1600|2700|NA|gravelly soils|gravel washes, canyon floors, shrubland, woodland|sagebrush, piñon-juniper||5, 6, 7|lavender, pale yellow, pale pink, rose pink|red nectar guides|CA, NV|
+PL0132|8|25|1500|1600|NA|pedimental gravels|pale-colored clay hillsides and benches|shadscale|Uinta Formation Duschesne River|5, 6|pink|rose pink nectar guides|UT|
+PL0133|6|25|1650|1800|xeric|gravelly soils, sandy soils|shrubland|needlegrass, matchweed, black sagebrush|Iron County|5, 6|blue-lavender, lavender, violet|violet nectar guides|UT|
+PL0134|8|25|1500|2200|xeric|clay soils, sandy soils|barren hillsides, shrubland|chamisa, sagebrush||5, 6, 7|blue-lavender, blue-violet, violet|violet nectar guides|CO, UT, WY|
+PL0135|8|25|1800|2500|xeric|shale soils|barren hillsides, shrubland|chamisa||5, 6, 7|blue-lavender, blue-violet, violet|violet nectar guides|UT|
+PL0136|30|60|900|1900|xeric|none specified|shrubland|creosote||4, 5, 6|pale pink, pink, blue-lavender, lavender|magenta nectar guides|CA, NV|
+PL0137|30|60|975|2010|NA|rocky soils, gravelly soils|gravel washes, canyon floors, shrubland, woodland|creosote, piñon-juniper|Lower Sonoran Zone, Panamint Range, Argus Range, Inyo Range|5, 6|pale pink, pink, blue-lavender, lavender|magenta nectar guides|CA|
+PL0138|15|40|300|3000|NA|rocky soils, gravelly soils|rocky hillsides, rocky outcrops, roadcuts, woodland|sagebrush-juniper, conifers|Arid Transition Zone, Hudsonian Zone|4, 5, 6|blue-lavender, violet|blue-lavender nectar guides|ID, MT, OR, WA, WY|
+PL0139|15|40|200|2200|NA|rocky soils|rocky hillsides, rocky outcrops, cliffs, roadcuts, woodland openings|none specified||4, 5, 6, 7|blue-lavender, violet|blue-lavender nectar guides|ID, WA|
+PL0140|15|40|1400|2500|NA|rocky soils|rocky hillsides, rocky outcrops|none specified||4, 5, 6|blue-lavender, violet|blue-lavender nectar guides|ID, OR, WA|
+PL0141|10|20|100|1800|NA|rocky soils, gravelly soils|rocky flats, rocky hillsides, woodland hillsides|sagebrush, juniper, Ponderosa pine||5, 6, 7|blue, rose purple|red nectar guides|OR, WA|
+PL0142|20|40|1000|1600|NA|rocky soils, gravelly soils|rocky flats, rocky hillsides, woodland hillsides|sagebrush, juniper, Ponderosa pine|Eastern OR, Western ID, Arid Transition Zone|5, 6|lavender, violet|red nectar guides|OR, ID|
+PL0143|10|20|1600|2400|xeric|shale, sandy-clay soils|rocky hillsides, shrubland, woodland|sagebrush, piñon-juniper, greasewood-saltbush||6, 7, 8, 9|pale blue, pale violet, lavender|magenta nectar guides|CO, UT, WY|
+PL0144|10|80|3300|3400|NA|gravelly soils|mesas, mountains|none specified|Front Range, primarily in disturbed areas|6, 7, 8|blue-violet, violet||CO, NM, WY|
+PL0145|50|65|1800|2100|NA|gravelly soils, sandy soils|high plains, hillsides|none specified||6, 7, 8|blue, blue-violet|magenta nectar guides|CO, NM|
+PL0146|50|65|1100|2200|NA|rocky soils, sandy soils|high plains, hillsides|none specified||6, 7, 8, 9|pale blue, blue|pale violet nectar guides|MT, ND, NE, SD, WY|
+PL0147|8|30|1600|3000|xeric|none specified|hillsides, shrubland, woodland|piñon-juniper, Ponderosa pine|SW Colorado,  NW New Mexico|5, 6, 7|blue, blue-lavender|magenta or violet nectar guides|CO, NM|
+PL0148|40|100|200|2000|NA|rocky soils|rocky hillsides|none specified|Chelan County, Arid Transition Zone|4, 5, 6, 7|blue-lavender, lavender, violet|dark violet nectar guides|WA|
+PL0149|40|100|200|1400|xeric|rocky soils|rocky hillsides, cliffs, canyons, foothills|none specified|Arid Transition Zone|5, 6, 7|blue-lavender, lavender, violet|dark violet nectar guides|ID, OR, WA|
+PL0150|30|35|1900|2100|NA|none specified|woodland openings|Lodgepole pine|Klamath County,  Lake City|6, 7|violet||OR|
+PL0151|25|40|800|3100|hydric, mesic|gravelly soils|wetlands, hillsides|none specified|Arid Transition Zone, Canadian Zone|5, 6, 7, 8|violet||ID, MT, OR|
+PL0152|20|35|1700|1750|NA|blue-grey or red sandy clay soils|low hills, plains, shrubland, woodland|sagebrush-shadscale, juniper-mountain mahogany|Duschesne River Formation Uintah County|5, 6|blue, blue-lavender, violet|magenta nectar guides|UT|
+PL0153|10|30|400|1200|xeric|rocky soils, gravelly soils|hillsides, stream terraces|none specified||7, 8|white, pink, blue, blue-lavender||AK|
+PL0154|25|65|1000|3000|xeric|lava sand, lava gravel, granitic sand, granitic gravel|shrubland, woodland|sagebrush-Symphoricarpos, conifers|Canadian Zone, Hudsonian Zone|6, 7, 8|blue, violet|dark blue nectar guides|CA, NV, OR|
+PL0155|25|55|300|2300|NA|none specified|foothill|scrub oak, pine||5, 6, 7, 8|pale blue, pale lavender, lavender, violet||CO, IA, MI, MN, MT, ND, NE, NM, SD, WI, WY|
+PL0156|30|60|NA|NA|NA|none specified|grassland|tallgrass prairie, mixed prairie, shortgrass prairie||5, 6, 7, 8|pale lavender, lavender|violet nectar guides|WI|
+PL0157|7|18|1400|2000|NA|oil shales|talus slopes, outcrops|piñon-juniper||5, 6|pink, lavender|violet nectar guides|CO, UT|
+PL0158|50|95|300|2000|xeric|sandy soils, rocky soils|hillsides, woodland, grassland|conifers, prairie||4, 5, 6, 7|pale pink, lavender, violet||CO, CT, IA, IL, IN, KS, MA, MN, MO, MT, ND, NE, OH, OK, SD, TX, WI, WY|
+PL0159|30|100|800|2900|xeric|none specified|shrubland, woodland, foothills|chaparral, piñon-juniper, pine|Transition Zone|4, 5, 6, 7|white, pale pink, pale blue, pale lavender, pale violet|magenta nectar guides|CA|
+PL0160|30|80|500|1900|xeric|none specified|foothills, woodland|piñon-juniper||4, 5, 6, 7|blue-violet, violet||CA|
+PL0161|25|35|300|620|xeric|calcareous gravel soils, sandy soils|grassland|none specified||3, 4, 5|white, pink||TX|
+PL0162|10|25|3000|3750|NA|rocky soils, gravelly soils|alpine meadows|none specified|Near and above timberline|6, 7, 8|blue-violet, pale violet, violet, magenta|magenta or violet nectar guides|CO|
+PL0163|5|15|3200|4100|NA|gravelly soils|scree slopes, gravel hillsides, high alpine summits, boulder fields|none specified||6, 7, 8|violet, dark violet||CO|
+PL0164|30|70|1950|2900|xeric|calcareous loam soils|hillsides|sagebrush, piñon-cedar-sage|Grand County, Eagle County, Routt County|6, 7|pinkish blue, blue, lavender, blue-violet, violet|two well-exerted stamens|CO|
+PL0165|45|200|1280|2420|xeric|calcareous rocky soils|rocky hillsides, stream beds|none specified|Mountains of the Trans-Pecos|4, 5, 6, 7, 8, 9, 10|orange, red||TX|
+PL0166|20|45|900|2300|NA|deep sand|sand dunes|none specified|Dune blowouts in sandhills ecosystem|4, 5, 6, 7|blue-lavender, lavender|fragrant, magenta nectar guides|NE, WY|
+PL0167|15|40|2200|4000|NA|none specified|alpine meadows, subalpine meadows|none specified|Tulare County, Fresno County|7, 8|blue, lavender, violet||CA|
+PL0168|5|20|2000|3900|mesic|none specified|talus slopes, alpine meadows, subalpine meadows|none specified|Often around melting snow|7, 8|blue, lavender, violet||CA, NV|
+PL0169|20|50|1100|2400|NA|none specified|montane meadows|none specified|Transition Zone, Canadian Zone|7, 8|blue, lavender, violet||CA|
+PL0170|30|50|50|1700|NA|none specified|grassland, shrubland, woodland openings|chaparral, sagebrush, pine||4, 5, 6, 7|blue, violet||CA|
+PL0171|30|50|50|1600|xeric|none specified|grassland, shrubland, woodland openings|chaparral, sagebrush, pine|Upper Sonoran Zone, Transition Zone|4, 5, 6, 7|blue, violet||CA|
+PL0172|25|70|50|1900|NA|none specified|grassland, shrubland, woodland openings|chaparral, pine||4, 5, 6, 7|blue, violet||CA|
+PL0173|40|80|10|200|xeric|rocky soils, sandy soils|rocky fields, bluffs, woodland|none specified||5, 6, 7|white, pale lavender||AL, CT, DC, DE, IL, IN, KY, MA, MD, ME, MI, NH, NJ, NY, OH, PA, RI, TN, VA, VT, WI, WV|
+PL0174|5|25|1700|3400|NA|none specified|valleys, foothils, montane forest, alpine tundra|sagebrush, piñon-juniper, conifers|Wasatch Range|5, 6, 7|blue, violet|magenta nectar guides|UT|
+PL0175|5|25|1000|3200|NA|rocky soils|rocky hillsides, valleys, foothills, montane forest, alpine tundra|sagebrush, piñon-juniper, conifers||4, 5, 6, 7, 8|blue, blue-lavender, violet||CA, CO, ID, NM, NV, OR, UT, WA, WY|
+PL0176|5|25|1500|3400|NA|none specified|valleys, foothils, montane forest, alpine tundra|sagebrush, piñon-juniper, pine|South Markagunt Plateau|5, 6|blue, violet|magenta nectar guides|UT|
+PL0177|8|20|1500|1600|NA|volcanic ash soils|white tuffaceous outcrops|juniper||6, 7|blue, blue-violet, violet|magenta nectar guides|ID, UT|
+PL0178|15|30|1500|2200|xeric|sandy soils, loam soils|valleys, foothills, roadsides|sagebrush||5, 6|pink|red or magenta nectar guides|NV, UT|
+PL0179|60|80|800|1800|xeric|sandy soils, rocky soils|shrubland, woodland|sagebrush, piñon-juniper, Joshua tree||5, 6|pink, pinkish blue, lavender||CA|
+PL0180|10|60|2200|3400|NA|none specified|hillsides, meadows, woodland, passes|sagebrush, piñon-juniper, pine, pine-Douglas fir|Sangre de Cristo Mtns, Sandia Mtns|6, 7, 8, 9, 10|pale blue, lavender|magenta nectar guides|NM|
+PL0181|10|45|1100|2300|NA|sandy soils, loam soils, gravelly soils|limestone hillsides, grassland, woodland, mesas|shortgrass prairie, piñon-juniper||6, 7|lavender, violet||CO, KS, NM, TX|
+PL0182|8|20|1300|2250|NA|volcanic clay soils|shrubland, woodland|sagebrush, juniper, piñon-juniper||5, 6, 7|pink, lavender, violet|magenta nectar guides|CA, ID, NV, OR|
+PL0183|8|25|1500|3000|xeric|none specified|valleys, woodland hillsides|sagebrush, piñon-juniper||5, 6|blue, violet, magenta||NV, OR|
+PL0184|40|70|200|350|NA|rocky calcareous soils|hillsides, woodland|juniper-oak-hickory|Cumberland Plateau|5|pale lavender|violet nectar guides|AL, TN|
+PL0185|30|70|1200|2400|mesic, xeric|none specified|open woodland hillsides, grassy hillsides|piñon-juniper, pine, mixed hardwood||7, 8|scarlet||CA|
+PL0186|20|80|400|2000|xeric|none specified|wooded hillsides, shrubland|oak, pine, Ponderosa pine|Upper Sonoran Zone, Transition Zone|3, 4, 5, 6, 7|blue, violet|violet nectar guides|CA|
+PL0187|20|80|400|1700|NA|rocky soils, sandy soils|shrubland, woodland|chaparral, pine, oak|Upper Sonoran Zone, Transition Zone|5, 6, 7|blue, violet|violet nectar guides|CA|
+PL0188|20|80|500|2300|xeric|none specified|shrubland, woodland|sagebrush, conifers||5, 6, 7, 8, 9|blue, violet|violet nectar guides|CA, OR|
+PL0189|40|100|10|400|mesic|sandy soils|rocky hillsides, meadows, forest edges|none specified||5, 6|white, pale lavender|magenta nectar guides|AL, CT, DC, DE, FL, GA, KY, LA, MA, MD, MS, NC, NJ, OH, PA, SC, TN, VA, WV|
+PL0190|40|60|1100|2000|NA|sandy soils|shrubland, woodland|sagebrush, piñon-juniper, Ponderosa pine||5, 6|blue, blue-violet|magenta nectar guides|AZ, UT|
+PL0191|20|55|1200|1800|NA|gravelly soils|rocky canyons, woodland, desert grassland, shrubland|piñon-juniper, thorn scrub||5, 6, 7|orange-red, scarlet, red, crimson|magenta nectar guides|AZ, NM, TX|
+PL0192|10|20|1500|2900|NA|sandy soils, gravelly soils|grassland, shrubland|sagebrush||6, 7, 8|white, pink, pinkish violet||CO, WY|
+PL0193|10|20|1500|2400|NA|sandy soils, gravelly soils|shrubland, woodland openings|sagebrush, pine||5, 6, 7, 8|pink, violet||ID, MT, WY|
+PL0194|30|70|10|500|mesic|acidic soils, sandy soils|sand barrens, woodland, grassland|tallgrass prairie||3, 4, 5, 6|white, pale pink, pale lavender||AL, AR, FL, GA, LA, MS, OK, TX|
+PL0195|50|80|1700|2400|xeric|none specified|shrubland, meadows|sagebrush|Blaine County, Boise County, Elmore County|6, 7|blue, violet|magenta nectar guides|ID|
+PL0196|5|20|2000|4000|NA|none specified|limestone hillsides, shrubland, woodland|sagebrush, oak, manzanita, Ponderosa pine, aspen, spruce, limber pine, bristlecone pine ||6, 7, 8|violet, dark violet||NV|
+PL0197|5|20|2000|3500|NA|none specified|woodland|pine|Clark County|6, 7, 8|blue, violet|magenta or violet nectar guides|NV|
+PL0198|15|70|1700|3400|NA|none specified|woodland|spruce, pine-aspen||6, 7, 8|blue, violet|magenta or violet nectar guides|UT|
+PL0199|30|70|970|2500|NA|alluvial fans|valley bottoms, canyon bottoms|none specified||6, 7|blue, violet||ID, MT|
+PL0200|20|40|1500|2600|xeric|sandy soils, gravelly soils|hillsides|sagebrush, piñon-juniper, Gambel oak, Ponderosa pine||5, 6|white||UT|
+PL0201|20|40|1500|2600|xeric|sandy soils, gravelly soils|hillsides, woodland|sagebrush, piñon-juniper, Gambel oak, Ponderosa pine||5, 6|pinkish blue, blue, lavender, violet||AZ, CO, NM, UT|
+PL0202|15|40|2000|3000|xeric|rocky soils, gravelly soils|none specified|piñon-juniper, oak-maple, aspen-conifer, conifer||6, 7|lavender, violet||AZ, NV, UT|
+PL0203|15|40|1800|3100|xeric|rocky soils|hillsides|sagebrush, Symphoricarpos, Gambel oak, spruce-fir||6, 7|blue, lavender||ID, UT|
+PL0204|15|40|2100|2700|NA|rocky soils|mixed shrubland, grassland|sagebrush, pine, pine-aspen||6, 7|blue, violet||NV, UT|
+PL0205|30|50|1600|1800|NA|none specified|shrubland, woodland|sagebrush piñon-juniper, Gambel oak|San Pitch Mtns|5, 6, 7|blue, violet||UT|
+PL0206|10|30|1200|2300|NA|sandy soils, clay soils|mountains, plateaus, woodland|sagebrush, piñon-juniper, scrub oak, Ponderosa pine||6, 7|blue, lavender|magenta nectar guides|AZ, CO, NM|
+PL0207|10|30|1200|2300|NA|rocky soils|hillsides|sagebrush, piñon-juniper||6, 7, 8|blue, lavender|magenta nectar guides|AZ, NV|
+PL0208|10|30|1400|2900|NA|sandy soils, clay soils, rocky soils|hillsides|sagebrush, piñon-juniper||6, 7, 8|blue, lavender|magenta nectar guides|AZ, NM|
+PL0209|15|25|1800|2000|NA|none specified|rocky hillsides, limestone cliffs|pine-juniper||6, 7, 8, 9, 10|blue, lavender|magenta nectar guides|AZ, NM|
+PL0210|8|40|1200|2400|NA|sandy soils, clay soils|mountains, plateaus, woodland|sagebrush, oak-juniper, oak, pine||5, 6, 7, 8, 9, 10|blue, lavender|magenta nectar guides|AZ, NV, UT|
+PL0211|25|60|1800|2500|NA|none specified|shrubland, woodland|sagebrush, Gambel oak, mountain mahogany|Tushar Plateau, Pavant Plateau, Mineral Mtns, Canyon Mtns|6, 7|blue, violet||UT|
+PL0212|30|80|600|2400|NA|none specified|rocky hillsides, rocky outcrops, stream gravels|none specified||6, 7, 8|pink, pale lavender, lavender, violet||ID, MT, WA|
+PL0213|14|20|1600|2000|NA|clay soils, gravel soils|alkaline bluffs, alkaline knolls, desert valley|sagebrush||5, 6|blue, violet|magenta nectar guides|UT|
+PL0214|40|100|2100|2900|NA|none specified|shrubland, woodland openings|sagebrush, aspen|Delta County, Mesa County|4, 5, 6, 7|blue, violet|magenta nectar guides|CO|
+PL0215|30|40|2000|2900|NA|none specified|cliffs, shady hillsides|pine, spruce-fir|Sierra County, Grant County|7, 8|lavender, violet|magenta nectar guides|NM|
+PL0216|10|25|750|1300|mesic|diatomaceous clay, ash clay|hillsides, shrubland, woodland|sagebrush, pine-juniper|Arid Transition Zone|5, 6, 7|light blue, blue, blue-violet, magenta|magenta nectar guides|ID, OR|
+PL0217|10|30|1300|1800|xeric|gravelly soils, sandy soils, clay soils|mesas, hillsides, shrubland, woodland|blackbrush, sagebrush, piñon-juniper||4, 5, 6|blue, violet|magenta nectar guides|CO, UT|
+PL0218|10|30|1300|1800|xeric|gravelly soils, sandy soils, clay soils|mesas, hillsides, shrubland, woodland|blackbrush, sagebrush, piñon-juniper|from moffattii by oblanceolate basal leaves and sessile cauline leaves|4, 5, 6|blue, violet|magenta nectar guides|CO|
+PL0219|7|30|1300|1800|xeric|gravelly soils, sandy soils|desert hills, washes|sagebrush, Joshua tree|White Mtns, Inyo Mtns|4, 5, 6|pink, rose pink, violet|magenta nectar guides|CA|
+PL0220|10|30|1500|3200|NA|volcanic ash soils|white tuffaceous outcrops|juniper||6, 7, 8|lavender, blue, violet|pale lavender or blue nectar guides|ID|
+PL0221|10|30|1500|3500|NA|rocky crevices|rocky hillsides, talus slopes|none specified||6, 7, 8|lavender, blue, violet|pale lavender or blue nectar guides|ID, MT, UT, WY|
+PL0222|35|50|2200|3300|NA|gravelly soils, silty soils|shrubland, woodland|sagebrush, piñon-juniper, pine, mountain mahogany|White Pine County|6, 7|blue, violet||NV|
+PL0223|10|25|1700|2100|xeric|gravelly soils, sandy soils|woodland|juniper, piñon-juniper||5, 6|blue, violet|magenta nectar guides|CO, UT, WY|
+PL0224|80|150|0|100|NA|sandy soils|woodland|scrub oak, pine|Coastal Plain|4, 5, 6, 7|white||AL, FL, GA|
+PL0225|50|100|10|200|xeric|sandy soils|grassland, woodland|deciduous forest, pine, sandhill prairie||3, 4, 5, 6|scarlet, red||AR, LA, OK, TX|
+PL0226|3|7|1800|2000|xeric|calcareous gravel soils|shrubland, woodland, valleys, foothills|piñon-juniper||5, 6|violet||UT|
+PL0227|20|40|2500|3160|NA|rocky soils|woodland|Ponderosa pine, aspen, Douglas fir, subalpine fir|Navajo Mtn. San Juan County|7, 8|blue, blue-lavender, lavender|magenta nectar guides|UT|
+PL0228|30|60|1830|2740|NA|none specified|hillsides, woodland openings|pine, spruce-fir, pine-spruce|Capitan Mtns, Sacramento Mtns, White Mtns|6, 7, 8|lavender, violet|magenta nectar guides|NM|
+PL0229|20|60|1000|2200|xeric|volcanic soils|woodland|pine, fir|Transition Zone|5, 6, 7, 8, 9, 10|blue, violet||CA|
+PL0230|15|30|2000|3500|NA|rocky soils|rocky outcrops, talus slopes|none specified|Transition Zone, Canadian Zone|6, 7, 8|pink, lavender, violet||CA, OR|
+PL0231|15|30|500|3500|NA|rocky crevices|rocky outcrops, talus slopes|none specified||4, 5, 6, 7, 8|scarlet, red||CA, NV|
+PL0232|15|30|800|2300|NA|rocky crevices|rocky outcrops, talus slopes|none specified|Sonoma County|6, 7, 8|dark rose-purple||CA|
+PL0233|10|35|200|2500|NA|none specified|grassland, roadcuts|shortgrass prairie, montane grassland||5, 6, 7|scarlet, red|magenta nectar guides|CO, MT, ND, SD, WY|
+PL0234|10|35|400|1700|NA|rocky soils, gravelly soils|hillsides, stream banks, grassland|montane grassland||4, 5, 6|blue, violet|magenta nectar guides|ID, MT|
+PL0235|60|100|1370|2130|xeric|basaltic rocky soils|hillsides, woodland|piñon-juniper, Ponderosa pine||5, 6|lavender, violet|magenta nectar guides|AZ|
+PL0236|40|60|200|300|xeric|sandy soils|grassland, woodland|tallgrass prairie||4, 5, 6|white, pale yellow||OK, TX|
+PL0237|15|40|2400|3500|mesic, hydric|rich dark loam soils|wetlands, grassland, woodland openings|pine, spruce-fir||6, 7, 8|blue, blue-violet|magenta nectar guides|AZ, NM|
+PL0238|13|27|1500|2250|NA|gravelly soils, sandy soils, clay soils|shrubland, woodland|sagebrush, piñon-juniper, oak, Ponderosa pine|Four Corners region|5, 6|lavender, violet|dark violet nectar guides|AZ, CO, NM, UT|
+PL0239|30|70|1600|2200|NA|sandy soils, clay soils|hillsides, canyons, woodland|sagebrush, pine-juniper||5, 6|blue, violet||CO, UT|
+PL0240|50|100|10|900|hydric, mesic|rocky soils|rocky hillsides, woodland|none specified|Humid Transition Zone, Canadian Zone|5, 6, 7, 8|blue, violet|magenta nectar guides|OR, WA|
+PL0241|30|65|1500|2600|xeric|gravelly soils, sandy soils|shrubland, woodland|sagebrush, piñon-juniper, Gambel oak, Ponderosa pine, bristlecone pine||5, 6|blue, blue-lavender, violet|magenta nectar guides|AZ, NV, UT|
+PL0242|10|25|1700|2100|xeric|gravelly soils, sandy soils|woodland|juniper, piñon-juniper||5, 6|blue, violet|magenta nectar guides|CO, UT, WY|
+PL0243|30|65|1300|3200|xeric|gravelly soils, sandy soils|shrubland, woodland|sagebrush, piñon-juniper, Gambel oak, Ponderosa pine, bristlecone pine||5, 6, 7|blue, lavender, violet|magenta nectar guides|NM, UT|
+PL0244|15|25|1900|2300|NA|rocky crevices, loose soils|mesas, woodland|sagebrush, piñon-juniper|Inyo County, Nye County, Esmeralda County|6, 7|blue-lavender|magenta nectar guides|CA, NV|
+PL0245|40|80|10|300|mesic|rocky soils, sandy loam soils, loam soils, sandstone, limestone|grassland, woodland| tallgrass prairie, oak-hickory||4, 5, 6, 7|white, pale blue, pale lavender|magenta nectar guides|AL, AR, CT, DC, GA, IA, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, NC, NH, NJ, NY, OH, PA, RI, TN, VA, VT, WI, WV|
+PL0246|50|140|800|2500|xeric|none specified|washes, roadsides, canyon floors|blackbrush, sagebrush, piñon-juniper, juniper, Ponderosa pine, Joshua tree||3, 4, 5, 6, 7, 8, 9|white, pale pink, pinkish lavender|magenta nectar guides|AZ, UT|
+PL0247|50|140|1000|1400|xeric|none specified|washes, roadsides, canyon floors|blackbrush, sagebrush, piñon-juniper, juniper, Ponderosa pine, Joshua tree|Nye County, Churchill County, Pershing County|5, 6, 7|white, pale pink, pinkish lavender|magenta nectar guides|NV|
+PL0248|50|140|800|2800|xeric|none specified|washes, roadsides, canyon floors|creosote, piñon-juniper||5, 6, 7|white, pale pink, pinkish lavender|magenta nectar guides|AZ, CA, CO, ID, NM, NV, UT, WA, WY|
+PL0249|20|40|2000|2700|NA|rocky soils|woodland openings|piñon-juniper, lodgepole pine|Inyo County, Mono County|6, 7|blue, lavender, violet||CA|
+PL0250|30|120|500|1500|xeric|rocky soils|rocky hillsides, washes, canyons, desert|oak||2, 3, 4|rose pink, rose magenta||AZ|
+PL0251|15|20|1400|1800|NA|gravelly soils, silty soils|shrubland, grassland|sagebrush, shortgrass prairie|Montezuma County|5, 6|pinkish blue, lilac, violet|magenta nectar guides|CO|
+PL0252|20|35|500|2500|NA|rocky soils|rocky hillsides, woodland|none specified|Canadian Zone|6, 7, 8|blue, violet||CA, OR|
+PL0253|5|20|2500|3000|NA|none specified|shrubland|sagebrush|Garfield County, Wayne County|5, 6, 7|blue, violet|magenta nectar guides|UT|
+PL0254|20|40|1900|2200|NA|none specified|shrubland, woodland|sagebrush, piñon-juniper, Ponderosa pine||5, 6|lavender, magenta, violet|red or magenta nectar guides|CA, NV|
+PL0255|17|25|2500|3200|NA|rocky crevices|rocky hillsides, cliffs|piñon-juniper, spruce, mountain mahogany||7|blue, pinkish blue, lavender||NV, UT|
+PL0256|30|70|1800|2500|xeric|gravelly soils|hills, woodland|sagebrush, conifers||5, 6, 7, 8|blue, violet||ID, MT, OR|
+PL0257|8|18|2000|2300|xeric|gravelly soils, shale, sandstone, limestone|rocky outcrops, shrubland|sagebrush||5, 6, 7|blue, lavender, violet|pale violet nectar guides|WY|
+PL0258|25|50|900|1500|xeric|volcanic sand|woodland|pine|Eastern side Cascade Range, Arid Transition Zone|6, 7, 8|pink, pale blue, pale violet, violet|pink or violet nectar guides|OR|
+PL0259|10|25|2300|2500|NA|selenium clay soils|shrubland|sagebrush|Troublesome Formation, Middle Park, Grand County|6, 7|blue, violet|magenta nectar guides|CO|
+PL0260|20|50|1300|1800|NA|gravelly soils|rocky ridges, rocky hillsides, woodland|conifers|Blue Mtns, Arid Transition Zone, Canadian Zone|5, 6|blue, violet|magenta nectar guides|OR, WA|
 PL0261|30|60|650|2000|NA|none specified|shrubland, foothills|sagebrush||5, 6, 7|blue, violet||ID, OR
-PL0262|30|55|1100|2100|xeric|none specified|hills|sugar pine, yellow pine, California red fir, mixed evergreens|Arid Transition Zone|7, 8|white, lavender, violet|violet nectar guides|CA
-PL0263|5|15|1000|1700|NA|limestone crevices|rocky outcrops|shadscale, blackbrush, Buddleja, juniper||5, 6|pink, bright pink, rose pink||AZ, NV, UT
+PL0262|30|55|1100|2100|xeric|none specified|hills|sugar pine, yellow pine, California red fir, mixed evergreens|Arid Transition Zone|7, 8|white, lavender, violet|violet nectar guides|CA|
+PL0263|5|15|1000|1700|NA|limestone crevices|rocky outcrops|shadscale, blackbrush, Buddleja, juniper||5, 6|pink, bright pink, rose pink||AZ, NV, UT|
 PL0264|30|60|1500|2000|xeric|rocky soils|rocky hillsides, cliffs|none specified||6, 7|red||AZ, NM
-PL0265|7|21|1700|2100|NA|none specified|protected sites along washes|Pinus monophylla, juniper|Pine Valley Mtns|5, 6|pink, pale violet, blue, violet|violet nectar guides|UT
-PL0266|35|60|1300|2400|NA|rocky soils|rocky canyons, talus slopes, foothills|none specified||6, 7, 8|lavender, pale violet, violet|pale violet nectar guides|NV, UT
-PL0267|15|40|1500|2750|hydric, mesic|none specified|meadows, streambanks, woodland|sagebrush, aspen|Upper Sonoran Zone, Canadian Zone|6, 7|white||ID, NV, OR
-PL0268|10|35|2200|3400|xeric, mesic|none specified|shrubland, montane meadows, woodland|sagebrush, aspen, pine, spruce-fir||5, 6, 7, 8|blue, violet|magenta nectar guides|UT
-PL0269|15|30|1200|2400|NA|rocky soils|montane meadows, woodland|grass, pine||5, 6, 7, 8|blue, violet|magenta nectar guides|CA, OR
-PL0270|5|12|2200|3600|mesic|none specified|alpine talus slopes, alpine meadows|none specified||6, 7, 8|blue, violet|magenta nectar guides|CA, ID, NV, OR
-PL0271|10|30|2700|3200|xeric, mesic|gravelly soils|alpine hillsides|none specified|Elko County|5, 6, 7, 8|blue, violet|magenta nectar guides|NV
-PL0272|20|35|600|3700|xeric, mesic|none specified|shrubland, grassy hillsides, alpine meadows, subalpine meadows, woodland|aspen|Transition Zone, Canadian Zone|6, 7, 8, 9|blue, violet|magenta nectar guides|AK, CO, ID, MT, ND, OR, UT, WA, WY
-PL0273|5|15|1200|2300|xeric|rocky soils, soft soils|exposed mid to high elevation hillsides|none specified|Hudsonian Zone, Arctic-Alpine Zone|5, 6, 7, 8|brilliant blue-violet||WA
-PL0274|10|30|300|2000|NA|rocky soils, gravelly soils, sandy soils|rocky hillsides, grassy hillsides, scrubland, woodland|sagebrush, pine, pine-fir|Arid Transition Zone, Canadian Zone|4, 5, 6, 7|blue, violet|violet nectar guides|WA
-PL0275|10|30|2800|2900|NA|none specified|subalpine meadows, woodland openings, marshland|pine, spruce-fir|Socorro County|6, 7, 8|blue, blue-violet|magenta nectar guides|NM
-PL0276|15|40|2400|2700|NA|none specified|subalpine meadows, woodland openings|pine, aspen-spruce|Kaibab Plateau, Markagunt Plateau|7, 8|lavender, blue, blue-violet, violet|magenta nectar guides|NM, UT
-PL0277|60|100|600|2300|xeric|rocky soils, gravelly soils, sandy soils|rocky hillsides, washes, woodland|pine-oak||2, 3, 4, 5, 6, 10, 11|rose pink|magenta nectar guides|AZ, NM
-PL0278|60|100|600|2100|xeric|rocky soils, gravelly soils, sandy soils|rocky washes, canyon floors, scrubland, woodland|creosote, pine-juniper|Lower Sonoran Zone|3, 4|rose pink|magenta nectar guides|AZ, CA, UT
-PL0279|20|50|2300|2750|NA|rocky soils|shrubland, woodland|sagebrush, juniper, piñon-juniper, mountain mahogany|Kawich Range|6, 7|blue, lavender, violet||NV
-PL0280|4|12|1400|2000|NA|alluvial gravel soils, limestone|shrubland|sagebrush|East central Idaho|5, 6|blue, violet|magenta nectar guides|ID
-PL0281|10|20|1500|2400|xeric|rocky soils, loose rock|rocky outcrops, talus slopes, ridges|pine, fir|North Coast Range, Transition Zone, Canadian Zone|6, 7, 8|blue, blue-violet||CA
-PL0282|20|45|2500|2600|NA|rocky soils, sandy soils|woodland|piñon-juniper, pine||6, 7, 8, 9|white, pink, lavender, violet|magenta nectar guides|AZ
-PL0283|20|40|1400|2300|xeric|rocky soils|rocky hillsides, ravines|sagebrush, pine, piñon-juniper, Symphoricarpos, Cerocarpus||5, 6, 7|blue, dark blue, violet|magenta nectar guides|CO, ID, MT, NV, UT, WY
-PL0284|30|75|1200|1800|NA|gravelly soils|woodland, desert grassland|pine, thorn scrub||6, 7|scarlet, red|magenta nectar guides|AZ, NM, TX
-PL0285|30|120|400|1000|NA|none specified|coastal woodland|none specified|Santa Cruz Mountains|5, 6, 7|lavender, violet|magenta nectar guides|CA
-PL0286|30|120|10|1200|mesic|none specified|grassy hillsides|fir-spruce, redwood, mixed evergreens|Humid Transition Zone|5, 6, 7|lavender, violet|magenta nectar guides|CA, OR
-PL0287|10|20|1700|1800|xeric|clay soils|adobe hills|sagebrush, saltbush, piñon-juniper|Uncompahgre River Valley|5, 6|blue-violet|magenta nectar guides|CO
-PL0288|8|20|3000|3250|NA|rocky crevices, limestone|rocky outcrops, talus slopes|bristlecone pine, limber pine|Schell Creek Range|6, 7, 8, 9|magenta, violet||NV
-PL0289|20|80|350|1000|xeric|rocky crevices, basalt|rocky outcrops, talus slopes, cliffs|none specified|Gilliam County, Wasco County, Wheeler County|5, 6, 7, 8|pinkish blue, blue, lavender|magenta nectar guides|OR
+PL0265|7|21|1700|2100|NA|none specified|protected sites along washes|Pinus monophylla, juniper|Pine Valley Mtns|5, 6|pink, pale violet, blue, violet|violet nectar guides|UT|
+PL0266|35|60|1300|2400|NA|rocky soils|rocky canyons, talus slopes, foothills|none specified||6, 7, 8|lavender, pale violet, violet|pale violet nectar guides|NV, UT|
+PL0267|15|40|1500|2750|hydric, mesic|none specified|meadows, streambanks, woodland|sagebrush, aspen|Upper Sonoran Zone, Canadian Zone|6, 7|white||ID, NV, OR|
+PL0268|10|35|2200|3400|xeric, mesic|none specified|shrubland, montane meadows, woodland|sagebrush, aspen, pine, spruce-fir||5, 6, 7, 8|blue, violet|magenta nectar guides|UT|
+PL0269|15|30|1200|2400|NA|rocky soils|montane meadows, woodland|grass, pine||5, 6, 7, 8|blue, violet|magenta nectar guides|CA, OR|
+PL0270|5|12|2200|3600|mesic|none specified|alpine talus slopes, alpine meadows|none specified||6, 7, 8|blue, violet|magenta nectar guides|CA, ID, NV, OR|
+PL0271|10|30|2700|3200|xeric, mesic|gravelly soils|alpine hillsides|none specified|Elko County|5, 6, 7, 8|blue, violet|magenta nectar guides|NV|
+PL0272|20|35|600|3700|xeric, mesic|none specified|shrubland, grassy hillsides, alpine meadows, subalpine meadows, woodland|aspen|Transition Zone, Canadian Zone|6, 7, 8, 9|blue, violet|magenta nectar guides|AK, CO, ID, MT, ND, OR, UT, WA, WY|
+PL0273|5|15|1200|2300|xeric|rocky soils, soft soils|exposed mid to high elevation hillsides|none specified|Hudsonian Zone, Arctic-Alpine Zone|5, 6, 7, 8|brilliant blue-violet||WA|
+PL0274|10|30|300|2000|NA|rocky soils, gravelly soils, sandy soils|rocky hillsides, grassy hillsides, scrubland, woodland|sagebrush, pine, pine-fir|Arid Transition Zone, Canadian Zone|4, 5, 6, 7|blue, violet|violet nectar guides|WA|
+PL0275|10|30|2800|2900|NA|none specified|subalpine meadows, woodland openings, marshland|pine, spruce-fir|Socorro County|6, 7, 8|blue, blue-violet|magenta nectar guides|NM|
+PL0276|15|40|2400|2700|NA|none specified|subalpine meadows, woodland openings|pine, aspen-spruce|Kaibab Plateau, Markagunt Plateau|7, 8|lavender, blue, blue-violet, violet|magenta nectar guides|NM, UT|
+PL0277|60|100|600|2300|xeric|rocky soils, gravelly soils, sandy soils|rocky hillsides, washes, woodland|pine-oak||2, 3, 4, 5, 6, 10, 11|rose pink|magenta nectar guides|AZ, NM|
+PL0278|60|100|600|2100|xeric|rocky soils, gravelly soils, sandy soils|rocky washes, canyon floors, scrubland, woodland|creosote, pine-juniper|Lower Sonoran Zone|3, 4|rose pink|magenta nectar guides|AZ, CA, UT|
+PL0279|20|50|2300|2750|NA|rocky soils|shrubland, woodland|sagebrush, juniper, piñon-juniper, mountain mahogany|Kawich Range|6, 7|blue, lavender, violet||NV|
+PL0280|4|12|1400|2000|NA|alluvial gravel soils, limestone|shrubland|sagebrush|East central Idaho|5, 6|blue, violet|magenta nectar guides|ID|
+PL0281|10|20|1500|2400|xeric|rocky soils, loose rock|rocky outcrops, talus slopes, ridges|pine, fir|North Coast Range, Transition Zone, Canadian Zone|6, 7, 8|blue, blue-violet||CA|
+PL0282|20|45|2500|2600|NA|rocky soils, sandy soils|woodland|piñon-juniper, pine||6, 7, 8, 9|white, pink, lavender, violet|magenta nectar guides|AZ|
+PL0283|20|40|1400|2300|xeric|rocky soils|rocky hillsides, ravines|sagebrush, pine, piñon-juniper, Symphoricarpos, Cerocarpus||5, 6, 7|blue, dark blue, violet|magenta nectar guides|CO, ID, MT, NV, UT, WY|
+PL0284|30|75|1200|1800|NA|gravelly soils|woodland, desert grassland|pine, thorn scrub||6, 7|scarlet, red|magenta nectar guides|AZ, NM, TX|
+PL0285|30|120|400|1000|NA|none specified|coastal woodland|none specified|Santa Cruz Mountains|5, 6, 7|lavender, violet|magenta nectar guides|CA|
+PL0286|30|120|10|1200|mesic|none specified|grassy hillsides|fir-spruce, redwood, mixed evergreens|Humid Transition Zone|5, 6, 7|lavender, violet|magenta nectar guides|CA, OR|
+PL0287|10|20|1700|1800|xeric|clay soils|adobe hills|sagebrush, saltbush, piñon-juniper|Uncompahgre River Valley|5, 6|blue-violet|magenta nectar guides|CO|
+PL0288|8|20|3000|3250|NA|rocky crevices, limestone|rocky outcrops, talus slopes|bristlecone pine, limber pine|Schell Creek Range|6, 7, 8, 9|magenta, violet||NV|
+PL0289|20|80|350|1000|xeric|rocky crevices, basalt|rocky outcrops, talus slopes, cliffs|none specified|Gilliam County, Wasco County, Wheeler County|5, 6, 7, 8|pinkish blue, blue, lavender|magenta nectar guides|OR|
 PL0290|20|80|300|1500|xeric|rocky crevices, basalt|rocky outcrops, talus slopes, cliffs|none specified||6, 7, 8, 9, 10|pinkish blue, blue, lavender|magenta nectar guides|OR, WA
 PL0291|20|80|300|1500|xeric, mesic|rocky crevices, basalt|rocky outcrops, talus slopes, cliffs|none specified|Humid Transition Zone, Arid Transition Zone|6, 7, 8, 9, 10|pinkish blue, blue, lavender|magenta nectar guides|OR, WA
 PL0292|20|80|400|2500|NA|none specified|shrubland, woodland|sagebrush, juniper, pine||5, 6, 7, 8|blue, violet||CA, NV, OR
-PL0293|30|100|1300|3000|xeric|rocky soils, sandy soils|rocky hillsides|sagebrush, piñon-juniper, Gambel oak, Ponderosa pine, mountain mahogany||6, 7, 8|scarlet, red||AZ, CA, CO, NM, NV, UT
-PL0294|50|120|1200|3200|NA|rocky soils, gravelly soils|rocky hillsides, canyon floors, scrubland, woodland|sagebrush, shadscale, piñon-juniper, pine||5, 6, 7, 8, 9|pink, rose pink|red nectar guides|NV
-PL0295|3|16|60|2400|xeric|rocky soils, rocky crevices|rocky hillsides, rocky ledges, cliffs|none specified|Transition Zone, Canadian Zone|5, 6, 7, 8|pink, rose pink, violet||CA, OR, WA
-PL0296|20|40|1300|3300|xeric, mesic|none specified|hillsides, streambanks, meadows|sagebrush, aspen||6, 7, 8|blue, violet||AZ, CO, ID, MT, UT, WY
-PL0297|20|50|600|3100|xeric, mesic|none specified|hillsides, streambanks, wet meadows, dry meadows|none specified|Arid Transition Zone, Hudsonian Zone|6, 7, 8|pink, violet||CA, ID, NV, OR, WA
-PL0298|20|40|1900|3300|xeric, mesic|none specified|hillsides, streambanks, meadows, ravines|aspen||5, 6, 7, 8|blue, violet||AZ, CO, ID, MT, NM, NV, OR, UT, WA, WY
-PL0299|10|80|2500|2800|NA|none specified|hillsides, mesas|sagebrush, pine|Montane Zone|7, 8|blue, blue-violet|magenta nectar guides|CO, WY
-PL0300|15|45|2000|3200|NA|none specified|none specified|sagebrush, piñon-juniper, bristlecone pine|Inyo County, Mono County|6, 7, 8|lavender, violet|magenta nectar guides|CA
-PL0301|15|50|1500|3000|xeric|oil shales|shrubland, woodland|sagebrush, shadscale, chamisa, piñon-juniper, Ponderosa pine, aspen, spruce, fir|Uintah County, Rio Blanco County|5, 6|blue, lavender|magenta nectar guides|CO, UT
-PL0302|15|45|1600|2700|xeric|none specified|grassland, woodland|sagebrush, piñon-juniper|Moffatt County, Uintah County|5, 6, 7|blue, blue-violet|magenta nectar guides|CO, UT
-PL0303|15|50|1700|3000|xeric|none specified|shrubland, woodland|sagebrush, oak-maple, aspen, juniper, fir, pine|Wasatch Range, Uinta Mountains, Blue Mountain, West Tavaputs Plateau, East Tavaputs Plateau|5, 6, 7|blue||UT, WY
-PL0304|15|50|1600|3200|xeric|none specified|shrubland, woodland|sagebrush piñon-juniper, mountain mahogany, pine, aspen, spruce-fir|Wasatch Plateau, Fish Lake Plateau, Aquarius Plateau|5, 6, 7|blue, blue-violet||UT
-PL0305|10|40|1500|2900|NA|rocky soils, gravelly soils|rocky hillsides, mesas, grassland|shortgrass prairie|Front Range|5, 6, 7|pink, pale blue, lavender||CO, NM, WY
-PL0306|10|40|1400|1700|NA|rocky soils, gravelly soils, sandy soils|grassland, foothills|shortgrass prairie|Arkansas River drainage|5, 6|dark blue, violet||CO
-PL0307|10|40|1000|2100|xeric|rocky soils|hills, plains|sagebrush, juniper|Arid Transition Zone|5, 6, 7|blue, violet|magenta nectar guides|ID, OR
-PL0308|45|90|1500|2200|NA|rocky soils, gravelly soils|talus slopes, canyons|Gambel oak, aspen, maple||6, 7|violet|violet nectar guides|UT
-PL0309|30|70|0|1800|hydric, mesic|rocky soils, sandy soils|streambanks, roadcuts, hillsides, woodland|conifers|Humid Transition Zone|6, 7, 8|blue, violet||AK, OR, WA
-PL0310|40|80|200|1200|mesic|rocky soils, sandy soils|forest edges, cliffs, rocky hillsides|none specified||4, 5, 6|pink, lavender, violet|magenta or violet nectar guides|AL, GA, NC, SC, TN
-PL0311|10|25|2300|2500|xeric|gravelly soils|rocky hillsides, meadows|none specified|Wallowa Mountains|7, 8|pale blue, pale lavender|violet nectar guides|OR
-PL0312|5|40|1200|3300|xeric|rocky soils, sandy soils|rocky hillsides, shrubland, woodland openings|bitterbrush, sagebrush, piñon-juniper, pine, mountain mahogany||5, 6, 7|brillant blue||CA, ID, NV, OR, UT, WA
-PL0313|5|40|100|1800|NA|gravelly soils, sandy soils|hillsides, washes, scrubland, woodland|chaparral, sagebrush, oak||4, 5, 6, 7|pink, blue, lavender, violet|magenta nectar guides|CA, NV
+PL0293|30|100|1300|3000|xeric|rocky soils, sandy soils|rocky hillsides|sagebrush, piñon-juniper, Gambel oak, Ponderosa pine, mountain mahogany||6, 7, 8|scarlet, red||AZ, CA, CO, NM, NV, UT|
+PL0294|50|120|1200|3200|NA|rocky soils, gravelly soils|rocky hillsides, canyon floors, scrubland, woodland|sagebrush, shadscale, piñon-juniper, pine||5, 6, 7, 8, 9|pink, rose pink|red nectar guides|NV|
+PL0295|3|16|60|2400|xeric|rocky soils, rocky crevices|rocky hillsides, rocky ledges, cliffs|none specified|Transition Zone, Canadian Zone|5, 6, 7, 8|pink, rose pink, violet||CA, OR, WA|
+PL0296|20|40|1300|3300|xeric, mesic|none specified|hillsides, streambanks, meadows|sagebrush, aspen||6, 7, 8|blue, violet||AZ, CO, ID, MT, UT, WY|
+PL0297|20|50|600|3100|xeric, mesic|none specified|hillsides, streambanks, wet meadows, dry meadows|none specified|Arid Transition Zone, Hudsonian Zone|6, 7, 8|pink, violet||CA, ID, NV, OR, WA|
+PL0298|20|40|1900|3300|xeric, mesic|none specified|hillsides, streambanks, meadows, ravines|aspen||5, 6, 7, 8|blue, violet||AZ, CO, ID, MT, NM, NV, OR, UT, WA, WY|
+PL0299|10|80|2500|2800|NA|none specified|hillsides, mesas|sagebrush, pine|Montane Zone|7, 8|blue, blue-violet|magenta nectar guides|CO, WY|
+PL0300|15|45|2000|3200|NA|none specified|none specified|sagebrush, piñon-juniper, bristlecone pine|Inyo County, Mono County|6, 7, 8|lavender, violet|magenta nectar guides|CA|
+PL0301|15|50|1500|3000|xeric|oil shales|shrubland, woodland|sagebrush, shadscale, chamisa, piñon-juniper, Ponderosa pine, aspen, spruce, fir|Uintah County, Rio Blanco County|5, 6|blue, lavender|magenta nectar guides|CO, UT|
+PL0302|15|45|1600|2700|xeric|none specified|grassland, woodland|sagebrush, piñon-juniper|Moffatt County, Uintah County|5, 6, 7|blue, blue-violet|magenta nectar guides|CO, UT|
+PL0303|15|50|1700|3000|xeric|none specified|shrubland, woodland|sagebrush, oak-maple, aspen, juniper, fir, pine|Wasatch Range, Uinta Mountains, Blue Mountain, West Tavaputs Plateau, East Tavaputs Plateau|5, 6, 7|blue||UT, WY|
+PL0304|15|50|1600|3200|xeric|none specified|shrubland, woodland|sagebrush piñon-juniper, mountain mahogany, pine, aspen, spruce-fir|Wasatch Plateau, Fish Lake Plateau, Aquarius Plateau|5, 6, 7|blue, blue-violet||UT|
+PL0305|10|40|1500|2900|NA|rocky soils, gravelly soils|rocky hillsides, mesas, grassland|shortgrass prairie|Front Range|5, 6, 7|pink, pale blue, lavender||CO, NM, WY|
+PL0306|10|40|1400|1700|NA|rocky soils, gravelly soils, sandy soils|grassland, foothills|shortgrass prairie|Arkansas River drainage|5, 6|dark blue, violet||CO|
+PL0307|10|40|1000|2100|xeric|rocky soils|hills, plains|sagebrush, juniper|Arid Transition Zone|5, 6, 7|blue, violet|magenta nectar guides|ID, OR|
+PL0308|45|90|1500|2200|NA|rocky soils, gravelly soils|talus slopes, canyons|Gambel oak, aspen, maple||6, 7|violet|violet nectar guides|UT|
+PL0309|30|70|0|1800|hydric, mesic|rocky soils, sandy soils|streambanks, roadcuts, hillsides, woodland|conifers|Humid Transition Zone|6, 7, 8|blue, violet||AK, OR, WA|
+PL0310|40|80|200|1200|mesic|rocky soils, sandy soils|forest edges, cliffs, rocky hillsides|none specified||4, 5, 6|pink, lavender, violet|magenta or violet nectar guides|AL, GA, NC, SC, TN|
+PL0311|10|25|2300|2500|xeric|gravelly soils|rocky hillsides, meadows|none specified|Wallowa Mountains|7, 8|pale blue, pale lavender|violet nectar guides|OR|
+PL0312|5|40|1200|3300|xeric|rocky soils, sandy soils|rocky hillsides, shrubland, woodland openings|bitterbrush, sagebrush, piñon-juniper, pine, mountain mahogany||5, 6, 7|brillant blue||CA, ID, NV, OR, UT, WA|
+PL0313|5|40|100|1800|NA|gravelly soils, sandy soils|hillsides, washes, scrubland, woodland|chaparral, sagebrush, oak||4, 5, 6, 7|pink, blue, lavender, violet|magenta nectar guides|CA, NV|
 PL0314|80|120|500|2400|NA|gravelly soils, sandy soils|outwash fans|chaparral, sagebrush, oak|Transverse Range|4, 5, 6, 7|pink, blue, lavender, violet|magenta nectar guides|CA
-PL0315|20|90|1200|1700|NA|none specified|canyons, hillsides, woodland openings|pine, pine-oak|Cochise County, Santa Cruz County|7, 8, 9|blue, lavender, violet|magenta nectar guides|AZ
-PL0316|30|100|1200|1700|xeric|rocky soils, rocky crevices|rocky hillsides, washes, shrubland|creosote, piñon-juniper|Kingston Mtns, Providence Mtns|5, 6|rose pink, pinkish lavender, magenta||CA
-PL0317|20|55|1700|2800|xeric|none specified|woodland|juniper, piñon-juniper|Four Corners region|5, 6, 7|blue, lavender||AZ, CO, NM, UT
-PL0318|35|70|2200|3200|xeric, mesic|gravelly soils|shrubland, woodland|sagebrush, piñon-juniper, scrub oak, Ponderosa pine, spruce-aspen||5, 6|dark blue, violet|violet nectar guides|AZ, CO, NM, UT, WY
-PL0319|25|70|1800|3300|xeric, mesic|none specified|hillsides, woodland|sagebrush, aspens fir, Gambel oak||6, 7, 8|blue, blue-violet, violet|violet nectar guides|ID, UT, WY
-PL0320|30|80|30|1800|xeric|none specified|hillsides, woodland|pine, pine-oak|Transition Zone, Canadian Zone|5, 6, 7|blue, violet|magenta nectar guides|OR, WA
-PL0321|20|70|500|1300|NA|rocky soils|rocky hillsides, mesas, canyons|none specified||2, 3, 4, 5, 6|pink, red||AZ
-PL0322|30|70|1200|1800|NA|volcanic soils, basalt crevices|open ground, woodland|sagebrush, pine|Arid Transition Zone|6, 7|white, pale pink, pale lavender|magenta nectar guides|CA, NV
-PL0323|30|140|900|1800|xeric|rocky soils, gravelly soils, sandy soils|rocky hillsides, canyons, woodland, desert grassland|piñon-juniper, oak||4, 5, 6|pinkish orange, pink, red||AZ, NM
-PL0324|40|80|30|80|NA|rocky soils|cliffs, barrens, grassland|prairies, cedar|Interior Low Plateaus|5, 6|white, pink||AL, KY, MS, TN
-PL0325|40|90|0|200|hydric|alluvial soils, sandy soils, loam soils, clay soils|marsh margins, open floodplain forests, open areas|prairie, hardwood forest|Gulf Coast prairies and marshes|3, 4, 5, 6|lavender, violet|magenta nectar guides|AR, LA, MS, TX
-PL0326|4|12|2100|3500|xeric|rocky soils, sandy loam soils, clay soils|rocky hillsides|sagebrush|Park County, Chaffee County, Gunnison County, Saguache County, Hinsdale County|6, 7|violet||CO
-PL0327|4|15|1500|3400|NA|white calcareous clay soils, sandy soils|shrubland, subalpine hillsides|sagebrush, piñon-juniper, pine||5, 6, 7, 8|blue, violet|magenta nectar guides|AZ, CA, NV, UT
-PL0328|30|60|600|1500|xeric|rocky soils, sandy soils|rocky hillsides, mesas, shrubland, woodland|chaparral, sagebrush, pine-juniper|Upper Sonoran Zone|4, 5, 6, 7, 8|pink, lavender, violet|magenta nectar guides|AZ, CA, NM, NV,  TX
-PL0329|10|20|2200|2900|NA|volcanic talus, sandy loam soils|steep talus slopes|none specified|Mount Lewis|6, 7, 8|lavender, violet||NV
-PL0330|8|12|2000|2200|NA|rocky crevices|mountains|none specified|Devil's Canyon Mountains|7, 8|white, pink||CA
-PL0331|30|65|400|700|NA|calcareous soils|limestone cliffs, grassland|prairie|Western Edwards Plateau to Colorado River valley|4, 5|pink, rose pink, rose purple|red or crimson nectar guides|TX
-PL0332|45|65|200|600|NA|calcareous soils|limestone cliffs, grassland|prairie|Edwards Plateau|3, 4, 5, 6|white, pale pink, pink||TX
-PL0333|30|80|300|1800|NA|basaltic rocky soils|cliffs, roadcuts|none specified||5, 6, 7|pinkish lavender, lavender, blue-lavender, pale violet||ID, OR, WA
-PL0334|25|85|20|600|NA|none specified|grassland, woodland, roadsides|none specified||5, 6|white||CT, MA, ME, NY, PA, RI, VT
-PL0335|25|85|20|600|NA|loam soils, sandy loam soils|grassland, woodland, roadsides|tallgrass prairie, deciduous forest||5, 6, 7|white||AR, CT, IA, IL, IN, KS, KY, LA, MA, ME, MO, MS, NE, NH, OH, OK, TN, TX, VT, WI
-PL0336|5|15|3000|3700|NA|rocky soils|ridgetops, subalpine meadows, alpine meadows|none specified||6, 7, 8|pinkish blue, blue||UT
-PL0337|20|90|1400|3000|NA|gravelly soils, sandy soils|hillsides, roadsides, woodland|oak, Ponderosa pine, aspen-spruce||6, 7, 8, 9|pinkish lavender, blue-lavender, lavender|magenta nectar guides|CO, NM, WY
-PL0338|15|50|400|2400|xeric|rocky soils, sandy soils|canyons, mesas, scrubland, woodland|sagebrush, piñon-juniper||3, 4, 5, 6|pink, bright pink, rose pink, red|red nectar guides|AZ, CA, CO, NE, UT
-PL0339|30|80|300|2700|mesic|basaltic rocky soils|rocky hillsides, rocky outcrops, talus slopes, scrubland, woodland openings|none specified|Snake River Plateau, Transition Zone, Canadian Zone|6, 7, 8, 9, 10|lavender, violet|magenta nectar guides|ID, OR, WA
-PL0340|20|35|1400|1700|NA|rocky soils, gravelly soils, loam soils|mesas, foothills|sagebrush, shortgrass prairie|Upper Arkansas River valley|5, 6|blue, lavender, violet, pink|red or magenta nectar guides|CO
-PL0341|15|45|1600|3000|NA|rocky soils, gravelly soils|rocky hillsides, montane meadows, foothills|shortgrass prairie||5, 6, 7, 8|blue-lavender, violet|magenta or violet nectar guides|CO, WY
-PL0342|20|65|1400|3000|NA|gravelly soils, sandy soils|hillsides, roadsides, woodland, subalpine meadows|oak, pine||6, 7, 8, 9, 10|pinkish lavender, lavender, violet|magenta nectar guides|AZ, CO, NM
-PL0343|15|30|1500|2000|NA|clay soils, loam soils|woodland|piñon-juniper|Millard County, Piute County, Sanpete County, Sevier County|5, 6, 7|blue, lavender|lavender nectar guides|UT
-PL0344|12|24|1800|2300|mesic|none specified|rocky hillsides, alpine meadows, woodland openings|pine-fir|Canadian Zone|7, 8|white, pale yellow, dark blue||WA
-PL0345|25|60|1700|3200|xeric|rocky soils, gravelly soils|rocky hillsides, shrubland, woodland|sagebrush piñon-juniper, Gambel oak, mountain mahogany, spruce-fir, limber pine||5, 6, 7, 8|violet||AZ, CO, ID, NV, UT, WY
-PL0346|20|60|2100|3700|mesic|none specified|rocky hillsides, subalpine woodland, alpine tundra|none specified||6, 7, 8, 9|wine-lavender, brown-violet, black-violet, white, cream, pale blue|contrasting nectar guides in white or lavender or violet|AZ, CO, ID, MT, NM, UT, WY
-PL0347|40|100|300|2300|xeric|rocky soils, gravelly soils|rocky hillsides, woodland, roadcuts|conifers|Arid Transition Zone|5, 6, 7, 8|pale blue, blue, violet|magenta nectar guides|ID, MT, OR, WA
-PL0348|40|70|900|1800|xeric|rocky soils|rocky hillsides, canyons|none specified|Mountains of the Trans-Pecos|3, 4, 5, 6|pink, red||TX
-PL0349|2|5|1500|2200|xeric|sandstone soils|sandstone ledges, ridgetops, scrubland, woodland|sagebrush, Utah juniper|Moffatt County, Uintah County, Daggett County, Sweetwater County|5, 6, 7|lavender, blue-lavender||CO, UT, WY
+PL0315|20|90|1200|1700|NA|none specified|canyons, hillsides, woodland openings|pine, pine-oak|Cochise County, Santa Cruz County|7, 8, 9|blue, lavender, violet|magenta nectar guides|AZ|
+PL0316|30|100|1200|1700|xeric|rocky soils, rocky crevices|rocky hillsides, washes, shrubland|creosote, piñon-juniper|Kingston Mtns, Providence Mtns|5, 6|rose pink, pinkish lavender, magenta||CA|
+PL0317|20|55|1700|2800|xeric|none specified|woodland|juniper, piñon-juniper|Four Corners region|5, 6, 7|blue, lavender||AZ, CO, NM, UT|
+PL0318|35|70|2200|3200|xeric, mesic|gravelly soils|shrubland, woodland|sagebrush, piñon-juniper, scrub oak, Ponderosa pine, spruce-aspen||5, 6|dark blue, violet|violet nectar guides|AZ, CO, NM, UT, WY|
+PL0319|25|70|1800|3300|xeric, mesic|none specified|hillsides, woodland|sagebrush, aspens fir, Gambel oak||6, 7, 8|blue, blue-violet, violet|violet nectar guides|ID, UT, WY|
+PL0320|30|80|30|1800|xeric|none specified|hillsides, woodland|pine, pine-oak|Transition Zone, Canadian Zone|5, 6, 7|blue, violet|magenta nectar guides|OR, WA|
+PL0321|20|70|500|1300|NA|rocky soils|rocky hillsides, mesas, canyons|none specified||2, 3, 4, 5, 6|pink, red||AZ|
+PL0322|30|70|1200|1800|NA|volcanic soils, basalt crevices|open ground, woodland|sagebrush, pine|Arid Transition Zone|6, 7|white, pale pink, pale lavender|magenta nectar guides|CA, NV|
+PL0323|30|140|900|1800|xeric|rocky soils, gravelly soils, sandy soils|rocky hillsides, canyons, woodland, desert grassland|piñon-juniper, oak||4, 5, 6|pinkish orange, pink, red||AZ, NM|
+PL0324|40|80|30|80|NA|rocky soils|cliffs, barrens, grassland|prairies, cedar|Interior Low Plateaus|5, 6|white, pink||AL, KY, MS, TN|
+PL0325|40|90|0|200|hydric|alluvial soils, sandy soils, loam soils, clay soils|marsh margins, open floodplain forests, open areas|prairie, hardwood forest|Gulf Coast prairies and marshes|3, 4, 5, 6|lavender, violet|magenta nectar guides|AR, LA, MS, TX|
+PL0326|4|12|2100|3500|xeric|rocky soils, sandy loam soils, clay soils|rocky hillsides|sagebrush|Park County, Chaffee County, Gunnison County, Saguache County, Hinsdale County|6, 7|violet||CO|
+PL0327|4|15|1500|3400|NA|white calcareous clay soils, sandy soils|shrubland, subalpine hillsides|sagebrush, piñon-juniper, pine||5, 6, 7, 8|blue, violet|magenta nectar guides|AZ, CA, NV, UT|
+PL0328|30|60|600|1500|xeric|rocky soils, sandy soils|rocky hillsides, mesas, shrubland, woodland|chaparral, sagebrush, pine-juniper|Upper Sonoran Zone|4, 5, 6, 7, 8|pink, lavender, violet|magenta nectar guides|AZ, CA, NM, NV,  TX|
+PL0329|10|20|2200|2900|NA|volcanic talus, sandy loam soils|steep talus slopes|none specified|Mount Lewis|6, 7, 8|lavender, violet||NV|
+PL0330|8|12|2000|2200|NA|rocky crevices|mountains|none specified|Devil's Canyon Mountains|7, 8|white, pink||CA|
+PL0331|30|65|400|700|NA|calcareous soils|limestone cliffs, grassland|prairie|Western Edwards Plateau to Colorado River valley|4, 5|pink, rose pink, rose purple|red or crimson nectar guides|TX|
+PL0332|45|65|200|600|NA|calcareous soils|limestone cliffs, grassland|prairie|Edwards Plateau|3, 4, 5, 6|white, pale pink, pink||TX|
+PL0333|30|80|300|1800|NA|basaltic rocky soils|cliffs, roadcuts|none specified||5, 6, 7|pinkish lavender, lavender, blue-lavender, pale violet||ID, OR, WA|
+PL0334|25|85|20|600|NA|none specified|grassland, woodland, roadsides|none specified||5, 6|white||CT, MA, ME, NY, PA, RI, VT|
+PL0335|25|85|20|600|NA|loam soils, sandy loam soils|grassland, woodland, roadsides|tallgrass prairie, deciduous forest||5, 6, 7|white||AR, CT, IA, IL, IN, KS, KY, LA, MA, ME, MO, MS, NE, NH, OH, OK, TN, TX, VT, WI|
+PL0336|5|15|3000|3700|NA|rocky soils|ridgetops, subalpine meadows, alpine meadows|none specified||6, 7, 8|pinkish blue, blue||UT|
+PL0337|20|90|1400|3000|NA|gravelly soils, sandy soils|hillsides, roadsides, woodland|oak, Ponderosa pine, aspen-spruce||6, 7, 8, 9|pinkish lavender, blue-lavender, lavender|magenta nectar guides|CO, NM, WY|
+PL0338|15|50|400|2400|xeric|rocky soils, sandy soils|canyons, mesas, scrubland, woodland|sagebrush, piñon-juniper||3, 4, 5, 6|pink, bright pink, rose pink, red|red nectar guides|AZ, CA, CO, NE, UT|
+PL0339|30|80|300|2700|mesic|basaltic rocky soils|rocky hillsides, rocky outcrops, talus slopes, scrubland, woodland openings|none specified|Snake River Plateau, Transition Zone, Canadian Zone|6, 7, 8, 9, 10|lavender, violet|magenta nectar guides|ID, OR, WA|
+PL0340|20|35|1400|1700|NA|rocky soils, gravelly soils, loam soils|mesas, foothills|sagebrush, shortgrass prairie|Upper Arkansas River valley|5, 6|blue, lavender, violet, pink|red or magenta nectar guides|CO|
+PL0341|15|45|1600|3000|NA|rocky soils, gravelly soils|rocky hillsides, montane meadows, foothills|shortgrass prairie||5, 6, 7, 8|blue-lavender, violet|magenta or violet nectar guides|CO, WY|
+PL0342|20|65|1400|3000|NA|gravelly soils, sandy soils|hillsides, roadsides, woodland, subalpine meadows|oak, pine||6, 7, 8, 9, 10|pinkish lavender, lavender, violet|magenta nectar guides|AZ, CO, NM|
+PL0343|15|30|1500|2000|NA|clay soils, loam soils|woodland|piñon-juniper|Millard County, Piute County, Sanpete County, Sevier County|5, 6, 7|blue, lavender|lavender nectar guides|UT|
+PL0344|12|24|1800|2300|mesic|none specified|rocky hillsides, alpine meadows, woodland openings|pine-fir|Canadian Zone|7, 8|white, pale yellow, dark blue||WA|
+PL0345|25|60|1700|3200|xeric|rocky soils, gravelly soils|rocky hillsides, shrubland, woodland|sagebrush piñon-juniper, Gambel oak, mountain mahogany, spruce-fir, limber pine||5, 6, 7, 8|violet||AZ, CO, ID, NV, UT, WY|
+PL0346|20|60|2100|3700|mesic|none specified|rocky hillsides, subalpine woodland, alpine tundra|none specified||6, 7, 8, 9|wine-lavender, brown-violet, black-violet, white, cream, pale blue|contrasting nectar guides in white or lavender or violet|AZ, CO, ID, MT, NM, UT, WY|
+PL0347|40|100|300|2300|xeric|rocky soils, gravelly soils|rocky hillsides, woodland, roadcuts|conifers|Arid Transition Zone|5, 6, 7, 8|pale blue, blue, violet|magenta nectar guides|ID, MT, OR, WA|
+PL0348|40|70|900|1800|xeric|rocky soils|rocky hillsides, canyons|none specified|Mountains of the Trans-Pecos|3, 4, 5, 6|pink, red||TX|
+PL0349|2|5|1500|2200|xeric|sandstone soils|sandstone ledges, ridgetops, scrubland, woodland|sagebrush, Utah juniper|Moffatt County, Uintah County, Daggett County, Sweetwater County|5, 6, 7|lavender, blue-lavender||CO, UT, WY|

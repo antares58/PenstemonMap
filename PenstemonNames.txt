@@ -815,8 +815,8 @@ Penstemon montanus idahoensis|Latin|PL0220
 Central Idaho Beardtongue|English|PL0220
 Central Idaho Penstemon|English|PL0220
 Penstemon montanus montanus|Latin|PL0221
-Cordroot Penstemon|English|PL0221
-Cordroot Beardtongue|English|PL0221
+Cord-root Penstemon|English|PL0221
+Cord-root Beardtongue|English|PL0221
 Penstemon moriahensis|Latin|PL0222
 Mount Moriah Penstemon|English|PL0222
 Mount Moriah Beardtongue|English|PL0222
