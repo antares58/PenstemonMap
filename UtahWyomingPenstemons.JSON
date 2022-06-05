@@ -1,0 +1,4845 @@
+[
+  {
+    "PlantID": "PL0010",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon abietinus"]
+                    },
+                    {
+                       "English": ["Fir-leaf Penstemon","Fir-leaf Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 5,
+                            "HeightMaxCm": 18,
+                            "BloomMonths": [6,7],
+                            "BloomColors": ["white","blue","violet"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": ["calcareous gravel soils"],
+                    "Terrain": ["unspecified"],
+                    "PlantAssociations": ["piñon-juniper","oak-juniper"],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": 1800,
+                  "ElevationMaxMeters": 2600,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49015","49021","49041","49049"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0011",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon absarokensis"]
+                    },
+                    {
+                       "English": ["Absaroka Penstemon","Absaroka Beardtongue",
+                                   "Absaroka Range Penstemon","Absaroka Range Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 7,
+                            "HeightMaxCm": 18,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "778860 Absaroka Range"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["WY"],
+                  "CountyCodes": ["56013","56029"],
+                  "Distribution": {[43.9611111,-109.3391667]}
+               }
+  },
+  {
+    "PlantID": "PL0012",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon acaulis"]
+                    },
+                    {
+                       "English": ["Stemless Penstemon","Stemless Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 1,
+                            "HeightMaxCm": 2,
+                            "BloomMonths": [5,6,7],
+                            "BloomColors": ["white","yellow","blue","violet"],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": ["sandstone","gravelly soils","clay soils"],
+                    "Terrain": ["ridgetops","rocky ledges"],
+                    "PlantAssociations": ["sagebrush","Utah juniper"],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": 1500,
+                  "ElevationMaxMeters": 2200,
+                  "StateCodes": ["UT","WY"],
+                  "CountyCodes": ["49009","56037"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0021",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon ambiguus laevissimus"]
+                    },
+                    {
+                       "English": ["Gilia Penstemon","Gilia Beardtongue","Pink Plains Penstemon",
+                                   "Pink Plains Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 30,
+                            "HeightMaxCm": 50,
+                            "BloomMonths": [5, 6, 7, 8, 9],
+                            "BloomColors": ["white","pink"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": ["sandy soils"],
+                    "Terrain": [
+                                  "hillsides",
+                                  "mesas",
+                                  "shrubland"
+                               ],
+                    "PlantAssociations": [
+                                            "creosote",
+                                            "blackbrush",
+                                            "Artemisia filifolia",
+                                            "juniper"
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": 700,
+                  "ElevationMaxMeters": 1800,
+                  "StateCodes": ["AZ","CO","NM","NV","TX","UT","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0022",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon ammophilus"]
+                    },
+                    {
+                       "English": ["Canaan Mountain Penstemon","Canaan Mountain Beardtongue",
+                                    "Sand-loving Penstemon","Sand-loving Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 5,
+                            "HeightMaxCm": 15,
+                            "BloomMonths": [5, 6],
+                            "BloomColors": ["white","blue-lavender","violet"],
+                            "NectarGuides": ["violet"],
+                            "Notes": "fistulose stems"
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": ["deep sand","sandy soils"],
+                    "Terrain": ["dunes","shrubland","woodland"],
+                    "PlantAssociations": ["Wyethia scabra","Ponderosa pine"],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": 1800,
+                  "ElevationMaxMeters": 2200,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49017","49025","49053"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0024",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon angustifolius angustifolius"]
+                    },
+                    {
+                       "English": ["Broad-beard Penstemon","Broad-beard Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 10,
+                            "HeightMaxCm": 40,
+                            "BloomMonths": [],
+                            "BloomColors": ["pink","blue","lavender"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","MT","ND","NE","SD","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },  {
+    "PlantID": "PL0025",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon angustifolius caudatus","Penstemon caudatus"]
+                    },
+                    {
+                       "English": ["Broad-beard Penstemon","Broad-beard Beardtongue",
+                                   "Narrow-leaf Penstemon","Narrow-leaf Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["white","blue"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","KS","NE","NM","OK","SD","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0026",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon angustifolius dulcis"]
+                    },
+                    {
+                       "English": ["Broad-beard Penstemon","Broad-beard Beardtongue",
+                                   "Sweet Penstemon","Sweet Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 10,
+                            "HeightMaxCm": 40,
+                            "BloomMonths": [5,6],
+                            "BloomColors": ["pink"],
+                            "NectarGuides": ["magenta", "violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": ["sandy soils"],
+                    "Terrain": ["dunes","shrubland"],
+                    "PlantAssociations": ["sagebrush,"saltbush","juniper"],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": 1500,
+                  "ElevationMaxMeters": 1750,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49023","49027"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0027",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon angustifolius venosus","Penstemon venosus"]
+                    },
+                    {
+                       "English": ["Broad-beard Penstemon","Broad-beard Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 10,
+                            "HeightMaxCm": 40,
+                            "BloomMonths": [4,5,6],
+                            "BloomColors": ["pink","blue","lavender"],
+                            "NectarGuides": ["magenta", "violet"],
+                            "Notes": "Distinguish from P. caudatus by veined floral bracts"
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": ["sandy soils"],
+                    "Terrain": ["plains","prairie","desert shrubland","woodland","dunes"],
+                    "PlantAssociations": ["blackbrush","sagebrush","piñon-juniper"],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": 1400,
+                  "ElevationMaxMeters": 2300,
+                  "StateCodes": ["AZ","CO","NM","UT"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0028",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon angustifolius vernalensis"]
+                    },
+                    {
+                       "English": ["Broad-beard Penstemon","Broad-beard Beardtongue",
+                                   "Vernal Narrow-leaf Penstemon","Vernal Narrow-leaf Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 10,
+                            "HeightMaxCm": 40,
+                            "BloomMonths": [5,6],
+                            "BloomColors": ["blue","blue-lavender"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": ["sandy soils"],
+                    "Terrain": ["plains","prairie","desert shrubland","woodland"],
+                    "PlantAssociations": ["sagebrush","piñon-juniper","juniper"],
+                    "Notes": "1433770 East Uinta Basin"
+                 },
+      "Range": {
+                  "ElevationMinMeters": 1500,
+                  "ElevationMaxMeters": 1750,
+                  "StateCodes": ["CO", "UT"],
+                  "CountyCodes": ["49009","49047","08103","08081"],
+                  "Distribution": {[40.225,-109.542222]}
+               }
+  },
+  {
+    "PlantID": "PL0030",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon arenicola"]
+                    },
+                    {
+                       "English": ["Red Desert Penstemon","Red Desert Beardtongue",
+                                   "Sand Penstemon","Sand Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 8,
+                            "HeightMaxCm": 18,
+                            "BloomMonths": [5,6],
+                            "BloomColors": ["blue","violet"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": ["sandy soils","white shales"],
+                    "Terrain": ["hillsides","plains","bluffs"],
+                    "PlantAssociations": ["sagebrush"],
+                    "Notes": "1593279 Red Desert Basin"
+                 },
+      "Range": {
+                  "ElevationMinMeters": 1800,
+                  "ElevationMaxMeters": 2400,
+                  "StateCodes": ["WY"],
+                  "CountyCodes": ["56037","56007","56023","56041"],
+                  "Distribution": {[41.824722,-108.286667]}
+               }
+  },
+  {
+    "PlantID": "PL0031",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon aridus"]
+                    },
+                    {
+                       "English": ["Stiff-leaf Penstemon","Stiff-leaf Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["ID","MT","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0036",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon attenuatus pseudoprocerus"]
+                    },
+                    {
+                       "English": ["Small Penstemon","Small Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["blue-violet"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["mesic"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["ID","MT,"WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0037",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon atwoodii"]
+                    },
+                    {
+                       "English": ["Atwood’s Penstemon","Atwood’s Beardtongue",
+                                   "Kaiparowits Penstemon","Kaiparowits Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 14,
+                            "HeightMaxCm": 35,
+                            "BloomMonths": [5,6],
+                            "BloomColors": ["blue","lavender"],
+                            "NectarGuides": ["dark violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": ["sandy soils"],
+                    "Terrain": ["woodland"],
+                    "PlantAssociations": ["piñon-juniper"],
+                    "Notes": "1427925 Kaiparowits Plateau, 1432578 Smoky Mountain"
+                 },
+      "Range": {
+                  "ElevationMinMeters": 1650,
+                  "ElevationMaxMeters": 2000,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49025","49017"],
+                  "Distribution": {[37.622,-111.665],[37.1592238,-111.4197852]}
+               }
+  },
+  {
+    "PlantID": "PL0043",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon barbatus barbatus","Penstemon barbatus puberulus"]
+                    },
+                    {
+                       "English": ["Beard-lip Penstemon","Beard-lip Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 30,
+                            "HeightMaxCm": 100,
+                            "BloomMonths": [6,7,8,9],
+                            "BloomColors": ["orange-red","scarlet","red","crimson"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": ["unspecified"],
+                    "Terrain": ["hillsides"],
+                    "PlantAssociations": ["piñon-juniper","Gambel oak","Ponderosa pine","Douglas fir"],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": 1600,
+                  "ElevationMaxMeters": 2500,
+                  "StateCodes": ["AZ","NM","TX","UT"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0044",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon barbatus torreyi","Penstemon torreyi"]
+                    },
+                    {
+                       "English": ["Torrey's Penstemon","Torrey's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 30,
+                            "HeightMaxCm": 100,
+                            "BloomMonths": [6,7,8,9],
+                            "BloomColors": ["red"],
+                            "NectarGuides": ["red"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": ["gravelly soils"],
+                    "Terrain": ["hillsides"],
+                    "PlantAssociations": ["piñon-juniper","Gambel oak","Ponderosa pine",
+                                          "spruce-fir"],
+                    "Notes": "Eastward from Mogollon Rim through Trans-Pecos"
+                 },
+      "Range": {
+                  "ElevationMinMeters": 1600,
+                  "ElevationMaxMeters": 2500,
+                  "StateCodes": ["AZ","CO","NM","TX","UT"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0045",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon barbatus trichander"]
+                    },
+                    {
+                       "English": ["Beard-lip Penstemon","Beard-lip Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 30,
+                            "HeightMaxCm": 100,
+                            "BloomMonths": [6,7,8],
+                            "BloomColors": ["orange-red","scarlet","red","crimson"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": ["unspecified"],
+                    "Terrain": ["hillsides],
+                    "PlantAssociations": ["piñon-juniper","Gambel oak","Ponderosa pine"],
+                    "Notes": "Four Corners region"
+                 },
+      "Range": {
+                  "ElevationMinMeters": 1600,
+                  "ElevationMaxMeters": 2200,
+                  "StateCodes": ["AZ","CO","NM","UT"],
+                  "CountyCodes": ["49037","08083","35045","04001"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0051",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon bracteatus"]
+                    },
+                    {
+                       "English": ["Platy Penstemon","Platy Beardtongue",
+                                   "Red Canyon Penstemon","Red Canyon Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 3,
+                            "HeightMaxCm": 10,
+                            "BloomMonths": [5,6,7],
+                            "BloomColors": ["blue","lavender","violet"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": ["gravelly soils","talus"],
+                    "Terrain": ["slopes"],
+                    "PlantAssociations": ["Ponderosa pine"],
+                    "Notes": "1451152 Paunsaugunt Plateau"
+                 },
+      "Range": {
+                  "ElevationMinMeters": 2100,
+                  "ElevationMaxMeters": 2500,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49017"],
+                  "Distribution": {[37.4999826,-112.3843701]}
+               }
+  },
+  {
+    "PlantID": "PL0052",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon breviculus","Penstemon jamesii breviculus"]
+                    },
+                    {
+                       "English": ["Short-stem Penstemon","Short-stem Beardtongue",
+                                   "Narrow-mouth Penstemon","Narrow-mouth Beardtongue",
+                                   "Little Penstemon","Little Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 8,
+                            "HeightMaxCm": 20,
+                            "BloomMonths": [5,6],
+                            "BloomColors": ["pink","pinkish blue","lavender","violet"],
+                            "NectarGuides": ["magenta","violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": ["gravelly soils","sandy soils","clay soils"],
+                    "Terrain": ["slopes","woodland"],
+                    "PlantAssociations": ["sagebrush","piñon-juniper"],
+                    "Notes": "Four Corners region"
+                 },
+      "Range": {
+                  "ElevationMinMeters": 1600,
+                  "ElevationMaxMeters": 2000,
+                  "StateCodes": ["AZ","CO","NM","UT"],
+                  "CountyCodes": ["04001","08083","08085","08113","35045","35031","49019","49037","49055"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0057",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon caespitosus caespitosus"]
+                    },
+                    {
+                       "English": ["Mat Penstemon","Mat Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 4,
+                            "HeightMaxCm": 5,
+                            "BloomMonths": [4,5,6,7],
+                            "BloomColors": ["pale blue","blue","blue-lavender"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": ["gravelly soils","clay soils],
+                    "Terrain": ["shrubland","woodland","alpine meadows"],
+                    "PlantAssociations": ["sagebrush","pinyon-juniper","juniper","oak",
+                                            "Ponderosa pine"],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": 1500,
+                  "ElevationMaxMeters": 2600,
+                  "StateCodes": ["CO","UT","WY],
+                  "CountyCodes": ["08015","08037","08049","08051","08057","08077","08081","08093","08103","08107","49009","49013","49047","49051","56007","56023","56035","56037","56041"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0058",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon caespitosus desertipicti","Penstemon desertipicti"
+                                ]
+                    },
+                    {
+                       "English": ["Mat Penstemon","Mat Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 4,
+                            "HeightMaxCm": 5,
+                            "BloomMonths": [4,5,6,7],
+                            "BloomColors": ["blue","blue-lavender"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [
+                                     "sandy soils",
+                                     "clay soils"
+                                  ],
+                    "Terrain": [
+                                  "shrubland",
+                                  "woodland"
+                               ],
+                    "PlantAssociations": [
+                                            "sagebrush",
+                                            "piñon-juniper",
+                                            "pine",
+                                            "juniper",
+                                            "oak"
+                                         ],
+                    "Notes": "1451137 Aquarius Plateau, 1451152 Paunsaugunt Plateau, 1451154 Sevier Plateau"
+                 },
+      "Range": {
+                  "ElevationMinMeters": 1500,
+                  "ElevationMaxMeters": 2800,
+                  "StateCodes": ["AZ","UT"],
+                  "CountyCodes": ["04001","04005","04015","49001","49017","49025","49031","49055"],
+                  "Distribution": {[38.0310966,-111.7029623],[37.4999826,-112.3843701],[38.0913707,-112.1174211]}
+               }
+  },
+  {
+    "PlantID": "PL0059",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon caespitosus perbrevis"]
+                    },
+                    {
+                       "English": [
+                                    "Mat Penstemon",
+                                    "Mat Beardtongue"
+                                  ]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 4,
+                            "HeightMaxCm": 5,
+                            "BloomMonths": [5,6,7,8],
+                            "BloomColors": ["blue","blue-lavender"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": ["sandy soils","clay soils"],
+                    "Terrain": ["shrubland","woodland"],
+                    "PlantAssociations": ["sagebrush","piñon-juniper","pine","juniper","oak"],
+                    "Notes": "1448009 East Tavaputs Plateau, 1448014 West Tavaputs Plateau, 1447008 Wasatch Range, 1451137 Aquarius Plateau"
+                 },
+      "Range": {
+                  "ElevationMinMeters": 2100,
+                  "ElevationMaxMeters": 2900,
+                  "StateCodes": ["CO","UT"],
+                  "CountyCodes": ["08045","49007","49013","49015","49017","49039","49047","49049","49051"],
+                  "Distribution": {[39.6499668,-109.4506795],[39.749964,-110.3507125],
+                                   [39.8216228  -111.7599311],[38.0310966,-111.7029623]}
+               }
+  },
+  {
+    "PlantID": "PL0060",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon caespitosus suffruticosus","Penstemon tusharensis",
+                                 "Penstemon xylus"]
+                    },
+                    {
+                       "English": ["Tushar Penstemon","Tushar Beardtongue",
+                                   "Tushar Range Penstemon","Tushar Range Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 6,
+                            "HeightMaxCm": 12,
+                            "BloomMonths": [6,7,8],
+                            "BloomColors": ["blue","lavender","violet"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": ["gravelly soils","sandy soils"],
+                    "Terrain": ["subalpine slopes"],
+                    "PlantAssociations": ["sagebrush","aspen","pine"],
+                    "Notes": "1446768 Tushar Mountains, 1451148 North Markagunt Plateau"
+                 },
+      "Range": {
+                  "ElevationMinMeters": 2150,
+                  "ElevationMaxMeters": 3050,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49001","49017","49021","49031","49041"],
+                  "Distribution": {[38.3332254,-112.4240521],[38.3162229,-112.374563], 
+                                   [37.553868,-112.7132715]}
+               }
+  },
+  {
+    "PlantID": "PL0068",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon carnosus"]
+                    },
+                    {
+                       "English": ["Fleshy Penstemon","Fleshy Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 12,
+                            "HeightMaxCm": 35,
+                            "BloomMonths": [5,6,7],
+                            "BloomColors": ["pinkish blue","brilliant blue",],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": ["sandy soils"],
+                    "Terrain": ["shrubland","woodland"],
+                    "PlantAssociations": ["piñon-juniper"],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": 1500,
+                  "ElevationMaxMeters": 2500,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49007","49015","49017","49025","49041","49055"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0069",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon caryi"]
+                    },
+                    {
+                       "English": ["Cary's Penstemon","Cary's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "1597104 Bighorn Mountains,789222 Pryor Mountains"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["MT","WY"],
+                  "CountyCodes": ["30009","56003","56033","56043"],
+                  "Distribution": {[44.5002446,-107.2509036],[45.1816197,-108.4788678]}
+               }
+  },
+  {
+    "PlantID": "PL0072",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon cleburnei","Penstemon eriantherus cleburnei"]
+                    },
+                    {
+                       "English": ["Cleburne’s Penstemon","Cleburne’s Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 7,
+                            "HeightMaxCm": 15,
+                            "BloomMonths": [5,6,7],
+                            "BloomColors": ["lavender","violet"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": ["gravelly soils","sandy soils","clay soils"],
+                    "Terrain": ["slopes"],
+                    "PlantAssociations": ["sagebrush-juniper"],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": 1400,
+                  "ElevationMaxMeters": 2500,
+                  "StateCodes": ["UT","WY"],
+                  "CountyCodes": ["49009","56041","56037","56007"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0079",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon comarrhenus"]
+                    },
+                    {
+                       "English": ["Dusty Penstemon","Dusty Beardtongue",
+                                   "Hairy Penstemon","Hairy Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 40,
+                            "HeightMaxCm": 80,
+                            "BloomMonths": [5,6,7],
+                            "BloomColors": ["blue","lavender"],
+                            "NectarGuides": ["violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": ["sandy soils"],
+                    "Terrain": ["woodland"],                               ],
+                    "PlantAssociations": ["sagebrush","piñon-juniper","Gambel oak","Ponderosa pine"],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": 1600,
+                  "ElevationMaxMeters": 2400,
+                  "StateCodes": ["AZ","CO","NM","NV","UT"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0080",
+    "PlantNames": [
+                    {
+                       "Latin": [
+                                  "Penstemon compactus",
+                                  "Penstemon cyananthus compactus"
+                                ]
+                    },
+                    {
+                       "English": [
+                                    "Bear River Range Penstemon",
+                                    "Bear River Range Beardtongue",
+                                    "Cache Penstemon",
+                                    "Cache Beardtongue",
+                                    "Compact Penstemon",
+                                    "Compact Beardtongue"
+                                  ]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 10,
+                            "HeightMaxCm": 20,
+                            "BloomMonths": [6,7,8],
+                            "BloomColors": [
+                                              "blue",
+                                              "violet"
+                                           ],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": ["calcareous rocky soils"],
+                    "Terrain": ["subalpine open ground"],
+                    "PlantAssociations": ["none"],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": 2000,
+                  "ElevationMaxMeters": 3000,
+                  "StateCodes": ["ID","UT"],
+                  "CountyCodes": ["16041","49005"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0081",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon concinnus"]
+                    },
+                    {
+                       "English": ["Tunnel Springs Penstemon","Tunnel Springs Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 10,
+                            "HeightMaxCm": 18,
+                            "BloomMonths": [5,6],
+                            "BloomColors": ["pale blue","lavender","violet"],
+                            "NectarGuides": ["violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": ["alluvial gravel soils"],
+                    "Terrain": ["woodland"],
+                    "PlantAssociations": ["piñon-juniper"],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": 1600,
+                  "ElevationMaxMeters": 2000,
+                  "StateCodes": ["NV","UT"],
+                  "CountyCodes": ["32017","32033","49001","49027"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0083",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon confusus"]
+                    },
+                    {
+                       "English": ["Owens Valley Penstemon","Owens Valley Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 6,
+                            "HeightMaxCm": 30,
+                            "BloomMonths": [4,5,6],
+                            "BloomColors": ["bright pink","magenta","violet"],
+                            "NectarGuides": ["red","magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": ["calcareous gravel soils","sandy soils"],
+                    "Terrain": ["woodland","slopes"],
+                    "PlantAssociations": ["sagebrush","piñon-juniper"],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": 1700,
+                  "ElevationMaxMeters": 2200,
+                  "StateCodes": ["NV","UT"],
+                  "CountyCodes": ["32023","32033","32017","32003","49023","49027","49001","49021","49053","49049","49041","49031"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0084",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon crandallii atratus"]
+                    },
+                    {
+                       "English": ["Crandall's Penstemon","Crandall's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["blue"],
+                            "NectarGuides": ["magenta","violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "1442379 La Sal Mountains"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": [""],
+                  "CountyCodes": ["49019"],
+                  "Distribution": {[38.4719646,-109.2504926]}
+               }
+  },
+  {
+    "PlantID": "PL0085",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon crandallii crandallii","Penstemon suffrutescens"]
+                    },
+                    {
+                       "English": ["Crandall's Penstemon","Crandall's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": [""],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "1438111 Abajo Mountains"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","UT"],
+                  "CountyCodes": ["08007","08015","08029","08033","08037","08045","08047","08049",
+                                  "08051","08053","08077","08083","08085","08091","08093","08107",
+                                  "08119","49037"],
+                  "Distribution": {[37.8684732,-109.5226877]}
+               }
+  },
+  {
+    "PlantID": "PL0091",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon cyananthus cyananthus"]
+                    },
+                    {
+                       "English": ["Wasatch Penstemon","Wasatch Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["brilliant blue","blue-violet"],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "1447008 Wasatch Range,1431019 Oquirrh Mountains"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": [],
+                  "Distribution": {[39.8216228,-111.7599311],[40.5774454,-112.1824433]}
+               }
+  },
+  {
+    "PlantID": "PL0092",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon cyananthus subglaber","Penstemon fremontii subglaber",
+                                 "Penstemon holmgrenii"]
+                    },
+                    {
+                       "English": ["Wasatch Penstemon","Wasatch Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["ID","UT","WY"],
+                  "CountyCodes":["49003","49023","49049","56023","56039","56041","16031","16043",
+                                 "16077","16071","16005","16041","16011","16019","16065","16081",
+                                 "16051","16029","16007"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0093",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon cyaneus"]
+                    },
+                    {
+                       "English": ["Blue Penstemon","Blue Beardtongue",
+                                   "Dark Blue Penstemon","Dark Blue Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["ID","MT","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0094",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon cyanocaulis"]
+                    },
+                    {
+                       "English": ["Blue-stem Penstemon","Blue-stem Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["blue","blue-violet"],
+                            "NectarGuides": ["violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","UT"],
+                  "CountyCodes": ["08077","08085","08113","49007","49015","49019","49037"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0095",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon cyathophorus"]
+                    },
+                    {
+                       "English": ["Middle Park Penstemon","Middle Park Beardtongue",
+                                   "North Park Penstemon","North Park Beardtongue",
+                                   "Sagebrush Penstemon","Sagebrush Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["pinkish blue","blue-lavender","lavender"],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO",,"WY"],
+                  "CountyCodes": ["08049","08057","08117","56007"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0104",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon deustus deustus"]
+                    },
+                    {
+                       "English": ["Scabland Penstemon","Scabland Beardtongue",
+                                   "Hot-rock Penstemon","Hot-rock Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["white","cream","pale lavender"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CA","ID","MT","NV","OR","WA","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0105",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon deustus pedicellatus","Penstemon deustus heterander"]
+                    },
+                    {
+                       "English": ["Scabland Penstemon","Scabland Beardtongue",
+                                   "Hot-rock Penstemon","Hot-rock Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": [""],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CA","NV","OR","UT"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0113",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon dolius"]
+                    },
+                    {
+                       "English": ["Jones's Penstemon","Jones's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["light blue","blue","blue-violet"],
+                            "NectarGuides": ["blue","magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["NV","UT"],
+                  "CountyCodes": ["32007","32023","32033","49001","49023","49027","49039","49045"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0114",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon duchesnensis","Penstemon dolius duchesnensis"]
+                    },
+                    {
+                       "English": ["Duchesne Penstemon","Duchesne Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["blue","blue-violet","violet"],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "1433770 Uinta Basin"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49013"],
+                  "Distribution": {[40.2249632,-109.5423575]}
+               }
+  },
+  {
+    "PlantID": "PL0115",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon eatonii eatonii"]
+                    },
+                    {
+                       "English": ["Firecracker Penstemon","Firecracker Beardtongue",
+                                   "Eaton's Penstemon","Eaton's Beardtongue","Eaton's Firecracker"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["scarlet","red"],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": 1200,
+                  "ElevationMaxMeters": 2900,
+                  "StateCodes": ["AZ","CA","CO","ID","NM","NV","UT","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0117",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon eatonii undosus"]
+                    },
+                    {
+                       "English": ["Firecracker Penstemon","Firecracker Beardtongue",
+                                   "Eaton's Penstemon","Eaton's Beardtongue","Eaton's Firecracker"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["scarlet","red"],
+                            "NectarGuides": ["none"],
+                            "Notes": "inserted stamen and anthers"
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AZ","CA","CO","NM","NV","UT"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0122",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon eriantherus eriantherus"]
+                    },
+                    {
+                       "English": ["Fuzzy-tongue Penstemon","Fuzzy-tongue Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["pink","lavender","violet"],
+                            "NectarGuides": ["magenta","violet"],
+                            "Notes": "very sticky glandular hairs on flowers"
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "Arid Transition Zone"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","ID","MT","ND","NE","SD","WA","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0132",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon flowersii"]
+                    },
+                    {
+                       "English": ["Flowers's Penstemon","Flowers's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["pink"],
+                            "NectarGuides": ["rose pink"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49013","49047"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0133",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon franklinii"]
+                    },
+                    {
+                       "English": ["Ben Franklin's Penstemon","Ben Franklin's Beardtongue",
+                                   "Franklin's Penstemon","Franklin's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "1426492 Cedar Valley"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49021"],
+                  "Distribution": {[37.8719094,-113.0714716}
+               }
+  },
+  {
+    "PlantID": "PL0134",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon fremontii"]
+                    },
+                    {
+                       "English": ["Fremont's Penstemon","Fremont's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": ["barren slopes","shrubland"],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","UT","WY"],
+                  "CountyCodes": ["08081","08103","49013","49047","56041"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0135",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon luculentus"]
+                    },
+                    {
+                       "English": ["Fremont's Penstemon","Fremont's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": [""],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO"],
+                  "CountyCodes": ["08045","08103"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0138",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon fruticosus fruticosus"]
+                    },
+                    {
+                       "English": ["Bush Penstemon","Bush Beardtongue",
+                                   "Shrubby Penstemon","Shrubby Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["blue-lavender","lavender"],
+                            "NectarGuides": ["blue-lavender"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "Arid Transition Zone, Hudsonian Zone"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["ID","MT","OR","WA","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0143",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon gibbensii"]
+                    },
+                    {
+                       "English": ["Gibbens's Penstemon","Gibbens's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","UT","WY"],
+                  "CountyCodes": ["08081","08103","49009","56007","56037"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0144",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon glaber alpinus","Penstemon alpinus",
+                                 "Penstemon alpinus magnus"]
+                    },
+                    {
+                       "English": ["Alpine Penstemon","Alpine Beardtongue",
+                                   "Alpine Saw-sepal Penstemon","Alpine Saw-sepal Beardtongue",
+                                   "Blue Penstemon","Blue Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","NM","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0146",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon glaber glaber"]
+                    },
+                    {
+                       "English": ["Saw-sepal Penstemon","Saw-sepal Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["pale blue","blue"],
+                            "NectarGuides": ["pale violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["MT","ND","NE","SD","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0152",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon goodrichii"]
+                    },
+                    {
+                       "English": ["Goodrich’s Penstemon","Goodrich’s Beardtongue",
+                                   "Lapoint Penstemon","Lapoint Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49047","49013"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0155",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon gracilis gracilis","Penstemon glaucus"]
+                    },
+                    {
+                       "English": ["Lilac Penstemon","Lilac Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","IA","MI","MN","MT","ND","NE","NM","SD","WI","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0157",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon grahamii"]
+                    },
+                    {
+                       "English": ["Graham's Penstemon","Graham's Beardtongue",
+                                   "Uinta Penstemon","Uinta Beardtongue",
+                                   "Uintah Penstemon","Uintah Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","UT"],
+                  "CountyCodes": ["08103","49047","49013"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0158",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon grandiflorus","Penstemon bradburii"]
+                    },
+                    {
+                       "English": ["Large Penstemon","Large Beardtongue",
+                                   "Large-flowered Penstemon","Large-flowered Beardtongue",
+                                   "Shell-leaf Penstemon","Shell-leaf Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["mesic"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","CT","IA","IL","IN","KS","MI","MN","MO","MT","ND","NE","OH",
+                                 "OK","SD","TX","WI","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0166",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon haydenii"]
+                    },
+                    {
+                       "English": ["Blowout Penstemon","Blowout Beardtongue",
+                                   "Hayden's Penstemon","Hayden's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": "fragrant"
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": ["deep sand"],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "endangered"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["NE","WY"],
+                  "CountyCodes": ["31013","31031","31069","31091","31123","31161","56007"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0174",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon humilis brevifolius"]
+                    },
+                    {
+                       "English": ["Low Penstemon","Low Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "1447008 Wasatch Range"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49003","49005","49023","49029","49033","49035","49039","49041",
+                                  "49045","49049","49051","49057"],
+                  "Distribution": {[39.8216228,-111.7599311]}
+               }
+  },
+  {
+    "PlantID": "PL0175",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon humilis humilis","Penstemon cinereus",
+                                 "Penstemon cinereus foliatus","Penstemon decurvus",
+                                 "Penstemon humilis deserticus"]
+                    },
+                    {
+                       "English": ["Low Penstemon","Low Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["brilliant blue","blue-lavender","violet"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CA","CO","ID","NM","NV","OR","UT","WA","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0176",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon humilis obtusifolius"]
+                    },
+                    {
+                       "English": ["Low Penstemon","Low Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["blue","violet"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": ["woodland"],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "1455157 Zion National Park"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49053"],
+                  "Distribution": {[37.298237,-113.026442]}
+               }
+  },
+  {
+    "PlantID": "PL0177",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon idahoensis"]
+                    },
+                    {
+                       "English": ["Idaho Penstemon","Idaho Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "Goose Creek basin"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["ID","UT"],
+                  "CountyCodes": ["16031","49003"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0178",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon immanifestus"]
+                    },
+                    {
+                       "English": ["Steptoe Valley Penstemon","Steptoe Valley Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["pink","lavender"],
+                            "NectarGuides": ["red","magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "861585 Steptoe Valley"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["NV","UT"],
+                  "CountyCodes": ["32007","32011","32015","32023","32033","49023","49027","49045"],
+                  "Distribution": {[38.8513343,-114.8230665]}
+               }
+  },
+  {
+    "PlantID": "PL0190",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon laevis"]
+                    },
+                    {
+                       "English": ["Southwestern Penstemon","Southwestern Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AZ","UT"],
+                  "CountyCodes": ["04005","04015","49017","49025","49053"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0192",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon laricifolius exilifolius","Penstemon exilifolius"]
+                    },
+                    {
+                       "English": ["Larch-leaf Penstemon","Larch-leaf Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["white"],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","WY"],
+                  "CountyCodes": ["08069","56001"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0193",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon laricifolius laricifolius"]
+                    },
+                    {
+                       "English": ["Larch-leaf Penstemon","Larch-leaf Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["pink","lavender"],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["MT","WY"],
+                  "CountyCodes": ["30003","30009","56003","56007","56013","56017",
+                                  "56025","56035","56037","56043"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0198",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon leiophyllus leiophyllus"]
+                    },
+                    {
+                       "English": ["Smooth-leaf Penstemon","Smooth-leaf Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta","violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49017","49012","49025","49053"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0200",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon lentus albiflorus"]
+                    },
+                    {
+                       "English": ["Handsome Penstemon","Handsome Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "1438111 Abajo Mountains"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49037"],
+                  "Distribution": {[37.8684732,-109.5226877]}
+               }
+  },
+  {
+    "PlantID": "PL0201",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon lentus lentus"]
+                    },
+                    {
+                       "English": ["Handsome Penstemon","Handsome Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "Four Corners region"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AZ","CO","NM","UT"],
+                  "CountyCodes": ["04001","04017","08007","08033","08083","08085",
+                                  "08113","35045","35031","49037"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0202",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon leonardii higginsii","Penstemon higginsii"]
+                    },
+                    {
+                       "English": ["Higgins's Penstemon","Higgins's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AZ","NV","UT"],
+                  "CountyCodes": ["04015","32017","32033","49021","49053"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0203",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon leonardii leonardii","Penstemon leonardii"]
+                    },
+                    {
+                       "English": ["Leonard's  Penstemon","Leonard's  Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["ID","UT"],
+                  "CountyCodes": ["16007","49005","49011","49023","49027","49029","49033","49035",
+                                  "49039","49043","49049","49051","49057"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0204",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon leonardii patricus","Penstemon patricus"]
+                    },
+                    {
+                       "English": ["Dad's Penstemon","Dad's Beardtongue",
+                                   "Leonard's  Penstemon","Leonard's  Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["NV","UT"],
+                  "CountyCodes": ["32033","49023","49027","49045"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0205",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon tidestromii","Penstemon leptanthus"]
+                    },
+                    {
+                       "English": ["Sevier Plateau Penstemon","Sevier Plateau Beardtongue",
+                                   "Tidestrom's Penstemon","Tidestrom's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "1445298 San Pitch Mountains"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49023","49039"],
+                  "Distribution": {[39.4549179,-111.7730984]}
+               }
+  },
+  {
+    "PlantID": "PL0210",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon linarioides sileri","Penstemon linarioides viridis"]
+                    },
+                    {
+                       "English": ["Siler's Penstemon","Siler's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AZ","NV","UT"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0211",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon longiflorus","Penstemon cyananthus longiflorus"]
+                    },
+                    {
+                       "English": ["Long-flower Penstemon","Long-flower Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49001","49023","49027","49031","49041","49045"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0213",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon marcusii","Penstemon moffatii marcusii"]
+                    },
+                    {
+                       "English": ["Jones's Penstemon","Jones's Beardtongue",
+                                   "Marcus Jones's Penstemon","Marcus Jones's Beardtongue",
+                                   "Marcus's Penstemon","Marcus's Beardtongue",
+                                   "Price Penstemon","Price Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49007","49015"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0217",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon moffatii moffatii","Penstemon moffatii"]
+                    },
+                    {
+                       "English": ["Moffatt's Penstemon","Moffatt's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","UT"],
+                  "CountyCodes": ["08029","08049","08085","08077","49017","49019","49055"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0221",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon montanus montanus"]
+                    },
+                    {
+                       "English": ["Cord-root Penstemon","Cord-root Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["blue","pale lavender"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["ID","MT","UT","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0223",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon mucronatus","Penstemon pachyphyllus mucronatus"]
+                    },
+                    {
+                       "English": ["Sheep Creek Penstemon","Sheep Creek Beardtongue",
+                                   "Mucronate Penstemon","Mucronate Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","UT","WY"],
+                  "CountyCodes": ["08081","08103","49009","49047","56007","56037"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0226",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon nanus"]
+                    },
+                    {
+                       "English": ["Dwarf Penstemon","Dwarf Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49001","49027"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0227",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon navajoa"]
+                    },
+                    {
+                       "English": ["Navajo Mountain Penstemon","Navajo Mountain Beardtongue",
+                                   "Navajo Penstemon","Navajo Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "8537 Navajo Mountain"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49037],
+                  "Distribution": {[37.0341566,-110.8695747]}
+               }
+  },
+  {
+    "PlantID": "PL0233",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon nitidus nitidus"]
+                    },
+                    {
+                       "English": ["Wax-leaf Penstemon","Wax-leaf Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["scarlet","red"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","MT","ND","SD","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0238",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon ophianthus","Penstemon jamesii ophianthus"]
+                    },
+                    {
+                       "English": ["Arizona Penstemon","Arizona Beardtongue",
+                                   "Coiled Anther Penstemon","Coiled Anther Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["dark violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "Four Corners region"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AZ","CO","NM","UT"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0241",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon pachyphyllus congestus",
+                                 "Penstemon acuminatus congestus","Penstemon congestus"]
+                    },
+                    {
+                       "English": ["Thick-leaf Penstemon","Thick-leaf Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["blue","blue-lavender","violet"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AZ","NV","UT"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0243",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon pachyphyllus pachyphyllus"]
+                    },
+                    {
+                       "English": ["Thick-leaf Penstemon","Thick-leaf Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["NM","UT"],
+                  "CountyCodes": ["49013","49009","49047","08103"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0246",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon palmeri eglandulosus"]
+                    },
+                    {
+                       "English": ["Scented Penstemon","Scented Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AZ","UT"],
+                  "CountyCodes": ["04005","04015","49015","49017","49019","49021",
+                                  "49025","49037","49053","49055"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0248",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon palmeri palmeri","Penstemon palmeri typicus"]
+                    },
+                    {
+                       "English": ["Palmer's Penstemon","Palmer's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "Widely seeded on roadsides"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AZ","CA","CO","ID","NM","NV","UT","WA","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0253",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon parvus"]
+                    },
+                    {
+                       "English": ["Aquarius Plateau Penstemon","Aquarius Plateau Beardtongue",
+                                   "Small Penstemon","Small Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": 5,
+                            "HeightMaxCm": 20,
+                            "BloomMonths": [5,6,7],
+                            "BloomColors": ["blue","violet"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "1451137 Aquarius Plateau"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49017","49031","49041"],
+                  "Distribution": {[38.0310966,-111.7029623]}
+               }
+  },
+  {
+    "PlantID": "PL0255",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon patricus"]
+                    },
+                    {
+                       "English": []
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": [],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["NV","UT"],
+                  "CountyCodes": ["32033","49023","49045","49027"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0257",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon paysoniorum"]
+                    },
+                    {
+                       "English": ["Payson's Penstemon","Payson's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["blue","lavender","violet"],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["WY"],
+                  "CountyCodes": ["56013","56023","56025","56035","56037","56041"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0263",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon petiolatus"]
+                    },
+                    {
+                       "English": ["Crevice Penstemon","Crevice Beardtongue",
+                                   "Lime Penstemon","Lime Beardtongue",
+                                   "Petiolate Penstemon","Petiolate Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["pink","bright pink","rose pink"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AZ","NV,"UT"],
+                  "CountyCodes": ["04015","32003","49053"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0265",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon pinorum"]
+                    },
+                    {
+                       "English": ["Pine Valley Penstemon","Pine Valley Beardtongue",
+                                   "Pinewoods Penstemon","Pinewoods Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "1444416 Pine Valley Mountains"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49021","49053"],
+                  "Distribution": {[37.4024803,-113.3910638]}
+               }
+  },
+  {
+    "PlantID": "PL0266",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon platyphyllus","Penstemon heterophyllus latifolius"]
+                    },
+                    {
+                       "English": ["Broad-leaf Penstemon","Broad-leaf Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["lavender"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49011","49013","49035","49049","49057"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0268",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon procerus aberrans","Penstemon confertus aberrans"]
+                    },
+                    {
+                       "English": ["Pincushion Penstemon","Pincushion Beardtongue",
+                                   "Small-flowered Penstemon","Small-flowered Beardtongue",
+                                   "Little-flower Penstemon","Little-flower Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["mesic","xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "1451137 Aquarius Plateau, 1446768 Tushar Mountains, 1451158 Wasatch Plateau"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49001","49031","49041","49051","49017","49055"],
+                  "Distribution": {[38.083333,-111.5],[38.369167,-112.371389],
+                                   [39.3116307,-111.3368451]}
+               }
+  },
+  {
+    "PlantID": "PL0272",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon procerus procerus","Penstemon confertus procerus"]
+                    },
+                    {
+                       "English": ["Pincushion Penstemon","Pincushion Beardtongue",
+                                   "Small-flowered Penstemon","Small-flowered Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["mesic","xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AK","CO","ID","MT","ND","OR","UT","WA","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0276",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon pseudoputus","Penstemon virgatus pseudoputus"]
+                    },
+                    {
+                       "English": ["Kaibab Penstemon","Kaibab Beardtongue",
+                                   "Kaibab Plateau Penstemon","Kaibab Plateau Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "6583 Kaibab Plateau, 13282 Walhalla Plateau, 1451148 Markagunt Plateau"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AZ","UT"],
+                  "CountyCodes": ["04005","49017","49025"],
+                  "Distribution": {[36.5650278,-112.1675234],[36.1849904,-111.9671987],
+                                   [37.553868  -112.7132715]}
+               }
+  },
+  {
+    "PlantID": "PL0283",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon radicosus"]
+                    },
+                    {
+                       "English": ["Mat-root Penstemon","Mat-root Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["blue","dark blue","violet"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","ID","MT","NV","UT","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },  
+  {
+    "PlantID": "PL0293",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon rostriflorus","Penstemon bridgesii",
+                                 "Penstemon bridgesii amplexicaulis"]
+                    },
+                    {
+                       "English": ["Beaked Penstemon","Beaked Beardtongue",
+                                   "Bridge's Penstemon","Bridge's Beardtongue",
+                                   "Mountain Scarlet Penstemon","Mountain Scarlet Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["orange-red","scarlet"],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AZ","CA","CO","NM","NV","UT"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },  
+  {
+    "PlantID": "PL0296",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon rydbergii aggregatus","Penstemon aggregatus"]
+                    },
+                    {
+                       "English": ["Meadow Penstemon","Meadow Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["mesic","xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AZ","CO","ID","MT","UT","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0298",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon rydbergii rydbergii","Penstemon rydbergii varians"]
+                    },
+                    {
+                       "English": ["Swollen Penstemon","Swollen Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["mesic","xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AZ","CO","ID","MT","NM","NV","OR","UT","WA","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0299",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon saxosorum"]
+                    },
+                    {
+                       "English": ["Upland Penstemon","Upland Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["blue","blue-violet"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "Montane Zone"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0301",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon scariosus albifluvis"]
+                    },
+                    {
+                       "English": ["White River Penstemon","White River Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","UT"],
+                  "CountyCodes": ["08103","49047"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0302",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon scariosus cyanomontanus"]
+                    },
+                    {
+                       "English": ["Neese's Blue Mountain Penstemon",
+                                   "Neese's Blue Mountain Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["blue","blue-violet"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","UT"],
+                  "CountyCodes": ["08081","49047"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0303",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon scariosus garrettii","Penstemon garrettii"]
+                    },
+                    {
+                       "English": ["Garrett's Penstemon","Garrett's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["blue"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","UT","WY"],
+                  "CountyCodes": ["08081","49007","49009","49013","49019","49047",
+                                  "49049","49051","56037","56041"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0304",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon scariosus scariosus"]
+                    },
+                    {
+                       "English": []
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "1451137, Aquarius Plateau, 1451143, Fish Lake Plateau, 1451158, Wasatch Plateau"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49007","49013","49015","49019","49023","49031",
+                                  "49039","49041","49047","49055"],
+                  "Distribution": {[38.0310966,-111.7029623],[38.6135856,-111.7321339],
+                                   [39.3116307  -111.3368451]}
+               }
+  },
+  {
+    "PlantID": "PL0305",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon secundiflorus secundiflorus","Penstemon unilateralis"]
+                    },
+                    {
+                       "English": ["One-side Penstemon","One-side Beardtongue",
+                                   "Sidebells Penstemon","Sidebells Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["red","magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "Rocky Mountain Front Range"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","NM","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0308",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon sepalulus","Penstemon azureus ambiguus"]
+                    },
+                    {
+                       "English": ["Little-cup Penstemon","Little-cup Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["lavender","violet"],
+                            "NectarGuides": ["violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49023","49041","49049","49053"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0312",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon speciosus","Penstemon speciosus kennedyi"]
+                    },
+                    {
+                       "English": ["Royal Penstemon","Royal Beardtongue",
+                                   "Sagebrush Penstemon","Sagebrush Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["blue"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": "Highly polymorphic"
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CA","ID","NV","OR","UT","WA"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0317",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon strictiformis","Penstemon strictus strictiformis"]
+                    },
+                    {
+                       "English": ["Mancos Penstemon","Mancos Beardtongue",
+                                   "Stiff Penstemon","Stiff Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "Four Corners region"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AZ","CO","NM","UT"],
+                  "CountyCodes": ["04001","08083","35045","49037"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0318",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon strictus","Penstemon strictus angustus"]
+                    },
+                    {
+                       "English": ["Rocky Mountain Penstemon","Rocky Mountain Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AZ","CO","NM","UT","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0319",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon subglaber","Penstemon glaber utahensis"]
+                    },
+                    {
+                       "English": ["Northern Smooth Penstemon","Northern Smooth Beardtongue",
+                                   "Smooth Penstemon","Smooth Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["mesic","xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["ID","UT","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0327",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon thompsoniae","Penstemon pumilus thompsoniae",
+                                 "Penstemon thompsoniae desperatus","Penstemon thompsoniae jaegeri"]
+                    },
+                    {
+                       "English": ["Jaeger's Penstemon","Jaeger's Beardtongue",
+                                   "Thompson's Penstemon","Thompson's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AZ","CA","NV","UT"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0336",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon uintahensis"]
+                    },
+                    {
+                       "English": ["Uinta Mountain Penstemon","Uinta Mountain Beardtongue",
+                                   "Uintah Mountain Penstemon","Uintah Mountain Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49009","49013","49043","49047"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0337",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon virgatus asa-grayi"]
+                    },
+                    {
+                       "English": ["Upright Blue Penstemon","Upright Blue Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["pinkish lavender","blue-lavender","lavender"],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "Rocky Mountain Front Range"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","NM","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0338",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon utahensis"]
+                    },
+                    {
+                       "English": ["Carmine Penstemon","Carmine Beardtongue",
+                                   "Utah Firecracker","Utah Penstemon","Utah Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["pink","red","crimson"],
+                            "NectarGuides": ["red"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": [""],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "Colorado River basin"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AZ","CA","CO","NV","UT"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0341",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon virens"]
+                    },
+                    {
+                       "English": ["Blue Mist Penstemon","Blue Mist Beardtongue",
+                                   "Front Range Penstemon","Front Range Beardtongue",
+                                   "Green Penstemon","Green Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["blue","blue-lavender","violet"],
+                            "NectarGuides": ["magenta","blue-violet"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": "Rocky Mountain Front Range"
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0343",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon wardii"]
+                    },
+                    {
+                       "English": ["Ward’s Penstemon","Ward’s Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["blue","lavender"],
+                            "NectarGuides": ["lavender"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["unspecified"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["UT"],
+                  "CountyCodes": ["49027","49031","49039","49041"],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0345",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon watsonii"]
+                    },
+                    {
+                       "English": ["Watson's Penstemon","Watson's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["magenta"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AZ","CO","ID","NV","UT","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0346",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon whippleanus"]
+                    },
+                    {
+                       "English": ["Whipple's Penstemon","Whipple's Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": ["white","cream","pale blue","lavender","blue-violet",
+                                            "wine-lavender","brown-violet","black-violet"],
+                            "NectarGuides": ["white","lavender","violet"],
+                            "Notes": "contrasting nectar guides"
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["mesic"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["AZ","CO","ID","MT","NM","UT","WY"],
+                  "CountyCodes": [],
+                  "Distribution": {}
+               }
+  },
+  {
+    "PlantID": "PL0349",
+    "PlantNames": [
+                    {
+                       "Latin": ["Penstemon yampaensis","Penstemon acaulis yampaënsis"]
+                    },
+                    {
+                       "English": ["Juniper Penstemon","Juniper Beardtongue",
+                                   "Yampa Penstemon","Yampa Beardtongue"]
+                    }
+                  ],
+      "PlantAttributes": {
+                            "HeightMinCm": ,
+                            "HeightMaxCm": ,
+                            "BloomMonths": [],
+                            "BloomColors": [
+                                              "",
+                                              "",
+                                              ""
+                                           ],
+                            "NectarGuides": ["none"],
+                            "Notes": ""
+                         },
+      "Habitat": {
+                    "SoilMoisture": ["xeric"],
+                    "Substrates": [""],
+                    "Terrain": [
+                                  "",
+                                  ""
+                               ],
+                    "PlantAssociations": [
+                                            "",
+                                            ""
+                                         ],
+                    "Notes": ""
+                 },
+      "Range": {
+                  "ElevationMinMeters": ,
+                  "ElevationMaxMeters": ,
+                  "StateCodes": ["CO","UT,"WY"],
+                  "CountyCodes": ["08081","49009","49047","56037"],
+                  "Distribution": {}
+               }
+  },
+]
