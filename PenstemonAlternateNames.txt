@@ -304,6 +304,7 @@ Penstemon laevigatus deamii|Latin|PL0099
 Deam's Penstemon|English|PL0099
 Deam's Beardtongue|English|PL0099
 Penstemon virgatus arizonicus|Latin|PL0100
+Penstemon hallii arizonicus|Latin|PL0100
 Deaver’s Penstemon|English|PL0100
 Deaver’s Beardtongue|English|PL0100
 Mount Graham Penstemon|English|PL0100
@@ -355,6 +356,8 @@ Rocky Ledge Beardtongue|English|PL0118
 Penstemon whitedii dayanus|Latin|PL0119
 Fuzzy-tongue Beardtongue|English|PL0119,PL0121
 Fuzzy-tongue Penstemon|English|PL0119,PL0121
+Crested-tongue Penstemon|English|PL0119,PL0121
+Crested-tongue Beardtongue|English|PL0119,PL0121
 Penstemon ternata|Latin|PL0120
 Penstemon ternatus|Latin|PL0120
 Blue-stem Bush-beardtongue|English|PL0120
@@ -372,6 +375,7 @@ Glaucous Penstemon|English|PL0124
 Glaucous Beardtongue|English|PL0124
 Fendler's Penstemon|English|PL0125
 Fendler's Beardtongue|English|PL0125
+Penstemon laetus filiformis|Latin|PL0126
 Thread-leaf Penstemon|English|PL0126
 Thread-leaf Beardtongue|English|PL0126
 Greater Yellow Penstemon|English|PL0127
